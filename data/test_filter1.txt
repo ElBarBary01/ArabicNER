@@ -5338,8 +5338,8 @@ $#$ O
 بيرزيت I-ORG B-GPE
 رقم O
 38 O
-/ I-ORDINAL
-67 I-ORDINAL
+/ O
+67 O
 بتاريخ B-DATE
 ( I-DATE
 8 I-DATE
@@ -5526,8 +5526,8 @@ $#$ O
 بيرزيت I-ORG B-GPE
 رقم O
 32 O
-/ I-ORDINAL
-67 I-ORDINAL
+/ O
+67 O
 بتاريخ B-DATE
 ( I-DATE
 13 I-DATE
