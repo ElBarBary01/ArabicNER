@@ -223,7 +223,7 @@ io I-WEBSITE
 معك O
 بشوي O
 شي O
-تلات B-CARDINAL
+تلات O
 مراحل O
 عالفحم O
 ، O
@@ -337,8 +337,8 @@ io I-WEBSITE
 العام I-OCC
 حول O
 بناء O
-حائط B-FAC
-المبكى I-FAC
+حائط O
+المبكى O
 عام B-DATE
 ( I-DATE
 1929 I-DATE
@@ -392,7 +392,7 @@ appstore O
 عن O
 الأونروا B-ORG
 رقم O
-110 B-ORDINAL
+110 O
 ( O
 15 B-DATE
 / I-DATE
@@ -408,7 +408,7 @@ appstore O
 عن O
 الأونروا B-ORG
 رقم O
-113 B-ORDINAL
+113 O
 ( O
 1986 B-DATE
 / I-DATE
@@ -449,7 +449,7 @@ js O
 . O
 , O
 
-1 B-ORDINAL
+1 O
 أهمّيّة O
 الكتيبه O
 باللّغه O
@@ -486,7 +486,7 @@ js O
 
 العلما O
 اللغة O
-التانية B-ORDINAL
+التانية O
 بتنحصر O
 للاستعمال O
 اليومي O
@@ -517,7 +517,7 @@ js O
 . O
 
 [ O
-8 B-CARDINAL
+8 O
 ] O
 يرجع O
 سبب O
@@ -555,7 +555,7 @@ js O
 عن O
 الأونروا B-ORG
 رقم O
-74 B-ORDINAL
+74 O
 نيسان B-DATE
 ( I-DATE
 1984 I-DATE
@@ -593,7 +593,7 @@ js O
 اللبنانيه I-ORG
 الأميركيه I-ORG
 ، O
-100 B-CARDINAL
+100 O
 تلميز O
 لبنانيي B-NORP
 تّاخدو O
@@ -612,7 +612,7 @@ js O
 عن O
 الأونروا B-ORG
 رقم O
-84 B-ORDINAL
+84 O
 ( B-DATE
 15 I-DATE
 / I-DATE
@@ -644,7 +644,7 @@ js O
 عن O
 الأونروا B-ORG
 رقم O
-89 B-ORDINAL
+89 O
 ( O
 1 B-DATE
 / I-DATE
@@ -676,7 +676,7 @@ wikihow O
 العِرِسْ O
 مَعْمول O
 من O
-خمسين B-CARDINAL
+خمسين O
 طابق O
 كرمال O
 نفرجي O
@@ -699,7 +699,7 @@ wikihow O
 . O
 , O
 
-الثالث B-ORDINAL
+الثالث O
 : O
 إسمع O
 . O
@@ -729,9 +729,9 @@ seo O
 افضل O
 في O
 الصفحات O
-الأولى B-ORDINAL
+الأولى O
 والنتائج O
-الأولى B-ORDINAL
+الأولى O
 في O
 جوجل B-WEBSITE
 و O
@@ -769,8 +769,8 @@ excel O
 من B-DATE
 يومين I-DATE
 إلى O
-8 B-CARDINAL
-أيام I-CARDINAL
+8 O
+أيام O
 وبالإضافة O
 إلى O
 وجود O
@@ -843,8 +843,8 @@ sy I-WEBSITE
 مدينة B-GPE
 القدس I-GPE
 : O
-باب B-FAC
-الساهرة I-FAC
+باب O
+الساهرة O
 . O
 
 اجيال O
@@ -908,7 +908,7 @@ fixes O
 اخبار O
 الأونروا B-ORG
 عدد O
-343 B-ORDINAL
+343 O
 ( O
 27 B-DATE
 / I-DATE
@@ -925,7 +925,7 @@ fixes O
 اخبار O
 الأونروا B-ORG
 عدد O
-111 B-ORDINAL
+111 O
 ( O
 1986 B-DATE
 ) O
@@ -958,7 +958,7 @@ myint O
 اخبار O
 الأونروا B-ORG
 عدد O
-46 B-ORDINAL
+46 O
 ، O
 ايار B-DATE
 ( I-DATE
@@ -969,7 +969,7 @@ myint O
 let O
 times O
 #ERROR! O
-3 B-CARDINAL
+3 O
 ; O
 , O
 
@@ -1001,7 +1001,7 @@ times O
 14 B-DATE
 سنة I-DATE
 الي O
-الان B-TIME
+الان O
 عمر B-DATE
 21 I-DATE
 مازلت O
@@ -1024,7 +1024,7 @@ times O
 لا O
 يعلمون O
 اللغة O
-الانجليزية B-LANGUAGE
+الانجليزية O
 لذا O
 انار O
 بجانب O
@@ -1036,14 +1036,14 @@ times O
 الناس O
 البرمجة O
 بالغه O
-العربية B-LANGUAGE
+العربية O
 مع O
 توفر O
 ترجمه O
 فورية O
 الي O
 اللغه O
-الانجليزية B-LANGUAGE
+الانجليزية O
 انا O
 هدفي O
 تقديم O
@@ -1128,7 +1128,7 @@ duolingo O
 اخبار O
 الأونروا B-ORG
 عدد O
-64 B-ORDINAL
+64 O
 ، O
 تشرين B-DATE
 الاول I-DATE
@@ -1206,10 +1206,10 @@ python O
 تعلم O
 البرمجة O
 في O
-اليوم B-TIME
-ساعة B-TIME
+اليوم O
+ساعة O
 او O
-ساعتين B-TIME
+ساعتين O
 وماذا O
 تريد O
 ان O
@@ -1237,7 +1237,7 @@ python O
 ياصديقي O
 , O
 
-5 B-CARDINAL
+5 O
 udacity B-WEBSITE
 , O
 
@@ -1262,10 +1262,10 @@ udacity B-WEBSITE
 البيت O
 كل O
 يوم B-DATE
-ساعتين B-TIME
+ساعتين O
 عالطريق O
 و O
-ساعتين B-TIME
+ساعتين O
 خصوصي O
 . O
 
@@ -1342,7 +1342,7 @@ pilot O
 والطبيعة O
 ، O
 وبيطلبوا O
-5 B-CARDINAL
+5 O
 هوتّ O
 دوغ O
 ( O
@@ -1370,10 +1370,10 @@ pilot O
 لاجئين O
 يحيون O
 ذكرى O
-حرب B-EVENT
-1948 I-EVENT
+حرب O
+1948 O
 ( O
-النكبة B-EVENT
+النكبة O
 ) O
 في O
 مخيم B-GPE
@@ -1451,7 +1451,7 @@ pilot O
 النفس O
 , O
 إليك O
-5 B-CARDINAL
+5 O
 أفضل O
 بوتات O
 تطبيق O
@@ -1523,7 +1523,7 @@ dhtml O
 هوس O
 بخليك O
 تعمل O
-الف B-CARDINAL
+الف O
 حساب O
 للبسك O
 ، O
@@ -1557,9 +1557,9 @@ dhtml O
 القدس I-GPE
 بنظرون O
 الى O
-جدار B-FAC
-الفصل I-FAC
-العنصري I-FAC
+جدار O
+الفصل O
+العنصري O
 "" O
 "" O
 مستعمرة B-LOC
@@ -1628,9 +1628,9 @@ dhtml O
 الموضوع O
 . O
 "" O
-اتفاقية B-EVENT
-اوسلو I-EVENT
-1 I-EVENT
+اتفاقية O
+اوسلو O
+1 O
 "" O
 "" O
 إعلان O
@@ -1651,7 +1651,7 @@ dhtml O
 ) O
 "" O
 . O
-2 B-CARDINAL
+2 O
 تقوم O
 بنشر O
 ميمز O
@@ -1670,7 +1670,7 @@ dhtml O
 السباعي I-PERS
 , O
 
-9 B-CARDINAL
+9 O
 . O
 c O
 # O
@@ -1740,10 +1740,10 @@ c O
 الجنود B-NORP
 الإسرائيلين I-NORP
 إبان O
-حرب B-EVENT
-1948 I-EVENT
+حرب O
+1948 O
 ( O
-النكبة B-EVENT
+النكبة O
 ) O
 . O
 
@@ -1826,7 +1826,7 @@ c O
 
 بس O
 الدنية O
-بألف B-CARDINAL
+بألف O
 خير O
 . O
 
@@ -1866,7 +1866,7 @@ c O
 هههههههههههههههههههههههههه O
 
 الجزء O
-الاول B-ORDINAL
+الاول O
 من O
 برنامج O
 احداث O
@@ -1908,7 +1908,7 @@ c O
 وجنا O
 . O
 [ O
-1 B-CARDINAL
+1 O
 ] O
 مساقات O
 مجانيّة O
@@ -2128,10 +2128,10 @@ c O
 برنامج O
 حول O
 المرشحين O
-لإنتخابات B-EVENT
-المجلس I-EVENT
-التشريعي I-EVENT
-الفلسطيني I-EVENT
+لإنتخابات O
+المجلس O
+التشريعي O
+الفلسطيني O
 وحشد O
 الاصوات O
 تم O
@@ -2200,12 +2200,12 @@ c O
 بتكسب O
 ثقة O
 الناس O
-. B-ORDINAL
+. O
 برنامج O
 حول O
-الانتخابات B-EVENT
-التشريعية I-EVENT
-الفلسطينية I-EVENT
+الانتخابات O
+التشريعية O
+الفلسطينية O
 ودور O
 مركز B-ORG
 الإحصاء I-ORG
@@ -2260,7 +2260,7 @@ developer I-OCC
 . O
 
 الجزء O
-الاول B-ORDINAL
+الاول O
 من O
 الجولة O
 الاخبارية O
@@ -2294,7 +2294,7 @@ developer I-OCC
 لايك O
 
 الجزء O
-الاول B-ORDINAL
+الاول O
 من O
 برنامج O
 حول O
@@ -2470,7 +2470,7 @@ developer I-OCC
 1990 I-DATE
 ) I-DATE
 الجزء O
-الاول B-ORDINAL
+الاول O
 . O
 و O
 كثيرا O
@@ -2595,7 +2595,7 @@ hosting O
 
 قاله O
 : O
-هلآ B-TIME
+هلآ O
 الشيطان O
 ترك O
 الناس O
@@ -2671,7 +2671,7 @@ hosting O
 . O
 
 المهم O
-هسا B-TIME
+هسا O
 الدكتور O
 يرقص O
 بقناة O
@@ -2717,7 +2717,7 @@ hosting O
 شحاته B-PERS
 لتعلم O
 اللغة O
-الألمانية B-LANGUAGE
+الألمانية O
 , O
 
 برنامج O
@@ -2810,16 +2810,16 @@ hosting O
 1996 I-DATE
 ) I-DATE
 بعد O
-اتفاقية B-EVENT
-أوسلو I-EVENT
-1 I-EVENT
+اتفاقية O
+أوسلو O
+1 O
 . O
 
 بدك O
 تقهر O
 البنت O
 
-6 B-CARDINAL
+6 O
 أن O
 يكون O
 على O
@@ -2858,9 +2858,9 @@ hosting O
 1996 I-DATE
 ) I-DATE
 بعد O
-اتفاقية B-EVENT
-أوسلو I-EVENT
-1 I-EVENT
+اتفاقية O
+أوسلو O
+1 O
 . O
 
 برنامج O
@@ -2888,8 +2888,8 @@ hosting O
 
 تغطية O
 بمناسبة O
-عيد B-EVENT
-الاستقلال I-EVENT
+عيد O
+الاستقلال O
 تم O
 إذاعتها O
 على O
@@ -2908,9 +2908,9 @@ hosting O
 
 برنامج O
 حول O
-قمة B-EVENT
-شرم I-EVENT
-الشيخ I-EVENT
+قمة O
+شرم O
+الشيخ O
 تم O
 إذاعته O
 على O
@@ -2926,9 +2926,9 @@ hosting O
 1996 I-DATE
 ) I-DATE
 بعد O
-اتفاقية B-EVENT
-أوسلو I-EVENT
-1 I-EVENT
+اتفاقية O
+أوسلو O
+1 O
 . O
 
 افكار O
@@ -3253,9 +3253,9 @@ geeksforgeeks O
 
 برنامج O
 حول O
-قمة B-EVENT
-شرم I-EVENT
-الشيخ I-EVENT
+قمة O
+شرم O
+الشيخ O
 في O
 مصر B-GPE
 لصانعي O
@@ -3375,7 +3375,7 @@ mba O
 rar O
 , O
 
-3 B-ORDINAL
+3 O
 - O
 تدعس O
 وآنت O
@@ -3627,7 +3627,7 @@ coursera B-WEBSITE
 تستوعبي O
 
 [ O
-5 B-CARDINAL
+5 O
 ] O
 زد O
 • O
@@ -3699,8 +3699,8 @@ coursera B-WEBSITE
 عم O
 بيحرم O
 الصلاة O
-بالمسجد B-FAC
-الاقصى I-FAC
+بالمسجد O
+الاقصى O
 للي O
 خارج O
 بيت O
@@ -3711,7 +3711,7 @@ coursera B-WEBSITE
 بيكفي O
 تلميحات O
 لانتفاضة O
-ثالثة B-ORDINAL
+ثالثة O
 
 صورة O
 للصفوف O
@@ -3881,7 +3881,7 @@ coursera B-WEBSITE
 الخمسينات B-DATE
 . O
 
-اولا B-ORDINAL
+اولا O
 : O
 العنوان O
 يجب O
@@ -4013,7 +4013,7 @@ coursera B-WEBSITE
 اذا O
 قمت O
 بعمل O
-100 B-CARDINAL
+100 O
 باك O
 لينك O
 في O
@@ -4026,7 +4026,7 @@ coursera B-WEBSITE
 فهو O
 referring O
 domain O
-واحد B-CARDINAL
+واحد O
 فقط O
 ولذلك O
 عليك O
@@ -4048,7 +4048,7 @@ domain O
 لينك O
 من O
 موقع O
-واحد B-CARDINAL
+واحد O
 او O
 اكثر O
 . O
@@ -4061,8 +4061,8 @@ domain O
 تعتبر O
 الأدوات O
 الـ O
-11 B-CARDINAL
-الأولى B-ORDINAL
+11 O
+الأولى O
 المذكورة O
 رائعة O
 لتصميم O
@@ -4071,8 +4071,8 @@ domain O
 ، O
 بينما O
 تعد O
-12 B-CARDINAL
-17 B-CARDINAL
+12 O
+17 O
 أداة O
 رائعة O
 لتجربة O
@@ -4160,12 +4160,12 @@ domain O
 السؤال O
 أن O
 يكون O
-خمسة B-CARDINAL
+خمسة O
 أكلات O
 لا O
 تحبها O
 أو O
-خمسة B-CARDINAL
+خمسة O
 سيارات O
 تتمنى O
 اقتناءها O
@@ -4278,10 +4278,10 @@ domain O
 كيف O
 اسماء O
 حضور O
-جلسة B-EVENT
-اللجنة I-EVENT
-القومية I-EVENT
-العربية I-EVENT
+جلسة O
+اللجنة O
+القومية O
+العربية O
 في O
 نابلس B-GPE
 ( O
@@ -4437,7 +4437,7 @@ domain O
 كل O
 جوانبه O
 وكل O
-دقيقة B-TIME
+دقيقة O
 . O
 . O
 . O
@@ -4473,8 +4473,8 @@ domain O
 هاي I-DATE
 أكثر O
 من O
-7 B-TIME
-ساعات I-TIME
+7 O
+ساعات O
 فيه O
 حتى O
 يسمحولنا O
@@ -4569,7 +4569,7 @@ magazine O
 ! O
 اعلان O
 رقم O
-14 B-ORDINAL
+14 O
 من O
 ديوان O
 الحاكم B-OCC
@@ -4586,7 +4586,7 @@ magazine O
 ) O
 . O
 
-3d B-ORDINAL
+3d O
 models O
 & O
 product O
@@ -4595,7 +4595,7 @@ design O
 
 اعلان O
 رقم O
-23 B-ORDINAL
+23 O
 من O
 ديوان O
 الحاكم B-OCC
@@ -4614,7 +4614,7 @@ design O
 
 اعلان O
 رقم O
-24 B-ORDINAL
+24 O
 من O
 ديوان O
 الحاكم B-OCC
@@ -4633,7 +4633,7 @@ design O
 
 اعلان O
 رقم O
-3 B-ORDINAL
+3 O
 من O
 ديوان O
 الحاكم B-OCC
@@ -4665,7 +4665,7 @@ javascript O
 
 اعلان O
 رقم O
-4 B-ORDINAL
+4 O
 من O
 ديوان O
 الحاكم B-OCC
@@ -4684,7 +4684,7 @@ javascript O
 
 اعلان O
 رقم O
-5 B-ORDINAL
+5 O
 من O
 ديوان O
 الحاكم B-OCC
@@ -4762,15 +4762,15 @@ javascript O
 بمقتضى O
 المواد O
 ( O
-10 B-ORDINAL
-و11 B-ORDINAL
-و15 B-ORDINAL
+10 O
+و11 O
+و15 O
 ) O
 من O
 قانون O
 الانتخاب O
 رقم O
-24 B-ORDINAL
+24 O
 لسنة B-DATE
 ( I-DATE
 1960 I-DATE
@@ -4831,7 +4831,7 @@ javascript O
 العسكري I-OCC
 الأردني I-OCC
 رقم O
-18 B-ORDINAL
+18 O
 ( O
 23 B-DATE
 / I-DATE
@@ -4847,7 +4847,7 @@ javascript O
 رقم O
 "" O
 "" O
-198 B-ORDINAL
+198 O
 "" O
 "" O
 صادر O
@@ -4883,7 +4883,7 @@ javascript O
 رقم O
 "" O
 "" O
-263 B-ORDINAL
+263 O
 "" O
 "" O
 من O
@@ -4925,10 +4925,10 @@ javascript O
 المقاطعة I-OCC
 الشمالية I-OCC
 بخصوص O
-الانتخابات B-EVENT
-البلدية I-EVENT
-في I-EVENT
-نابلس I-EVENT
+الانتخابات O
+البلدية O
+في O
+نابلس O
 سنة B-DATE
 ( I-DATE
 6 I-DATE
@@ -5185,7 +5185,7 @@ nodejs I-NORP
 المدربين O
 شو O
 بحكوله O
-بالعربي B-LANGUAGE
+بالعربي O
 شبابنا O
 ثقافتهم O
 فرنسية B-NORP
@@ -5491,7 +5491,7 @@ forever O
 ( O
 in O
 just O
-2 B-CARDINAL
+2 O
 hours O
 ! O
 ) O
@@ -5549,7 +5549,7 @@ hours O
 و O
 الله O
 لحتى O
-الآن B-TIME
+الآن O
 مش O
 عارف O
 كيف O
@@ -5565,8 +5565,8 @@ hours O
 . O
 . O
 صحيح O
-الساعة B-TIME
-خمسة I-TIME
+الساعة O
+خمسة O
 حسب O
 اعلانهم O
 : O
@@ -5637,11 +5637,11 @@ hours O
 vps O
 , O
 
-البوابة B-FAC
-الذهبية I-FAC
-في I-FAC
-مدينة I-FAC
-القدس I-FAC
+البوابة O
+الذهبية O
+في O
+مدينة O
+القدس O
 . O
 
 حلول O
@@ -5977,13 +5977,13 @@ happen O
 مدينة B-GPE
 يافا I-GPE
 خلال O
-ثورة B-EVENT
-فلسطين I-EVENT
-( I-EVENT
-1936 I-EVENT
-- I-EVENT
-1939 I-EVENT
-) I-EVENT
+ثورة O
+فلسطين O
+( O
+1936 O
+- O
+1939 O
+) O
 . O
 . O
 
@@ -6067,8 +6067,8 @@ functions O
 الجيش B-ORG
 التركي I-ORG
 بجانب O
-كنيسة B-FAC
-المهد I-FAC
+كنيسة O
+المهد O
 . O
 
 وبتسلب O
@@ -6178,7 +6178,7 @@ com I-WEBSITE
 بيت I-GPE
 نبالا I-GPE
 قبل O
-انلكبة B-EVENT
+انلكبة O
 . O
 
 • O
@@ -6438,7 +6438,7 @@ developer I-OCC
 زرعين I-GPE
 المدمرة O
 قبل O
-الاحتلال B-EVENT
+الاحتلال O
 . O
 
 سأرفق O
@@ -6533,7 +6533,7 @@ hoisting O
 حتي O
 داخل O
 الهدف O
-الواحد B-CARDINAL
+الواحد O
 من O
 الممكن O
 أن O
@@ -6588,7 +6588,7 @@ rbfj1iyccl I-WEBSITE
 ? I-WEBSITE
 amp I-WEBSITE
 #ERROR! O
-1 B-CARDINAL
+1 O
 , O
 
 الحياةالاجتماعية O
@@ -6651,7 +6651,7 @@ ujpvep8qdv8zpkvcyjoqqpkpkwz O
 الدورة O
 "" O
 "" O
-17 B-ORDINAL
+17 O
 "" O
 "" O
 ل O
@@ -6819,9 +6819,9 @@ kotlin O
 ، O
 عندما O
 يتأهل O
-لبطولة B-EVENT
-العالم I-EVENT
-للبرمجيات I-EVENT
+لبطولة O
+العالم O
+للبرمجيات O
 ، O
 او O
 يلتحق O
@@ -7024,10 +7024,10 @@ hackers O
 جنين I-GPE
 من O
 فترة O
-الانتداب B-EVENT
-البريطاني I-EVENT
-على I-EVENT
-فلسطين I-EVENT
+الانتداب O
+البريطاني O
+على O
+فلسطين O
 عام B-DATE
 ( I-DATE
 1931 I-DATE
@@ -7136,7 +7136,7 @@ net I-WEBSITE
 والستوري O
 , O
 
-5800 B-CARDINAL
+5800 O
 راتب O
 بالشهرية O
 . O
@@ -7169,9 +7169,9 @@ net I-WEBSITE
 البيرة I-OCC
 بخصوص O
 إعلانات O
-مهرجان B-EVENT
-الإصطياف I-EVENT
-الثاني I-EVENT
+مهرجان O
+الإصطياف O
+الثاني O
 في O
 البيرة B-GPE
 "" O
@@ -7602,7 +7602,7 @@ me O
 من O
 القضايا O
 الاجتماعية O
-ص136 B-ORDINAL
+ص136 O
 . O
 
 وثائق O
@@ -7620,7 +7620,7 @@ me O
 . O
 
 الفصل O
-الثالث B-ORDINAL
+الثالث O
 : O
 قرية B-GPE
 اللجون I-GPE
@@ -7634,15 +7634,15 @@ me O
 ) O
 . O
 
-ثانيا B-ORDINAL
+ثانيا O
 java O
 , O
 
-القبر B-FAC
-المقدس I-FAC
-في I-FAC
-مدينة I-FAC
-القدس I-FAC
+القبر O
+المقدس O
+في O
+مدينة O
+القدس O
 ( O
 ( O
 1900 B-DATE
@@ -7767,9 +7767,9 @@ java O
 الوطنية I-ORG
 الموحدة I-ORG
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 : O
 نداء O
 خاص O
@@ -7848,10 +7848,10 @@ wordpress B-WEBSITE
 نبالا I-GPE
 : O
 قبل O
-حرب B-EVENT
-1948 I-EVENT
+حرب O
+1948 O
 ( O
-النكبة B-EVENT
+النكبة O
 ) O
 . O
 
@@ -7870,7 +7870,7 @@ oop O
 . O
 , O
 
-6 B-CARDINAL
+6 O
 . O
 java O
 , O
@@ -7971,7 +7971,7 @@ java O
 ) I-DATE
 . O
 
-4 B-CARDINAL
+4 O
 نطبع O
 الناتج O
 , O
@@ -8023,7 +8023,7 @@ selling O
 الفلسطيني I-ORG
 : O
 الدورة O
-التاسعة B-ORDINAL
+التاسعة O
 بتاريخ B-DATE
 ( I-DATE
 7 I-DATE
@@ -8122,8 +8122,8 @@ ide O
 الفلسطيني I-ORG
 : O
 الدورة O
-الحادية B-ORDINAL
-عشرة I-ORDINAL
+الحادية O
+عشرة O
 : O
 القاهرة B-GPE
 من O
@@ -8156,8 +8156,8 @@ ide O
 الفلسطيني I-ORG
 : O
 الدورة O
-السابعة B-ORDINAL
-عشرة I-ORDINAL
+السابعة O
+عشرة O
 : O
 مدينة B-GPE
 عمان I-GPE
@@ -8179,7 +8179,7 @@ ide O
 الفلسطيني I-ORG
 : O
 الدورة O
-العاشرة B-ORDINAL
+العاشرة O
 دورة O
 إستثنائية O
 القاهرة B-GPE
@@ -8330,7 +8330,7 @@ ide O
 موقع B-WEBSITE
 زد I-WEBSITE
 [ O
-5 B-CARDINAL
+5 O
 ] O
 , O
 
@@ -8458,8 +8458,8 @@ more O
 الممر O
 الداخلي O
 في O
-كنيسة B-FAC
-المهد I-FAC
+كنيسة O
+المهد O
 . O
 
 ليست O
@@ -8583,7 +8583,7 @@ python O
 ) I-DATE
 . O
 أفضل O
-10 B-CARDINAL
+10 O
 مواقع O
 توفر O
 تعلم O
@@ -8619,7 +8619,7 @@ python O
 1963 I-DATE
 ) I-DATE
 عدد O
-1713 B-ORDINAL
+1713 O
 . O
 . O
 
@@ -8740,9 +8740,9 @@ python O
 الأردني I-OCC
 : O
 الموضوع O
-موقف B-FAC
-باصات I-FAC
-البيرة I-FAC
+موقف O
+باصات O
+البيرة O
 : O
 بتاريخ B-DATE
 ( I-DATE
@@ -8826,7 +8826,7 @@ programming O
 في O
 البرمجة O
 رقم O
-واحد B-CARDINAL
+واحد O
 , O
 
 ومن O
@@ -8836,7 +8836,7 @@ programming O
 
 منشور O
 جافاسكريبت O
-2 B-CARDINAL
+2 O
 في O
 البرمجة O
 وتطوير O
@@ -8874,9 +8874,9 @@ programming O
 حلمي I-PERS
 باشا I-PERS
 اثناء O
-معركة B-EVENT
-مدينة I-EVENT
-القدس I-EVENT
+معركة O
+مدينة O
+القدس O
 عام B-DATE
 ( I-DATE
 ١٩٤٩ I-DATE
@@ -9020,10 +9020,10 @@ python O
 مدينة B-GPE
 يافا I-GPE
 إبان O
-حرب B-EVENT
-1948 I-EVENT
+حرب O
+1948 O
 ( O
-النكبة B-EVENT
+النكبة O
 ) O
 . O
 
@@ -9220,9 +9220,9 @@ character O
 اللجون I-GPE
 . O
 veritasium O
-arabic B-LANGUAGE
+arabic O
 فريتاسيوم O
-بالعربي B-LANGUAGE
+بالعربي O
 , O
 
 ايصال O
@@ -9294,7 +9294,7 @@ arabic B-LANGUAGE
 دكتور B-OCC
 . O
 
-2 B-CARDINAL
+2 O
 comptia O
 network O
 + O
@@ -9360,7 +9360,7 @@ learning O
 الله O
 وفيه O
 حوالي O
-400 B-CARDINAL
+400 O
 كورس O
 , O
 
@@ -9454,9 +9454,9 @@ codecademy B-WEBSITE
 ، O
 التي O
 بذلها O
-3 B-CARDINAL
-. I-CARDINAL
-0 I-CARDINAL
+3 O
+. O
+0 O
 عامل B-NORP
 صحي I-NORP
 على O
@@ -9464,21 +9464,21 @@ codecademy B-WEBSITE
 ستة B-DATE
 أيام I-DATE
 في O
-ثلاثة B-CARDINAL
+ثلاثة O
 مناطق O
 بالحُديدة B-GPE
 وإب B-GPE
 ، O
 بفضل O
-الهدنة B-EVENT
-- I-EVENT
-المعروفة I-EVENT
-بمسمى I-EVENT
-"" I-EVENT
-أيام I-EVENT
-الهدوء I-EVENT
-"" I-EVENT
-- I-EVENT
+الهدنة O
+- O
+المعروفة O
+بمسمى O
+"" O
+أيام O
+الهدوء O
+"" O
+- O
 التي O
 اتفق O
 عليها O
@@ -9503,7 +9503,7 @@ visit I-WEBSITE
 ? O
 bta O
 #ERROR! O
-227525 B-CARDINAL
+227525 O
 & O
 brand O
 #ERROR! O
@@ -9610,8 +9610,8 @@ fiverrcpa O
 . O
 , O
 
-برج B-FAC
-داوود I-FAC
+برج O
+داوود O
 في O
 مدينة B-GPE
 القدس I-GPE
@@ -9759,7 +9759,7 @@ medium B-WEBSITE
 تنسي O
 هويتك O
 
-2 B-ORDINAL
+2 O
 - O
 تكون O
 مدة O
@@ -9812,7 +9812,7 @@ medium B-WEBSITE
 ، O
 فـ O
 ستجد O
-آلاف B-CARDINAL
+آلاف O
 الشروحات O
 لتعلم O
 لغة O
@@ -9875,8 +9875,8 @@ python O
 لهذه O
 الغاية O
 إلى O
-ست B-CARDINAL
-عشرة I-CARDINAL
+ست O
+عشرة O
 منطقة O
 انتخابية O
 على O
@@ -10025,7 +10025,7 @@ python O
 seo O
 محترف O
 في O
-10 B-CARDINAL
+10 O
 خطوات O
 ؟ O
 بالنسبة O
@@ -10188,7 +10188,7 @@ seo O
 أريحا I-GPE
 . O
 
-11 B-ORDINAL
+11 O
 - O
 الموافقة O
 على O
@@ -10231,7 +10231,7 @@ seo O
 تعمل O
 شي O
 
-13 B-ORDINAL
+13 O
 - O
 البت O
 في O
@@ -10252,7 +10252,7 @@ seo O
 الأونروا I-ORG
 . O
 
-19 B-ORDINAL
+19 O
 - O
 ممارسة O
 أي O
@@ -10332,7 +10332,7 @@ ar O
 عمقا I-GPE
 المدمرة O
 . O
-3 B-ORDINAL
+3 O
 - O
 يُعفى O
 الطعن O
@@ -10358,8 +10358,8 @@ derbalah O
 , O
 
 وخلو O
-عيد B-EVENT
-الأم I-EVENT
+عيد O
+الأم O
 عيد O
 بقايا O
 قرية B-GPE
@@ -10383,7 +10383,7 @@ derbalah O
 فترات O
 مختلفة O
 . O
-2 B-ORDINAL
+2 O
 - O
 ُتعين O
 اللجنة O
@@ -10408,15 +10408,15 @@ derbalah O
 دون O
 الإخلال O
 بأحكام O
-الفقرة B-LAW
-( I-LAW
-4 I-LAW
-) I-LAW
-من I-LAW
-المادة I-LAW
-( I-LAW
-18 I-LAW
-) I-LAW
+الفقرة O
+( O
+4 O
+) O
+من O
+المادة O
+( O
+18 O
+) O
 من O
 هذا O
 القانون O
@@ -10428,7 +10428,7 @@ derbalah O
 
 بلاغ O
 رقم O
-87 B-ORDINAL
+87 O
 من O
 مكتب O
 التربية O
@@ -10444,7 +10444,7 @@ derbalah O
 1957 I-DATE
 ) I-DATE
 . O
-2 B-ORDINAL
+2 O
 - O
 مراجعة O
 محاضر O
@@ -10509,7 +10509,7 @@ derbalah O
 تنعقد O
 المحكمة O
 بحضور O
-ثلاثة B-CARDINAL
+ثلاثة O
 من O
 قضاتها O
 ، O
@@ -10520,7 +10520,7 @@ derbalah O
 بهيئة O
 مكونة O
 من O
-خمسة B-CARDINAL
+خمسة O
 قضاة O
 على O
 الأقل O
@@ -10532,10 +10532,10 @@ derbalah O
 . O
 , O
 
-مادة B-LAW
-( I-LAW
-22 I-LAW
-) I-LAW
+مادة O
+( O
+22 O
+) O
 , O
 
 بلدية B-ORG
@@ -10585,17 +10585,17 @@ derbalah O
 البيرة I-NORP
 على O
 اثر O
-إحراق B-EVENT
-المسجد I-EVENT
-الأقصى I-EVENT
-( I-EVENT
-1969 I-EVENT
-) I-EVENT
+إحراق O
+المسجد O
+الأقصى O
+( O
+1969 O
+) O
 . O
-مادة B-LAW
-( I-LAW
-23 I-LAW
-) I-LAW
+مادة O
+( O
+23 O
+) O
 , O
 
 int O
@@ -10604,23 +10604,23 @@ myints O
 ] O
 #ERROR! O
 { O
-10 B-CARDINAL
+10 O
 , O
-20 B-CARDINAL
+20 O
 , O
-30 B-CARDINAL
+30 O
 , O
-30 B-CARDINAL
+30 O
 , O
-20 B-CARDINAL
+20 O
 , O
-10 B-CARDINAL
+10 O
 , O
-10 B-CARDINAL
+10 O
 , O
-20 B-CARDINAL
+20 O
 , O
-30 B-CARDINAL
+30 O
 } O
 ; O
 , O
@@ -10705,7 +10705,7 @@ myints O
 ) O
 . O
 
-1 B-ORDINAL
+1 O
 - O
 الانتخاب O
 حق O
@@ -10760,9 +10760,9 @@ myints O
 اراضي O
 البلدة O
 ( O
-حوض B-FAC
-الخلايل I-FAC
-الشرقية I-FAC
+حوض O
+الخلايل O
+الشرقية O
 ) O
 . O
 
@@ -10814,12 +10814,12 @@ myints O
 اراضي O
 البلدة O
 ( O
-حوض B-FAC
-خلة I-FAC
-التين I-FAC
+حوض O
+خلة O
+التين O
 ، O
-حوض B-FAC
-القصيرات I-FAC
+حوض O
+القصيرات O
 ) O
 . O
 , O
@@ -10886,22 +10886,22 @@ myints O
 اراضي O
 البلدة O
 ( O
-حوض B-FAC
-كرم I-FAC
-سويلم I-FAC
+حوض O
+كرم O
+سويلم O
 ، O
-حوض B-FAC
-عمارة I-FAC
-نصر I-FAC
+حوض O
+عمارة O
+نصر O
 ، O
-حوض B-FAC
-البلد I-FAC
+حوض O
+البلد O
 ، O
-حوض B-FAC
-الظهور I-FAC
+حوض O
+الظهور O
 ، O
-حوض B-FAC
-الممرة I-FAC
+حوض O
+الممرة O
 ) O
 . O
 
@@ -11014,7 +11014,7 @@ myints O
 ابو O
 السكان O
 
-5 B-ORDINAL
+5 O
 - O
 أن O
 يلتزم O
@@ -11027,16 +11027,16 @@ myints O
 والوحيد O
 للشعب B-NORP
 الفلسطيني I-NORP
-وبوثيقة B-LAW
-إعلان I-LAW
-الاستقلال I-LAW
+وبوثيقة O
+إعلان O
+الاستقلال O
 وبأحكام O
-القانون B-LAW
-الأساسي I-LAW
+القانون O
+الأساسي O
 . O
 , O
 
-2 B-ORDINAL
+2 O
 - O
 على O
 كل O
@@ -11054,8 +11054,8 @@ myints O
 تأييد O
 خطي O
 من O
-خمسة B-CARDINAL
-آلاف I-CARDINAL
+خمسة O
+آلاف O
 ناخب O
 على O
 الأقل O
@@ -11070,14 +11070,14 @@ myints O
 الرئيس B-OCC
 في O
 الفترة O
-الأخيرة B-ORDINAL
+الأخيرة O
 التي O
 سبقت O
 الانتخابات O
 . O
 , O
 
-2 B-ORDINAL
+2 O
 - O
 يبدأ O
 تسجيل O
@@ -11134,8 +11134,8 @@ let O
 جامعة B-ORG
 بيرزيت I-ORG
 في O
-سجون B-FAC
-السلطة I-FAC
+سجون O
+السلطة O
 لما O
 يواجهونه O
 على O
@@ -11183,7 +11183,7 @@ let O
 رائعة O
 , O
 
-1 B-ORDINAL
+1 O
 - O
 يحق O
 لكل O
@@ -11215,10 +11215,10 @@ let O
 بيان O
 الإعلان O
 عن O
-تأسيس B-EVENT
-منظمة I-EVENT
-التحرير I-EVENT
-الفلسطينية I-EVENT
+تأسيس O
+منظمة O
+التحرير O
+الفلسطينية O
 كممثل O
 عن O
 الشعب B-NORP
@@ -11240,14 +11240,14 @@ let O
 / I-DATE
 1948 I-DATE
 ) I-DATE
-حرب B-EVENT
-1948 I-EVENT
+حرب O
+1948 O
 ( O
-النكبة B-EVENT
+النكبة O
 ) O
 . O
 
-6 B-ORDINAL
+6 O
 - O
 أن O
 يلتزم O
@@ -11260,12 +11260,12 @@ let O
 والوحيد O
 للشعب B-NORP
 الفلسطيني I-NORP
-وبوثيقة B-LAW
-إعلان I-LAW
-الاستقلال I-LAW
+وبوثيقة O
+إعلان O
+الاستقلال O
 وبأحكام O
-القانون B-LAW
-الأساسي I-LAW
+القانون O
+الأساسي O
 . O
 , O
 
@@ -11324,13 +11324,13 @@ let O
 1993 I-DATE
 ) I-DATE
 . O
-مادة B-LAW
-( I-LAW
-48 I-LAW
-) I-LAW
+مادة O
+( O
+48 O
+) O
 , O
 
-1 B-ORDINAL
+1 O
 - O
 تقدم O
 طلبات O
@@ -11408,7 +11408,7 @@ let O
 المحاسبة O
 , O
 
-5 B-CARDINAL
+5 O
 أن O
 يعرف O
 كيف O
@@ -11434,17 +11434,17 @@ let O
 . O
 , O
 
-1 B-CARDINAL
+1 O
 ليس O
 من O
 شرط O
 تعلم O
 , O
 
-2 B-ORDINAL
+2 O
 - O
 يجوز O
-لواحد B-CARDINAL
+لواحد O
 أو O
 أكثر O
 ممن O
@@ -11514,7 +11514,7 @@ let O
 لمة O
 صراصير O
 
-1 B-ORDINAL
+1 O
 - O
 يجب O
 على O
@@ -11538,7 +11538,7 @@ let O
 . O
 , O
 
-2 B-ORDINAL
+2 O
 - O
 يعتبر O
 الطلب O
@@ -11562,9 +11562,9 @@ let O
 بيان O
 جماهيري O
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 صادر O
 عن O
 القيادة B-ORG
@@ -11613,7 +11613,7 @@ let O
 يا O
 بلد O
 
-2 B-ORDINAL
+2 O
 - O
 يجب O
 تسجيل O
@@ -11646,9 +11646,9 @@ let O
 بيان O
 سياسي O
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 صادر O
 عن O
 الجبهة B-ORG
@@ -11657,26 +11657,26 @@ let O
 فلسطين I-ORG
 في O
 ذكرى O
-يوم B-EVENT
-الارض I-EVENT
+يوم O
+الارض O
 عام B-DATE
 ( I-DATE
 1991 I-DATE
 ) I-DATE
 . O
 
-مادة B-LAW
-( I-LAW
-62 I-LAW
-) I-LAW
+مادة O
+( O
+62 O
+) O
 , O
 
 بيان O
 سياسي O
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 صادر O
 عن O
 القيادة B-ORG
@@ -11704,9 +11704,9 @@ let O
 بيان O
 سياسي O
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 صادر O
 عن O
 القيادة B-ORG
@@ -11747,7 +11747,7 @@ console I-WEBSITE
 . O
 , O
 
-4 B-ORDINAL
+4 O
 - O
 عدم O
 استعمال O
@@ -11769,9 +11769,9 @@ console I-WEBSITE
 بيان O
 سياسي O
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 صادر O
 عن O
 منظمة B-ORG
@@ -11779,14 +11779,14 @@ console I-WEBSITE
 الفلسطينية I-ORG
 بذكرى O
 دخول O
-الانتفاضة B-EVENT
-الفلسطينية I-EVENT
+الانتفاضة O
+الفلسطينية O
 شهرها O
 الثاني O
 والثلاثين O
 . O
 
-8 B-ORDINAL
+8 O
 - O
 أن O
 لا O
@@ -11905,17 +11905,17 @@ hostgator B-WEBSITE
 بيان O
 سياسي O
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 صادر O
 عن O
 حركة B-ORG
 حماس I-ORG
 بذكرى O
-مجزرة B-EVENT
-قرية I-EVENT
-نحالين I-EVENT
+مجزرة O
+قرية O
+نحالين O
 عام B-DATE
 ( I-DATE
 1989 I-DATE
@@ -11928,19 +11928,19 @@ hostgator B-WEBSITE
 بيان O
 سياسي O
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 صادر O
 عن O
 حركة B-ORG
 حماس I-ORG
 بشان O
 دخول O
-الانتفاضة B-EVENT
-الفلسطينية I-EVENT
+الانتفاضة O
+الفلسطينية O
 شهرها O
-الرابع B-ORDINAL
+الرابع O
 عام B-DATE
 ( I-DATE
 1988 I-DATE
@@ -11952,7 +11952,7 @@ hostgator B-WEBSITE
 هي O
 أحلام O
 خيالية O
-6 B-ORDINAL
+6 O
 - O
 يكون O
 ترتيب O
@@ -11980,9 +11980,9 @@ hostgator B-WEBSITE
 بيان O
 سياسي O
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 صادر O
 عن O
 حركة B-ORG
@@ -12010,9 +12010,9 @@ hostgator B-WEBSITE
 بيان O
 سياسي O
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 صادر O
 عن O
 حركة B-ORG
@@ -12020,10 +12020,10 @@ hostgator B-WEBSITE
 بعنوان O
 "" O
 "" O
-يوم B-EVENT
-الارض I-EVENT
+يوم O
+الارض O
 يعزز O
-الانتفاضة B-EVENT
+الانتفاضة O
 المباركة O
 "" O
 "" O
@@ -12047,7 +12047,7 @@ hostgator B-WEBSITE
 practice O
 mode O
 top O
-1000 B-CARDINAL
+1000 O
 softcore O
 "" O
 "" O
@@ -12083,9 +12083,9 @@ address O
 بيان O
 سياسي O
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 صادر O
 عن O
 حركة B-ORG
@@ -12105,9 +12105,9 @@ address O
 بيان O
 سياسي O
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 صادر O
 عن O
 حركة B-ORG
@@ -12123,7 +12123,7 @@ address O
 ) I-DATE
 . O
 
-3 B-ORDINAL
+3 O
 - O
 يجوز O
 للجنة O
@@ -12143,7 +12143,7 @@ address O
 تتجاوز O
 فترة O
 التمديد O
-ساعتين B-TIME
+ساعتين O
 ، O
 وأن O
 يقتصر O
@@ -12169,7 +12169,7 @@ address O
 أنا O
 في O
 عمر O
-15 B-CARDINAL
+15 O
 ولا O
 أعلم O
 ماذا O
@@ -12205,16 +12205,16 @@ address O
 بيان O
 سياسي O
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 صادر O
 عن O
 حركة B-ORG
 حماس I-ORG
 رقم O
 ( O
-62 B-ORDINAL
+62 O
 ) O
 بعنوان O
 : O
@@ -12242,9 +12242,9 @@ address O
 بيان O
 سياسي O
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 صادر O
 عن O
 حركة B-ORG
@@ -12255,20 +12255,20 @@ address O
 ) I-DATE
 في O
 ذكرى O
-هزيمة B-EVENT
-حرب I-EVENT
-1967 I-EVENT
+هزيمة O
+حرب O
+1967 O
 ( O
-النكسة B-EVENT
+النكسة O
 ) O
 . O
 
 بيان O
 سياسي O
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 صادر O
 عن O
 حركة B-ORG
@@ -12280,8 +12280,8 @@ address O
 ضد O
 الإنتهاكات O
 الصهيونية O
-للمسجد B-FAC
-الأقصى I-FAC
+للمسجد O
+الأقصى O
 عام B-DATE
 ( I-DATE
 1988 I-DATE
@@ -12299,7 +12299,7 @@ pdf O
 صار O
 مش O
 اختلاف O
-1 B-ORDINAL
+1 O
 - O
 يتحقق O
 رئيس B-OCC
@@ -12334,7 +12334,7 @@ pdf O
 لمعت O
 الواطي O
 والكشاف O
-6 B-ORDINAL
+6 O
 - O
 إذا O
 تعذر O
@@ -12393,7 +12393,7 @@ up O
 . O
 , O
 
-3 B-ORDINAL
+3 O
 - O
 بعد O
 الانتهاء O
@@ -12468,7 +12468,7 @@ up O
 ) I-DATE
 . O
 الباب O
-التاسع B-ORDINAL
+التاسع O
 : O
 فرز O
 الأصوات O
@@ -12505,7 +12505,7 @@ up O
 اللي O
 سمعته O
 
-10 B-CARDINAL
+10 O
 قنوات O
 تيليجرام O
 ( O
@@ -12571,9 +12571,9 @@ attributes O
 السكين O
 بيان O
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 صادر O
 عن O
 القيادة B-ORG
@@ -12702,7 +12702,7 @@ attributes O
 الاحتكام O
 إليه O
 بالدرجة O
-الأولى B-ORDINAL
+الأولى O
 هو O
 البيت O
 الذي O
@@ -12751,7 +12751,7 @@ attributes O
 بيرزيت I-ORG
 بعنوان O
 : O
-الأقصى B-FAC
+الأقصى O
 يصرخ O
 وإسلاماه O
 من O
@@ -12762,7 +12762,7 @@ attributes O
 . O
 
 [ O
-1 B-CARDINAL
+1 O
 ] O
 قبطان B-OCC
 السفينة I-OCC
@@ -12777,7 +12777,7 @@ attributes O
 وجد O
 اله O
 عنوان O
-3 B-ORDINAL
+3 O
 - O
 على O
 مكتب O
@@ -12881,10 +12881,10 @@ kotlin O
 . O
 , O
 
-مادة B-LAW
-( I-LAW
-96 I-LAW
-) I-LAW
+مادة O
+( O
+96 O
+) O
 , O
 
 وفي O
@@ -12942,15 +12942,15 @@ c O
 . O
 , O
 
-2 B-ORDINAL
+2 O
 - O
 يتضمن O
-إعلان B-EVENT
-نتائج I-EVENT
-الانتخابات I-EVENT
-النهائية I-EVENT
-الرئاسية I-EVENT
-والتشريعية I-EVENT
+إعلان O
+نتائج O
+الانتخابات O
+النهائية O
+الرئاسية O
+والتشريعية O
 ما O
 يلي O
 : O
@@ -12976,11 +12976,11 @@ c O
 أنا O
 ولاشى O
 الباب O
-العاشر B-ORDINAL
+العاشر O
 : O
-إعلان B-EVENT
-النتائج I-EVENT
-النهائية I-EVENT
+إعلان O
+النتائج O
+النهائية O
 , O
 
 تم O
@@ -12991,7 +12991,7 @@ c O
 الحميد I-PERS
 عبد I-PERS
 العاطي I-PERS
-1 B-ORDINAL
+1 O
 - O
 يفوز O
 بمنصب O
@@ -13034,8 +13034,8 @@ c O
 يوماً I-DATE
 من O
 تاريخ O
-إعلان B-EVENT
-النتائج I-EVENT
+إعلان O
+النتائج O
 ، O
 ويفوز O
 بمنصب O
@@ -13063,7 +13063,7 @@ c O
 يا O
 صاحبي O
 هناك O
-ثلاث B-CARDINAL
+ثلاث O
 أنواع O
 من O
 مطوري B-NORP
@@ -13093,11 +13093,11 @@ c O
 : O
 , O
 
-1 B-CARDINAL
+1 O
 الاستضافة O
 , O
 
-3 B-ORDINAL
+3 O
 - O
 توزع O
 المقاعد O
@@ -13149,8 +13149,8 @@ c O
 التشريعي I-ORG
 وفقا O
 ًلأحكام O
-القانون B-LAW
-الأساسي I-LAW
+القانون O
+الأساسي O
 . O
 , O
 
@@ -13165,8 +13165,8 @@ c O
 وذلك O
 في O
 ذكرى O
-يوم B-EVENT
-الارض I-EVENT
+يوم O
+الارض O
 وعرض O
 للاجواء O
 المشحونة O
@@ -13175,10 +13175,10 @@ c O
 1993 I-DATE
 ) I-DATE
 . O
-مادة B-LAW
-( I-LAW
-106 I-LAW
-) I-LAW
+مادة O
+( O
+106 O
+) O
 , O
 
 و O
@@ -13309,7 +13309,7 @@ c O
 الموقع O
 السابق O
 لكن O
-بالإنجليزية B-LANGUAGE
+بالإنجليزية O
 , O
 
 بيان O
@@ -13363,10 +13363,10 @@ c O
 ) I-DATE
 . O
 
-مادة B-LAW
-( I-LAW
-112 I-LAW
-) I-LAW
+مادة O
+( O
+112 O
+) O
 , O
 
 أ O
@@ -13530,16 +13530,16 @@ c O
 ) O
 . O
 
-مادة B-LAW
-( I-LAW
-116 I-LAW
-) I-LAW
+مادة O
+( O
+116 O
+) O
 , O
 
-مادة B-LAW
-( I-LAW
-117 I-LAW
-) I-LAW
+مادة O
+( O
+117 O
+) O
 , O
 
 أذا O
@@ -13587,16 +13587,16 @@ c O
 . O
 , O
 
-1 B-ORDINAL
+1 O
 - O
 يلغى O
-القانون B-LAW
-رقم I-LAW
-( I-LAW
-9 I-LAW
-) I-LAW
-لسنة I-LAW
-2005م I-LAW
+القانون O
+رقم O
+( O
+9 O
+) O
+لسنة O
+2005م O
 بشأن O
 الانتخابات O
 . O
@@ -13718,8 +13718,8 @@ c O
 مدينة I-GPE
 نابلس I-GPE
 خلال O
-انتفاضة B-EVENT
-الأقصى I-EVENT
+انتفاضة O
+الأقصى O
 بتاريخ B-DATE
 ( I-DATE
 23 I-DATE
@@ -13752,8 +13752,8 @@ c O
 مدينة I-GPE
 نابلس I-GPE
 خلال O
-انتفاضة B-EVENT
-الأقصى I-EVENT
+انتفاضة O
+الأقصى O
 . O
 
 طحا O
@@ -13784,13 +13784,13 @@ c O
 نابلس I-GPE
 في O
 ذكرى O
-استشهاد B-EVENT
-القائدين I-EVENT
-ماجد I-EVENT
-أبو I-EVENT
-شرار I-EVENT
-ومحمود I-EVENT
-القني I-EVENT
+استشهاد O
+القائدين O
+ماجد O
+أبو O
+شرار O
+ومحمود O
+القني O
 . O
 
 بيان O
@@ -13839,8 +13839,8 @@ c O
 وذلك O
 للتعقيب O
 على O
-قمة B-EVENT
-الإسكندرية I-EVENT
+قمة O
+الإسكندرية O
 بين O
 الرئيس B-OCC
 المصري I-OCC
@@ -13912,8 +13912,8 @@ c O
 شهداء I-ORG
 الأقصى I-ORG
 خلال O
-انتفاضة B-EVENT
-الأقصى I-EVENT
+انتفاضة O
+الأقصى O
 بتاريخ B-DATE
 ( I-DATE
 3 I-DATE
@@ -13951,8 +13951,8 @@ c O
 شهداء I-ORG
 الأقصى I-ORG
 خلال O
-انتفاضة B-EVENT
-الأقصى I-EVENT
+انتفاضة O
+الأقصى O
 ( O
 1 B-DATE
 / I-DATE
@@ -13981,8 +13981,8 @@ c O
 عرفات O
 الإنفرادية O
 لمصر B-GPE
-كامب B-EVENT
-ديفيد I-EVENT
+كامب O
+ديفيد O
 عام B-DATE
 ( I-DATE
 1984 I-DATE
@@ -14588,7 +14588,7 @@ c O
 يوم I-DATE
 على O
 إبعاد O
-415 B-CARDINAL
+415 O
 فلسطيني O
 والدعوة O
 للتحرك O
@@ -14735,7 +14735,7 @@ c O
 ? O
 ! O
 ! O
-1 B-ORDINAL
+1 O
 
 صرصور O
 
@@ -14750,16 +14750,16 @@ c O
 ما O
 يزيد O
 على O
-100 B-CARDINAL
-, I-CARDINAL
-0 I-CARDINAL
+100 O
+, O
+0 O
 جرعة O
 من O
 لقاح O
 الحصبة O
-و35 B-CARDINAL
-, I-CARDINAL
-0 I-CARDINAL
+و35 O
+, O
+0 O
 جرعة O
 من O
 لقاح O
@@ -14810,21 +14810,21 @@ c O
 
 وقد O
 نجحت O
-الحملة B-EVENT
-الأخيرة I-EVENT
-للتطعيم I-EVENT
-ضد I-EVENT
-شلل I-EVENT
-الأطفال I-EVENT
-في I-EVENT
-دير I-EVENT
-الزور I-EVENT
+الحملة O
+الأخيرة O
+للتطعيم O
+ضد O
+شلل O
+الأطفال O
+في O
+دير O
+الزور O
 في O
 الوصول O
 إلى O
-252 B-CARDINAL
-, I-CARDINAL
-768 I-CARDINAL
+252 O
+, O
+768 O
 طفلاً O
 تتراوح O
 أعمارهم O
@@ -14952,7 +14952,7 @@ c O
 ذبحتونا O
 و O
 الاخ O
-الثالث B-ORDINAL
+الثالث O
 ابو O
 الجوال O
 ما O
@@ -14967,13 +14967,13 @@ c O
 الفقر O
 
 بيانات O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 بيان O
 رقم O
 ( O
-31 B-ORDINAL
+31 O
 ) O
 ( O
 22 B-DATE
@@ -14984,7 +14984,7 @@ c O
 ) O
 . O
 
-2 B-ORDINAL
+2 O
 - O
 مدة O
 ولاية O
@@ -15002,13 +15002,13 @@ c O
 , O
 
 بيانات O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 بيان O
 رقم O
 ( O
-41 B-ORDINAL
+41 O
 ) O
 ( O
 12 B-DATE
@@ -15019,10 +15019,10 @@ c O
 ) O
 . O
 
-3 B-ORDINAL
+3 O
 - O
 كل O
-خمسة B-CARDINAL
+خمسة O
 أسماء O
 تلي O
 ذلك O
@@ -15034,7 +15034,7 @@ c O
 يعفنو O
 بالسجن O
 
-1 B-ORDINAL
+1 O
 - O
 يخصص O
 لكل O
@@ -15042,8 +15042,8 @@ c O
 انتخابية O
 حازت O
 على O
-2 B-PERCENT
-% I-PERCENT
+2 O
+% O
 أو O
 أكثر O
 من O
@@ -15071,13 +15071,13 @@ c O
 , O
 
 بيانات O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 بيان O
 رقم O
 ( O
-18 B-ORDINAL
+18 O
 ) O
 ( O
 28 B-DATE
@@ -15087,7 +15087,7 @@ c O
 1988 I-DATE
 ) O
 . O
-2 B-ORDINAL
+2 O
 - O
 تودع O
 كل O
@@ -15127,14 +15127,14 @@ c O
 
 "" O
 بيانات O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 بيان O
 رقم O
 "" O
 "" O
-77 B-ORDINAL
+77 O
 "" O
 "" O
 ( O
@@ -15152,19 +15152,19 @@ c O
 , O
 
 المشهد O
-الثاني B-ORDINAL
+الثاني O
 : O
 
 "" O
 بيانات O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 بيان O
 رقم O
 "" O
 "" O
-83 B-ORDINAL
+83 O
 "" O
 "" O
 ( O
@@ -15178,7 +15178,7 @@ c O
 . O
 
 الباب O
-الثاني B-ORDINAL
+الثاني O
 , O
 
 حق O
@@ -15187,14 +15187,14 @@ c O
 
 "" O
 بيانات O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 بيان O
 رقم O
 "" O
 "" O
-22 B-ORDINAL
+22 O
 "" O
 "" O
 ( O
@@ -15217,7 +15217,7 @@ c O
 المقدمة O
 : O
 السؤال O
-الثاني B-ORDINAL
+الثاني O
 : O
 اطول O
 مفاوضات O
@@ -15292,7 +15292,7 @@ c O
 الأهلية I-NORP
 , O
 
-2 B-ORDINAL
+2 O
 - O
 لا O
 يجوز O
@@ -15320,9 +15320,9 @@ c O
 , O
 
 بيانات O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 صادرة O
 عن O
 حركة B-ORG
@@ -15337,9 +15337,9 @@ c O
 . O
 
 بيانات O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 صادرة O
 عن O
 حركة B-ORG
@@ -15395,7 +15395,7 @@ c O
 يضم O
 أسماء O
 وتواقيع O
-خمسمائة B-CARDINAL
+خمسمائة O
 مواطن O
 ممن O
 لهم O
@@ -15440,14 +15440,14 @@ c O
 
 "" O
 بيانات O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 بيان O
 رقم O
 "" O
 "" O
-89 B-ORDINAL
+89 O
 "" O
 "" O
 ( O
@@ -15472,8 +15472,8 @@ c O
 لتحرير I-ORG
 فلسطين I-ORG
 خلال O
-انتفاضة B-EVENT
-الأقصى I-EVENT
+انتفاضة O
+الأقصى O
 بتاريخ B-DATE
 ( I-DATE
 1 I-DATE
@@ -15495,8 +15495,8 @@ c O
 لتحرير I-ORG
 فلسطين I-ORG
 خلال O
-انتفاضة B-EVENT
-الأقصى I-EVENT
+انتفاضة O
+الأقصى O
 بتاريخ B-DATE
 ( I-DATE
 12 I-DATE
@@ -15507,10 +15507,10 @@ c O
 ) I-DATE
 . O
 
-مادة B-LAW
-( I-LAW
-18 I-LAW
-) I-LAW
+مادة O
+( O
+18 O
+) O
 , O
 
 بيانات O
@@ -15519,8 +15519,8 @@ c O
 لتحرير I-ORG
 فلسطين I-ORG
 خلال O
-انتفاضة B-EVENT
-الأقصى I-EVENT
+انتفاضة O
+الأقصى O
 بتاريخ B-DATE
 ( I-DATE
 16 I-DATE
@@ -15531,10 +15531,10 @@ c O
 ) I-DATE
 . O
 
-مادة B-LAW
-( I-LAW
-19 I-LAW
-) I-LAW
+مادة O
+( O
+19 O
+) O
 , O
 
 بيانات O
@@ -15543,8 +15543,8 @@ c O
 لتحرير I-ORG
 فلسطين I-ORG
 خلال O
-انتفاضة B-EVENT
-الأقصى I-EVENT
+انتفاضة O
+الأقصى O
 بتاريخ B-DATE
 2 I-DATE
 / I-DATE
@@ -15561,8 +15561,8 @@ c O
 لتحرير I-ORG
 فلسطين I-ORG
 خلال O
-انتفاضة B-EVENT
-الأقصى I-EVENT
+انتفاضة O
+الأقصى O
 بتاريخ B-DATE
 ( I-DATE
 25 I-DATE
@@ -15579,8 +15579,8 @@ c O
 لتحرير I-ORG
 فلسطين I-ORG
 خلال O
-انتفاضة B-EVENT
-الأقصى I-EVENT
+انتفاضة O
+الأقصى O
 بتاريخ B-DATE
 ( I-DATE
 3 I-DATE
@@ -15597,8 +15597,8 @@ c O
 لتحرير I-ORG
 فلسطين I-ORG
 خلال O
-انتفاضة B-EVENT
-الأقصى I-EVENT
+انتفاضة O
+الأقصى O
 بتاريخ B-DATE
 ( I-DATE
 7 I-DATE
@@ -15615,9 +15615,9 @@ c O
 الجهاد I-ORG
 الإسلامي I-ORG
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 بتاريخ B-DATE
 ( I-DATE
 1 I-DATE
@@ -15634,7 +15634,7 @@ c O
 المركزية I-ORG
 , O
 
-1 B-ORDINAL
+1 O
 - O
 تتمتع O
 لجنة B-ORG
@@ -15683,9 +15683,9 @@ c O
 الجهاد I-ORG
 الإسلامي I-ORG
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 بتاريخ B-DATE
 ( I-DATE
 4 I-DATE
@@ -15701,9 +15701,9 @@ c O
 الجهاد I-ORG
 الإسلامي I-ORG
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 بتاريخ B-DATE
 ( I-DATE
 6 I-DATE
@@ -15720,8 +15720,8 @@ c O
 حركة B-ORG
 حماس I-ORG
 خلال O
-انتفاضة B-EVENT
-الأقصى I-EVENT
+انتفاضة O
+الأقصى O
 بتاريخ B-DATE
 ( I-DATE
 15 I-DATE
@@ -15732,7 +15732,7 @@ c O
 ) I-DATE
 . O
 
-13 B-ORDINAL
+13 O
 - O
 البت O
 في O
@@ -15752,7 +15752,7 @@ c O
 بكرا B-DATE
 
 البرنامج O
-4 B-ORDINAL
+4 O
 
 عماد B-PERS
 ( O
@@ -15788,8 +15788,8 @@ c O
 حركة B-ORG
 حماس I-ORG
 خلال O
-انتفاضة B-EVENT
-الأقصى I-EVENT
+انتفاضة O
+الأقصى O
 بتاريخ B-DATE
 ( I-DATE
 18 I-DATE
@@ -15829,7 +15829,7 @@ c O
 محمد B-PERS
 دحلان I-PERS
 
-3 B-ORDINAL
+3 O
 - O
 يُعفى O
 الطعن O
@@ -15871,7 +15871,7 @@ c O
 استغراب O
 
 الجزء O
-الثاني B-ORDINAL
+الثاني O
 , O
 
 بيان O
@@ -15880,8 +15880,8 @@ c O
 حركة B-ORG
 حماس I-ORG
 خلال O
-انتفاضة B-EVENT
-الأقصى I-EVENT
+انتفاضة O
+الأقصى O
 بتاريخ B-DATE
 ( I-DATE
 3 I-DATE
@@ -15892,7 +15892,7 @@ c O
 ) I-DATE
 . O
 
-3 B-ORDINAL
+3 O
 - O
 يشترط O
 فيمن O
@@ -15923,7 +15923,7 @@ c O
 حفلة O
 ايتام O
 اريحا B-GPE
-دقيقه B-TIME
+دقيقه O
 
 بالفيديوهات O
 صائب B-PERS
@@ -15966,8 +15966,8 @@ c O
 كتائب B-ORG
 العودة I-ORG
 خلال O
-انتفاضة B-EVENT
-الأقصى I-EVENT
+انتفاضة O
+الأقصى O
 بتاريخ B-DATE
 ( I-DATE
 19 I-DATE
@@ -16047,14 +16047,14 @@ c O
 ذلك O
 , O
 
-مادة B-LAW
-( I-LAW
-31 I-LAW
-) I-LAW
+مادة O
+( O
+31 O
+) O
 , O
 
 عند O
-الدقيقه B-TIME
+الدقيقه O
 البطله O
 تحمل O
 بلطه O
@@ -16080,13 +16080,13 @@ c O
 القضائية I-ORG
 , O
 
-مادة B-LAW
-( I-LAW
-34 I-LAW
-) I-LAW
+مادة O
+( O
+34 O
+) O
 , O
 
-1 B-ORDINAL
+1 O
 - O
 إذا O
 لم O
@@ -16144,7 +16144,7 @@ c O
 المحكمة O
 , O
 
-1 B-ORDINAL
+1 O
 - O
 لا O
 تقبل O
@@ -16169,10 +16169,10 @@ c O
 بيرزيت I-GPE
 . O
 
-مادة B-LAW
-( I-LAW
-36 I-LAW
-) I-LAW
+مادة O
+( O
+36 O
+) O
 , O
 
 حق O
@@ -16193,7 +16193,7 @@ c O
 ) I-DATE
 . O
 
-2 B-ORDINAL
+2 O
 - O
 للجنة B-ORG
 الانتخابات I-ORG
@@ -16264,7 +16264,7 @@ c O
 ) I-DATE
 . O
 
-5 B-ORDINAL
+5 O
 - O
 يكون O
 قرار O
@@ -16403,7 +16403,7 @@ c O
 المنسف O
 العجلوني O
 بسوا O
-مليون B-CARDINAL
+مليون O
 منسف O
 كركي O
 , O
@@ -16460,7 +16460,7 @@ c O
 صور O
 القاعة O
 
-3 B-ORDINAL
+3 O
 - O
 على O
 من O
@@ -16630,7 +16630,7 @@ c O
 . O
 
 الجزء O
-الأول B-ORDINAL
+الأول O
 , O
 
 ب O
@@ -16690,7 +16690,7 @@ c O
 ) O
 . O
 
-1 B-ORDINAL
+1 O
 - O
 لكل O
 شخص O
@@ -16774,7 +16774,7 @@ c O
 , O
 
 دعاية O
-2 B-ORDINAL
+2 O
 : O
 سوبر O
 غلو O
@@ -16802,7 +16802,7 @@ c O
 تفصلهم O
 
 دعاية O
-4 B-ORDINAL
+4 O
 : O
 ( O
 صورة O
@@ -16818,7 +16818,7 @@ c O
 داعية O
 عليك O
 
-1 B-ORDINAL
+1 O
 - O
 يحق O
 لكل O
@@ -16914,7 +16914,7 @@ c O
 كيف O
 شايف O
 المستقبل O
-1 B-ORDINAL
+1 O
 - O
 يتم O
 تسجيل O
@@ -16972,13 +16972,13 @@ c O
 ) O
 . O
 
-مادة B-LAW
-( I-LAW
-56 I-LAW
-) I-LAW
+مادة O
+( O
+56 O
+) O
 , O
 
-2 B-ORDINAL
+2 O
 - O
 تبين O
 للجنة B-ORG
@@ -16997,7 +16997,7 @@ c O
 به O
 , O
 
-3 B-ORDINAL
+3 O
 - O
 قدم O
 الطلب O
@@ -17030,7 +17030,7 @@ c O
 ) O
 . O
 
-1 B-ORDINAL
+1 O
 - O
 يجب O
 على O
@@ -17110,7 +17110,7 @@ c O
 تأشر O
 وتحكي O
 
-1 B-ORDINAL
+1 O
 - O
 يحق O
 للقائمة O
@@ -17158,10 +17158,10 @@ c O
 ) O
 . O
 
-مادة B-LAW
-( I-LAW
-59 I-LAW
-) I-LAW
+مادة O
+( O
+59 O
+) O
 , O
 
 تصريح O
@@ -17175,9 +17175,9 @@ c O
 قتل O
 والدة O
 في O
-مجزرة B-EVENT
-الحرم I-EVENT
-الإبراهيمي I-EVENT
+مجزرة O
+الحرم O
+الإبراهيمي O
 . O
 
 لا O
@@ -17214,14 +17214,14 @@ c O
 , O
 
 مواطن O
-1 B-ORDINAL
+1 O
 : O
 شو O
 الدعوة O
-10 B-PERCENT
-% I-PERCENT
+10 O
+% O
 
-1 B-ORDINAL
+1 O
 - O
 على O
 كل O
@@ -17349,10 +17349,10 @@ c O
 ) I-DATE
 . O
 
-مادة B-LAW
-( I-LAW
-66 I-LAW
-) I-LAW
+مادة O
+( O
+66 O
+) O
 , O
 
 على O
@@ -17366,7 +17366,7 @@ c O
 سيارة O
 فخمة O
 
-7 B-ORDINAL
+7 O
 - O
 يكون O
 ترتيب O
@@ -17388,10 +17388,10 @@ c O
 . O
 , O
 
-مادة B-LAW
-( I-LAW
-67 I-LAW
-) I-LAW
+مادة O
+( O
+67 O
+) O
 , O
 
 صاحب O
@@ -17429,16 +17429,16 @@ c O
 ) I-DATE
 . O
 
-1 B-ORDINAL
+1 O
 - O
 قبل O
 الموعد O
 المحدد O
 لإجراء O
 الانتخابات O
-بأربع B-TIME
-وعشرين I-TIME
-ساعة I-TIME
+بأربع O
+وعشرين O
+ساعة O
 يودع O
 مكتب O
 الدائرة O
@@ -17464,8 +17464,8 @@ c O
 ، O
 يزيد O
 بنسبة O
-20 B-PERCENT
-% I-PERCENT
+20 O
+% O
 عن O
 عدد O
 الناخبين B-NORP
@@ -17476,13 +17476,13 @@ c O
 المركز O
 , O
 
-مادة B-LAW
-( I-LAW
-68 I-LAW
-) I-LAW
+مادة O
+( O
+68 O
+) O
 , O
 
-1 B-ORDINAL
+1 O
 - O
 يجب O
 أن O
@@ -17493,7 +17493,7 @@ c O
 من O
 مراكز O
 الاقتراع O
-ثلاثة B-CARDINAL
+ثلاثة O
 صناديق O
 للانتخاب O
 ، O
@@ -17506,7 +17506,7 @@ c O
 بانتخاب O
 الرئيس B-OCC
 ، O
-والثاني B-ORDINAL
+والثاني O
 تطرح O
 فيه O
 أوراق O
@@ -17516,7 +17516,7 @@ c O
 المجلس I-NORP
 للدوائر O
 ، O
-والثالث B-ORDINAL
+والثالث O
 تطرح O
 فيه O
 أوراق O
@@ -17525,7 +17525,7 @@ c O
 بالقوائم O
 , O
 
-2 B-ORDINAL
+2 O
 - O
 يجب O
 أن O
@@ -17567,10 +17567,10 @@ c O
 . O
 , O
 
-مادة B-LAW
-( I-LAW
-69 I-LAW
-) I-LAW
+مادة O
+( O
+69 O
+) O
 , O
 
 تصريح O
@@ -17659,10 +17659,10 @@ c O
 زرعين I-GPE
 المدمرة O
 فترة O
-الانتداب B-EVENT
-البريطاني I-EVENT
-على I-EVENT
-فلسطين I-EVENT
+الانتداب O
+البريطاني O
+على O
+فلسطين O
 . O
 
 الاب O
@@ -17688,7 +17688,7 @@ c O
 بخصوص O
 تعليم O
 اللغة O
-الانجليزية B-LANGUAGE
+الانجليزية O
 بتاريخ B-DATE
 ( I-DATE
 26 I-DATE
@@ -17747,7 +17747,7 @@ c O
 الجداد O
 الباب O
 كل O
-ليلة B-TIME
+ليلة O
 مسكر O
 , O
 بعد B-DATE
@@ -17808,7 +17808,7 @@ c O
 بدك O
 تطلع O
 خول O
-4 B-ORDINAL
+4 O
 - O
 يقوم O
 الناخب O
@@ -17841,13 +17841,13 @@ c O
 مدينة I-GPE
 يافا I-GPE
 زمن O
-الانتداب B-EVENT
-البريطاني I-EVENT
-على I-EVENT
-فلسطين I-EVENT
+الانتداب O
+البريطاني O
+على O
+فلسطين O
 . O
 
-1 B-ORDINAL
+1 O
 - O
 على O
 الناخب O
@@ -17883,8 +17883,8 @@ x O
 ودخان O
 تفاصيل O
 زيارة O
-سجن B-FAC
-جلبوع I-FAC
+سجن O
+جلبوع O
 بتاريخ B-DATE
 ( I-DATE
 24 I-DATE
@@ -17907,7 +17907,7 @@ x O
 ) I-DATE
 . O
 
-2 B-ORDINAL
+2 O
 - O
 يجب O
 أن O
@@ -17936,7 +17936,7 @@ x O
 , O
 
 الفصل O
-الأول B-ORDINAL
+الأول O
 , O
 
 تقرير O
@@ -17944,8 +17944,8 @@ x O
 اوضاع O
 المعتقلين B-NORP
 في O
-سجن B-FAC
-كفاريونا I-FAC
+سجن O
+كفاريونا O
 ( O
 31 B-DATE
 / I-DATE
@@ -17968,8 +17968,8 @@ x O
 قطاع B-GPE
 غزة I-GPE
 بداية O
-انتفاضة B-EVENT
-الأقصى I-EVENT
+انتفاضة O
+الأقصى O
 عام B-DATE
 ( I-DATE
 2000 I-DATE
@@ -18008,7 +18008,7 @@ x O
 الجندي B-OCC
 العدو O
 ) O
-2 B-ORDINAL
+2 O
 - O
 تبدأ O
 لجنة O
@@ -18053,7 +18053,7 @@ x O
 اللي O
 جابو O
 
-3 B-ORDINAL
+3 O
 - O
 بعد O
 انتهاء O
@@ -18112,7 +18112,7 @@ x O
 ) I-DATE
 . O
 
-5 B-ORDINAL
+5 O
 - O
 تدون O
 جميع O
@@ -18267,7 +18267,7 @@ x O
 2010 I-DATE
 ) I-DATE
 . O
-1 B-ORDINAL
+1 O
 - O
 بعد O
 الانتهاء O
@@ -18280,7 +18280,7 @@ x O
 الاقتراع O
 بإعداد O
 وتنظيم O
-ثلاثة B-CARDINAL
+ثلاثة O
 محاضر O
 نهائية O
 أحدهما O
@@ -18288,13 +18288,13 @@ x O
 بانتخاب O
 الرئيس B-OCC
 ، O
-والثاني B-ORDINAL
+والثاني O
 بانتخاب O
 أعضاء B-NORP
 المجلس I-NORP
 فردياً O
 ، O
-والثالث B-ORDINAL
+والثالث O
 يختص O
 بانتخاب O
 القوائم O
@@ -18327,7 +18327,7 @@ x O
 . O
 , O
 
-4 B-ORDINAL
+4 O
 - O
 يوقع O
 كل O
@@ -18356,7 +18356,7 @@ x O
 تقرير O
 مالي O
 باللغة O
-الانجليزية B-LANGUAGE
+الانجليزية O
 من O
 شركة B-ORG
 سابا I-ORG
@@ -18393,10 +18393,10 @@ x O
 والتعليم I-OCC
 الأردني I-OCC
 بخصوص O
-مؤتمر B-EVENT
-خبراء I-EVENT
-التعليم I-EVENT
-الثانوي I-EVENT
+مؤتمر O
+خبراء O
+التعليم O
+الثانوي O
 بتاريخ B-DATE
 ( I-DATE
 1 I-DATE
@@ -18439,10 +18439,10 @@ x O
 . O
 
 ويؤجل O
-الإعلان B-EVENT
-عن I-EVENT
-نتائج I-EVENT
-الانتخابات I-EVENT
+الإعلان O
+عن O
+نتائج O
+الانتخابات O
 في O
 هذه O
 الدائرة O
@@ -18457,10 +18457,10 @@ x O
 الشأن O
 , O
 
-مادة B-LAW
-( I-LAW
-91 I-LAW
-) I-LAW
+مادة O
+( O
+91 O
+) O
 , O
 
 تقديم O
@@ -18510,10 +18510,10 @@ x O
 توثيق O
 شفوي O
 لاحداث O
-حرب B-EVENT
-1948 I-EVENT
+حرب O
+1948 O
 ( O
-النكبة B-EVENT
+النكبة O
 ) O
 مقابلة O
 مع O
@@ -18525,10 +18525,10 @@ x O
 المنتخب I-OCC
 , O
 
-مادة B-LAW
-( I-LAW
-95 I-LAW
-) I-LAW
+مادة O
+( O
+95 O
+) O
 , O
 
 العامل O
@@ -18574,7 +18574,7 @@ x O
 المدرسة O
 , O
 ساقط O
-3 B-CARDINAL
+3 O
 امتحانات O
 لهلقيت O
 , O
@@ -18608,13 +18608,13 @@ x O
 خلال B-DATE
 أسبوعين I-DATE
 من O
-يوم B-EVENT
-الانتخابات I-EVENT
+يوم O
+الانتخابات O
 . O
 , O
 
 الباب O
-العاشر B-ORDINAL
+العاشر O
 , O
 
 العامل O
@@ -18628,8 +18628,8 @@ x O
 سنة B-DATE
 52 I-DATE
 زمن O
-الانتداب B-EVENT
-البريطاني I-EVENT
+الانتداب O
+البريطاني O
 
 جامعة B-ORG
 بيرزيت I-ORG
@@ -18653,7 +18653,7 @@ x O
 
 العامل O
 : O
-هلقيت B-TIME
+هلقيت O
 يا O
 حرباية O
 شو O
@@ -18721,7 +18721,7 @@ x O
 زيك O
 يسلكني O
 
-1 B-ORDINAL
+1 O
 - O
 يحظر O
 على O
@@ -18892,7 +18892,7 @@ x O
 . O
 , O
 
-2 B-ORDINAL
+2 O
 - O
 يعاقب O
 كل O
@@ -18904,10 +18904,10 @@ x O
 المنصوص O
 عليها O
 في O
-الفقرة B-LAW
-( I-LAW
-1 I-LAW
-) I-LAW
+الفقرة O
+( O
+1 O
+) O
 أعلاه O
 بعد O
 إدانته O
@@ -18925,10 +18925,10 @@ x O
 : O
 , O
 
-مادة B-LAW
-( I-LAW
-104 I-LAW
-) I-LAW
+مادة O
+( O
+104 O
+) O
 , O
 
 صاحب O
@@ -19138,7 +19138,7 @@ x O
 مش O
 وقتو O
 , O
-هلقيت B-TIME
+هلقيت O
 فطنت O
 حالك O
 لما O
@@ -19472,9 +19472,9 @@ x O
 لما O
 لايقل O
 عن O
-170 B-CARDINAL
-، I-CARDINAL
-0 I-CARDINAL
+170 O
+، O
+0 O
 طفل O
 كنتيجة O
 للعنف O
@@ -19692,7 +19692,7 @@ x O
 . O
 
 مشهد O
-3 B-CARDINAL
+3 O
 
 فتاة O
 جالسه O
@@ -20083,7 +20083,7 @@ x O
 . O
 
 المشهد O
-الرابع B-ORDINAL
+الرابع O
 : O
 
 جريدة B-ORG
@@ -20146,7 +20146,7 @@ x O
 الجدول O
 انا O
 وين O
-الليلة B-TIME
+الليلة O
 ? O
 
 الزوجة O
@@ -20191,7 +20191,7 @@ x O
 الخ O
 
 المشهد O
-الاول B-ORDINAL
+الاول O
 : O
 
 يصور O
@@ -20201,10 +20201,10 @@ x O
 ليعبر O
 عن O
 زمن O
-لجوء B-EVENT
-الفلسطينيين I-EVENT
-عام I-EVENT
-48 I-EVENT
+لجوء O
+الفلسطينيين O
+عام O
+48 O
 . O
 
 نرى O
@@ -20307,7 +20307,7 @@ x O
 . O
 
 الدنيا O
-مساء B-TIME
+مساء O
 , O
 الجميع O
 جالس O
@@ -20448,7 +20448,7 @@ x O
 . O
 الحلاق B-OCC
 يعلق O
-3 B-CARDINAL
+3 O
 صور O
 وهي O
 موديلات O
@@ -20801,23 +20801,23 @@ x O
 
 - O
 قالك O
-ساعة B-TIME
-ونص I-TIME
+ساعة O
+ونص O
 بنكون O
 مخلصين O
 ع O
 كلشي O
 , O
 مش O
-ساعة B-TIME
-وربع I-TIME
+ساعة O
+وربع O
 ولا O
-ساعتين B-TIME
-الا I-TIME
-10 I-TIME
-دقائق I-TIME
-, I-TIME
-ونص I-TIME
+ساعتين O
+الا O
+10 O
+دقائق O
+, O
+ونص O
 
 ارتياح O
 فلسطيني O
@@ -20828,7 +20828,7 @@ x O
 انهاء O
 الانقسام O
 من O
-دقيقة B-TIME
+دقيقة O
 0 O
 : O
 ( O
@@ -20916,7 +20916,7 @@ x O
 نمبر O
 , O
 شوفوا O
-هلقيت B-TIME
+هلقيت O
 كيف O
 بدو O
 يعجب O
@@ -21058,7 +21058,7 @@ x O
 ادا O
 مش O
 مازعه O
-3 B-CARDINAL
+3 O
 ساندويشات O
 شاورما O
 قبل O
@@ -21097,7 +21097,7 @@ x O
 . O
 
 مشهد O
-2 B-ORDINAL
+2 O
 
 جريدة B-ORG
 فلسطين I-ORG
@@ -21276,7 +21276,7 @@ x O
 . O
 
 لوحة O
-2 B-ORDINAL
+2 O
 : O
 
 حجة O
@@ -21294,7 +21294,7 @@ x O
 تنكدي O
 علينا O
 ? O
-هلقيت B-TIME
+هلقيت O
 بتقطع O
 الكهرباء O
 وبناموا O
@@ -21528,7 +21528,7 @@ x O
 . O
 
 مذيع B-OCC
-1 B-ORDINAL
+1 O
 : O
 مساء O
 الخير O
@@ -21836,7 +21836,7 @@ x O
 . O
 
 مشهد O
-1 B-ORDINAL
+1 O
 : O
 
 فاخر B-PERS
@@ -22263,8 +22263,8 @@ x O
 محشية O
 وعلى O
 الوجه O
-نص B-QUANTITY
-كيلو I-QUANTITY
+نص O
+كيلو O
 لوز O
 وصنوبر O
 , O
@@ -22354,7 +22354,7 @@ x O
 العروس O
 : O
 انا O
-هلقيت B-TIME
+هلقيت O
 ببلش O
 ارج O
 من O
@@ -22370,7 +22370,7 @@ x O
 بروح O
 عدار O
 ابوي O
-هلقيت B-TIME
+هلقيت O
 
 جريدة B-ORG
 فلسطين I-ORG
@@ -22544,7 +22544,7 @@ x O
 فهمانة O
 
 مواطن O
-3 B-ORDINAL
+3 O
 : O
 
 جريدة B-ORG
@@ -22695,9 +22695,9 @@ x O
 بلدية B-ORG
 بيرزيت I-ORG
 رقم O
-10 B-ORDINAL
-/ I-ORDINAL
-66 I-ORDINAL
+10 O
+/ O
+66 O
 بتاريخ B-DATE
 ( I-DATE
 27 I-DATE
@@ -22725,9 +22725,9 @@ x O
 بلدية B-ORG
 بيرزيت I-ORG
 رقم O
-107 B-ORDINAL
-/ I-ORDINAL
-73 I-ORDINAL
+107 O
+/ O
+73 O
 بتاريخ B-DATE
 ( I-DATE
 10 I-DATE
@@ -22819,9 +22819,9 @@ x O
 بلدية B-ORG
 بيرزيت I-ORG
 رقم O
-2 B-ORDINAL
-/ I-ORDINAL
-66 I-ORDINAL
+2 O
+/ O
+66 O
 بتاريخ B-DATE
 ( I-DATE
 2 I-DATE
@@ -22837,7 +22837,7 @@ x O
 بلدية B-ORG
 بيرزيت I-ORG
 رقم O
-25 B-ORDINAL
+25 O
 بتاريخ B-DATE
 ( I-DATE
 10 I-DATE
@@ -22853,7 +22853,7 @@ x O
 بلدية B-ORG
 بيرزيت I-ORG
 رقم O
-29 B-ORDINAL
+29 O
 بتاريخ B-DATE
 ( I-DATE
 15 I-DATE
@@ -22869,9 +22869,9 @@ x O
 بلدية B-ORG
 بيرزيت I-ORG
 رقم O
-30 B-ORDINAL
-/ I-ORDINAL
-67 I-ORDINAL
+30 O
+/ O
+67 O
 بتاريخ B-DATE
 ( I-DATE
 16 I-DATE
@@ -22887,9 +22887,9 @@ x O
 بلدية B-ORG
 بيرزيت I-ORG
 رقم O
-33 B-ORDINAL
-/ I-ORDINAL
-67 I-ORDINAL
+33 O
+/ O
+67 O
 بتاريخ B-DATE
 ( I-DATE
 20 I-DATE
@@ -22905,7 +22905,7 @@ x O
 بلدية B-ORG
 بيرزيت I-ORG
 رقم O
-35 B-ORDINAL
+35 O
 بتاريخ B-DATE
 ( I-DATE
 28 I-DATE
@@ -22921,9 +22921,9 @@ x O
 بلدية B-ORG
 بيرزيت I-ORG
 رقم O
-38 B-ORDINAL
-/ I-ORDINAL
-67 I-ORDINAL
+38 O
+/ O
+67 O
 بتاريخ B-DATE
 ( I-DATE
 8 I-DATE
@@ -22939,7 +22939,7 @@ x O
 بلدية B-ORG
 بيرزيت I-ORG
 رقم O
-42 B-ORDINAL
+42 O
 بتاريخ B-DATE
 ( I-DATE
 21 I-DATE
@@ -22955,9 +22955,9 @@ x O
 بلدية B-ORG
 بيرزيت I-ORG
 رقم O
-42 B-ORDINAL
-/ I-ORDINAL
-67 I-ORDINAL
+42 O
+/ O
+67 O
 بتاريخ B-DATE
 ( I-DATE
 14 I-DATE
@@ -22973,7 +22973,7 @@ x O
 بلدية B-ORG
 بيرزيت I-ORG
 رقم O
-50 B-ORDINAL
+50 O
 بتاريخ B-DATE
 ( I-DATE
 15 I-DATE
@@ -22989,9 +22989,9 @@ x O
 بلدية B-ORG
 بيرزيت I-ORG
 رقم O
-56 B-ORDINAL
-/ I-ORDINAL
-69 I-ORDINAL
+56 O
+/ O
+69 O
 بتاريخ B-DATE
 ( I-DATE
 7 I-DATE
@@ -23007,7 +23007,7 @@ x O
 بلدية B-ORG
 بيرزيت I-ORG
 رقم O
-57 B-ORDINAL
+57 O
 بتاريخ B-DATE
 ( I-DATE
 21 I-DATE
@@ -23023,7 +23023,7 @@ x O
 بلدية B-ORG
 بيرزيت I-ORG
 رقم O
-59 B-ORDINAL
+59 O
 بتاريخ B-DATE
 ( I-DATE
 13 I-DATE
@@ -23039,7 +23039,7 @@ x O
 بلدية B-ORG
 بيرزيت I-ORG
 رقم O
-70 B-ORDINAL
+70 O
 بتاريخ B-DATE
 ( I-DATE
 2 I-DATE
@@ -23055,9 +23055,9 @@ x O
 بلدية B-ORG
 بيرزيت I-ORG
 رقم O
-74 B-ORDINAL
-/ I-ORDINAL
-71 I-ORDINAL
+74 O
+/ O
+71 O
 بتاريخ B-DATE
 ( I-DATE
 15 I-DATE
@@ -23073,9 +23073,9 @@ x O
 بلدية B-ORG
 بيرزيت I-ORG
 رقم O
-78 B-ORDINAL
-/ I-ORDINAL
-71 I-ORDINAL
+78 O
+/ O
+71 O
 بتاريخ B-DATE
 ( I-DATE
 9 I-DATE
@@ -23091,19 +23091,19 @@ x O
 يدققون O
 الهويات O
 عند O
-مداخل B-FAC
-البلدة I-FAC
-القدية I-FAC
-في I-FAC
-مدينة I-FAC
-القدس I-FAC
+مداخل O
+البلدة O
+القدية O
+في O
+مدينة O
+القدس O
 بسبب O
-احداث B-EVENT
-ثورة I-EVENT
-فلسطين I-EVENT
-1936 I-EVENT
-- I-EVENT
-1939 I-EVENT
+احداث O
+ثورة O
+فلسطين O
+1936 O
+- O
+1939 O
 . O
 
 جواز O
@@ -23140,8 +23140,8 @@ x O
 الاسود O
 . O
 
-حائط B-FAC
-البراق I-FAC
+حائط O
+البراق O
 في O
 مدينة B-GPE
 القدس I-GPE
@@ -23267,7 +23267,7 @@ x O
 غزة I-OCC
 رقمها O
 ( O
-1598 B-ORDINAL
+1598 O
 ) O
 : O
 بتاريخ B-DATE
@@ -23297,7 +23297,7 @@ x O
 القطعة O
 المرج O
 الشرقي O
-1551 B-ORDINAL
+1551 O
 : O
 بتاريخ B-DATE
 ( I-DATE
@@ -23432,20 +23432,20 @@ x O
 الناصرة I-GPE
 . O
 
-خروج B-EVENT
-قطار I-EVENT
-عن I-EVENT
-سكة I-EVENT
-الحديد I-EVENT
+خروج O
+قطار O
+عن O
+سكة O
+الحديد O
 من O
 قبل O
 الثوار O
 أثناء O
-ثورة B-EVENT
-فلسطين I-EVENT
-1936 I-EVENT
-- I-EVENT
-1939 I-EVENT
+ثورة O
+فلسطين O
+1936 O
+- O
+1939 O
 . O
 
 خريطة O
@@ -23465,9 +23465,9 @@ x O
 سوريا B-GPE
 والعراق B-GPE
 حسب O
-اتفاقية B-EVENT
-سايكس I-EVENT
-بيكو I-EVENT
+اتفاقية O
+سايكس O
+بيكو O
 سنة B-DATE
 ( I-DATE
 1916 I-DATE
@@ -23486,11 +23486,11 @@ x O
 1918 I-DATE
 ) O
 خلال O
-الحرب B-EVENT
-العالمية I-EVENT
-الأولى I-EVENT
+الحرب O
+العالمية O
+الأولى O
 القسم O
-الثاني B-ORDINAL
+الثاني O
 . O
 
 خلاصة O
@@ -23568,13 +23568,13 @@ x O
 العاصمة B-LOC
 الأردنية I-LOC
 خلال O
-أحداث B-EVENT
-أيلول I-EVENT
-الأسود I-EVENT
-عام I-EVENT
-( I-EVENT
-1970 I-EVENT
-) I-EVENT
+أحداث O
+أيلول O
+الأسود O
+عام O
+( O
+1970 O
+) O
 . O
 
 دستور O
@@ -23662,9 +23662,9 @@ x O
 
 دعوة O
 لحضور O
-المهرجان B-EVENT
-الإنتخابي I-EVENT
-الإفتتاحي I-EVENT
+المهرجان O
+الإنتخابي O
+الإفتتاحي O
 الذي O
 ستقيمه O
 جبهة B-ORG
@@ -23728,7 +23728,7 @@ x O
 منهج O
 التربية O
 باللغة O
-العربية B-LANGUAGE
+العربية O
 الصادر O
 عن O
 وزارة B-ORG
@@ -23740,9 +23740,9 @@ x O
 . O
 
 صورة O
-دير B-FAC
-مار I-FAC
-سابا I-FAC
+دير O
+مار O
+سابا O
 مدينة B-GPE
 بيت I-GPE
 لحم I-GPE
@@ -23758,7 +23758,7 @@ x O
 اعلان O
 رقم O
 ( O
-4 B-ORDINAL
+4 O
 ) O
 بخصوص O
 استمرار O
@@ -23799,12 +23799,12 @@ x O
 اعلان O
 رقم O
 ( O
-7 B-ORDINAL
+7 O
 ) O
 بخصوص O
 إصلاح O
-طريق B-FAC
-نابلس I-FAC
+طريق O
+نابلس O
 / O
 محافظة B-GPE
 أريحا I-GPE
@@ -23892,7 +23892,7 @@ x O
 : O
 اعلان O
 ( O
-5 B-ORDINAL
+5 O
 ) O
 : O
 بخصوص O
@@ -24005,24 +24005,24 @@ x O
 
 وبعدما O
 أُفيد O
-باستخدام B-EVENT
-المواد I-EVENT
-الكيميائية I-EVENT
-الشديدة I-EVENT
-السمية I-EVENT
-في I-EVENT
-ريف I-EVENT
-إدلب I-EVENT
-يوم I-EVENT
-الثلاثاء I-EVENT
+باستخدام O
+المواد O
+الكيميائية O
+الشديدة O
+السمية O
+في O
+ريف O
+إدلب O
+يوم O
+الثلاثاء O
 ، O
 وبعد O
 وصول O
 أوائل O
 المرضى B-NORP
 إلى O
-مستشفى B-FAC
-الرحمة I-FAC
+مستشفى O
+الرحمة O
 ، O
 تعطل O
 المستشفى O
@@ -24089,11 +24089,11 @@ x O
 - O
 - O
 من O
-مخزن B-FAC
-شركاء I-FAC
-منظمة I-FAC
-الصحة I-FAC
-العالمية I-FAC
+مخزن O
+شركاء O
+منظمة O
+الصحة O
+العالمية O
 الموجود O
 في O
 إدلب B-GPE
@@ -24144,9 +24144,9 @@ x O
 الله I-OCC
 : O
 المبحث O
-عمارة B-FAC
-الخان I-FAC
-القديم I-FAC
+عمارة O
+الخان O
+القديم O
 : O
 بتاريخ B-DATE
 ( I-DATE
@@ -26035,7 +26035,7 @@ x O
 على O
 الوضع O
 البائس O
-لآلاف B-CARDINAL
+لآلاف O
 الناس O
 الذين O
 يعانون O
@@ -26176,7 +26176,7 @@ x O
 ليبيا B-GPE
 , O
 
-4 B-ORDINAL
+4 O
 - O
 استعادة O
 الرعاية O
@@ -26189,7 +26189,7 @@ x O
 الصحة I-ORG
 العالمية I-ORG
 أيضاً O
-تسع B-CARDINAL
+تسع O
 مستشفيات O
 في O
 المنطقة O
@@ -26241,13 +26241,13 @@ x O
 ويوفر O
 أكثر O
 من O
-520 B-CARDINAL
+520 O
 من O
 المرافق O
 الصحية O
 في O
 سوريا B-GPE
-الآن B-TIME
+الآن O
 خدمات O
 دعم O
 الصحة O
@@ -26268,7 +26268,7 @@ x O
 وتعمل O
 بالتعاون O
 مع O
-مئات B-CARDINAL
+مئات O
 من O
 الشركاء O
 الدوليين O
@@ -26364,8 +26364,8 @@ x O
 الأمم I-ORG
 المتحدة I-ORG
 نحو O
-3 B-CARDINAL
-آلاف I-CARDINAL
+3 O
+آلاف O
 لاجئ O
 من O
 ليبيا B-GPE
@@ -26415,9 +26415,9 @@ x O
 توطين O
 في O
 بلدان O
-ثالثة B-ORDINAL
+ثالثة O
 لنحو O
-2000 B-CARDINAL
+2000 O
 شخص O
 في B-DATE
 العام I-DATE
@@ -26427,7 +26427,7 @@ x O
 مفوضية B-ORG
 الأمم I-ORG
 المتحدة I-ORG
-حالياً B-TIME
+حالياً O
 أولوية O
 الإجلاء O
 للنساء B-NORP
@@ -26450,7 +26450,7 @@ x O
 الاضطهاد O
 السياسي O
 ومحتجز O
-الآن B-TIME
+الآن O
 في O
 ليبيا B-GPE
 ، O
@@ -26842,9 +26842,9 @@ x O
 أولئك O
 المحتجزين B-NORP
 في O
-مركز B-FAC
-سوق I-FAC
-الخميس I-FAC
+مركز O
+سوق O
+الخميس O
 يحظون O
 بظروف O
 أفضل O
@@ -26868,9 +26868,9 @@ x O
 إريتريا B-GPE
 احتجز O
 في O
-مركز B-FAC
-سوق I-FAC
-الخميس I-FAC
+مركز O
+سوق O
+الخميس O
 , O
 
 رسالة O
@@ -27050,9 +27050,9 @@ x O
 1961 I-DATE
 ) I-DATE
 . O
-وبعد B-TIME
-عدة I-TIME
-ساعات I-TIME
+وبعد O
+عدة O
+ساعات O
 حلقت O
 طائرة O
 فوق O
@@ -27157,9 +27157,9 @@ x O
 أن O
 الوضع O
 في O
-مركز B-FAC
-احتجاز I-FAC
-غريان I-FAC
+مركز O
+احتجاز O
+غريان O
 أفضل O
 . O
 , O
@@ -27250,7 +27250,7 @@ x O
 حول O
 تمديد O
 المادة O
-الخامسة B-ORDINAL
+الخامسة O
 من O
 نظام O
 المجلس B-ORG
@@ -27299,10 +27299,10 @@ x O
 بيت I-GPE
 نبالا I-GPE
 قبل O
-حرب B-EVENT
-1948 I-EVENT
+حرب O
+1948 O
 ( O
-النكبة B-EVENT
+النكبة O
 ) O
 . O
 
@@ -27310,9 +27310,9 @@ x O
 محامي B-OCC
 لمعتقل O
 في O
-سجن B-FAC
-اوهالي I-FAC
-كيدار I-FAC
+سجن O
+اوهالي O
+كيدار O
 ، O
 ( O
 2 B-DATE
@@ -27367,8 +27367,8 @@ x O
 ] O
 . O
 
-سوق B-FAC
-الجمعة I-FAC
+سوق O
+الجمعة O
 في O
 مدينة B-GPE
 القدس I-GPE
@@ -27380,8 +27380,8 @@ x O
 جزء1 O
 . O
 
-سوق B-FAC
-الخضار I-FAC
+سوق O
+الخضار O
 في O
 مدينة B-GPE
 يافا I-GPE
@@ -27422,8 +27422,8 @@ x O
 جبر I-GPE
 . O
 
-شارع B-FAC
-يافا I-FAC
+شارع O
+يافا O
 في O
 مدينة B-GPE
 القدس I-GPE
@@ -27838,7 +27838,7 @@ x O
 نمرتها O
 "" O
 "" O
-186 B-ORDINAL
+186 O
 "" O
 "" O
 المنطقة O
@@ -27993,10 +27993,10 @@ x O
 . O
 
 شهداء O
-مجزرة B-EVENT
-قرية I-EVENT
-دير I-EVENT
-ياسين I-EVENT
+مجزرة O
+قرية O
+دير O
+ياسين O
 حقائق O
 ( O
 9 B-DATE
@@ -28010,10 +28010,10 @@ x O
 شهود O
 عيان O
 من O
-مجزرة B-EVENT
-قرية I-EVENT
-دير I-EVENT
-ياسين I-EVENT
+مجزرة O
+قرية O
+دير O
+ياسين O
 ام B-PERS
 عزيز I-PERS
 عايشت O
@@ -28079,11 +28079,11 @@ x O
 ) I-DATE
 . O
 
-جلسة B-EVENT
-المجلس I-EVENT
-التشريعي I-EVENT
-الفلسطيني I-EVENT
-الاولى I-EVENT
+جلسة O
+المجلس O
+التشريعي O
+الفلسطيني O
+الاولى O
 تم O
 إذاعتها O
 على O
@@ -28116,9 +28116,9 @@ x O
 1996 I-DATE
 ) I-DATE
 بعد O
-اتفاقية B-EVENT
-أوسلو I-EVENT
-1 I-EVENT
+اتفاقية O
+أوسلو O
+1 O
 . O
 
 اخبار O
@@ -28141,9 +28141,9 @@ x O
 1996 I-DATE
 ) I-DATE
 بعد O
-اتفاقية B-EVENT
-أوسلو I-EVENT
-1 I-EVENT
+اتفاقية O
+أوسلو O
+1 O
 . O
 
 اخبار O
@@ -28215,8 +28215,8 @@ x O
 برنامج O
 خاص O
 حول O
-قمة B-EVENT
-واشنطن I-EVENT
+قمة O
+واشنطن O
 الرباعية O
 تم O
 إذاعته O
@@ -28233,13 +28233,13 @@ x O
 1996 I-DATE
 ) I-DATE
 بعد O
-اتفاقية B-EVENT
-أوسلو I-EVENT
-1 I-EVENT
+اتفاقية O
+أوسلو O
+1 O
 . O
 
 الجزء O
-الثاني B-ORDINAL
+الثاني O
 من O
 خطاب O
 ياسر B-PERS
@@ -28267,9 +28267,9 @@ x O
 1996 I-DATE
 ) I-DATE
 بعد O
-اتفاقية B-EVENT
-أوسلو I-EVENT
-1 I-EVENT
+اتفاقية O
+أوسلو O
+1 O
 . O
 
 نشرات O
@@ -28316,7 +28316,7 @@ x O
 خليل B-PERS
 السكاكيني I-PERS
 القسم O
-1 B-ORDINAL
+1 O
 . O
 
 صور O
@@ -28352,12 +28352,12 @@ x O
 بلا I-ORG
 حدود I-ORG
 من O
-140 B-CARDINAL
+140 O
 شخصاً O
 إلى O
-2 B-CARDINAL
-, I-CARDINAL
-0 I-CARDINAL
+2 O
+, O
+0 O
 شخص O
 أسبوعياً O
 . O
@@ -28520,12 +28520,12 @@ x O
 ، O
 دخل O
 وليد B-PERS
-مستشفى B-FAC
-أطباء I-FAC
-بلا I-FAC
-حدود I-FAC
-في I-FAC
-عمّان I-FAC
+مستشفى O
+أطباء O
+بلا O
+حدود O
+في O
+عمّان O
 ، O
 حيث O
 اكتشف O
@@ -28647,12 +28647,12 @@ x O
 المضادات O
 الحيوية O
 في O
-مستشفى B-FAC
-أطباء I-FAC
-بلا I-FAC
-حدود I-FAC
-في I-FAC
-عدن I-FAC
+مستشفى O
+أطباء O
+بلا O
+حدود O
+في O
+عدن O
 ، O
 اليمن B-GPE
 . O
@@ -28670,7 +28670,7 @@ x O
 حدود I-ORG
 ، O
 كنّا O
-نصف B-CARDINAL
+نصف O
 المضادات O
 الحيوية O
 للمرضى B-NORP
@@ -28738,8 +28738,8 @@ x O
 فأصبح O
 عالقاً O
 في O
-مرفأ B-FAC
-مرسيليا I-FAC
+مرفأ O
+مرسيليا O
 في O
 فرنسا B-GPE
 , O
@@ -28768,8 +28768,8 @@ x O
 دورياته O
 البحرية O
 ضمن O
-عملية B-EVENT
-صوفيا I-EVENT
+عملية O
+صوفيا O
 , O
 
 ومن O
@@ -28821,8 +28821,8 @@ x O
 , O
 
 صور O
-قبر B-FAC
-راحيل I-FAC
+قبر O
+راحيل O
 في O
 مدينة B-GPE
 بيت I-GPE
@@ -28898,9 +28898,9 @@ x O
 الذي O
 نتج O
 عن O
-مجزرة B-EVENT
-صبرا I-EVENT
-وشاتيلا I-EVENT
+مجزرة O
+صبرا O
+وشاتيلا O
 ( O
 1982 B-DATE
 ) O
@@ -28908,17 +28908,17 @@ x O
 لبنان B-GPE
 . O
 
-مستشفى B-FAC
-أطباء I-FAC
-بلا I-FAC
-حدود I-FAC
+مستشفى O
+أطباء O
+بلا O
+حدود O
 يتدمر O
 جزئياً O
 جراء O
-هجوم B-EVENT
-في I-EVENT
-مدينة I-EVENT
-المخا I-EVENT
+هجوم O
+في O
+مدينة O
+المخا O
 , O
 
 صور O
@@ -28934,8 +28934,8 @@ x O
 . O
 
 صور O
-للقبور B-FAC
-الرومانية I-FAC
+للقبور O
+الرومانية O
 في O
 سبسطية B-GPE
 . O
@@ -28979,21 +28979,21 @@ x O
 ، O
 استقبل O
 المستشفى O
-1 B-CARDINAL
-, I-CARDINAL
-787 I-CARDINAL
+1 O
+, O
+787 O
 مريضًا O
 وأجرى O
 العاملون B-NORP
 فيه O
-2 B-CARDINAL
-, I-CARDINAL
-476 I-CARDINAL
+2 O
+, O
+476 O
 عملية O
 جراحية O
 ، O
 منها O
-201 B-CARDINAL
+201 O
 عملية O
 ولادة O
 قيصرية O
@@ -29110,21 +29110,21 @@ x O
 حياة O
 العائلة O
 القسم O
-2 B-ORDINAL
+2 O
 . O
 
 "" O
 صور O
 من O
-العدوان B-EVENT
-الإسرائيلي I-EVENT
-على I-EVENT
-قطاع I-EVENT
-غزة I-EVENT
+العدوان O
+الإسرائيلي O
+على O
+قطاع O
+غزة O
 "" O
 "" O
-الرصاص B-EVENT
-المصبوب I-EVENT
+الرصاص O
+المصبوب O
 "" O
 "" O
 2008 B-DATE
@@ -29145,9 +29145,9 @@ x O
 . O
 
 صورة O
-افتتاح B-EVENT
-محطة I-EVENT
-القطار I-EVENT
+افتتاح O
+محطة O
+القطار O
 في O
 العهد O
 العثماني O
@@ -29168,8 +29168,8 @@ x O
 
 صورة O
 تظهر O
-الجامع B-FAC
-الكبير I-FAC
+الجامع O
+الكبير O
 في O
 مدينة B-GPE
 طبريا I-GPE
@@ -29227,9 +29227,9 @@ x O
 عين O
 ماء O
 في O
-احراش B-FAC
-مدينة I-FAC
-صفد I-FAC
+احراش O
+مدينة O
+صفد O
 . O
 
 صورة O
@@ -29284,10 +29284,10 @@ x O
 الذين O
 هجروا O
 نتيجة O
-حرب B-EVENT
-1948 I-EVENT
+حرب O
+1948 O
 ( O
-النكبة B-EVENT
+النكبة O
 ) O
 . O
 
@@ -29299,13 +29299,13 @@ x O
 الفارعة I-GPE
 في O
 الذكرى O
-58 B-ORDINAL
+58 O
 لإحياء O
 ذكرى O
-حرب B-EVENT
-1948 I-EVENT
+حرب O
+1948 O
 ( O
-النكبة B-EVENT
+النكبة O
 ) O
 . O
 
@@ -29313,10 +29313,10 @@ x O
 قرية B-GPE
 ياقوق I-GPE
 بعد O
-حرب B-EVENT
-1948 I-EVENT
+حرب O
+1948 O
 ( O
-النكبة B-EVENT
+النكبة O
 ) O
 . O
 
@@ -29325,7 +29325,7 @@ x O
 فلسطيني O
 من O
 الجيل O
-الاول B-ORDINAL
+الاول O
 من O
 مخيم B-GPE
 عقبة I-GPE
@@ -29396,12 +29396,12 @@ x O
 . O
 
 صورة O
-لمبنى B-FAC
-محكمة I-FAC
-الصلح I-FAC
-في I-FAC
-مدينة I-FAC
-بيسان I-FAC
+لمبنى O
+محكمة O
+الصلح O
+في O
+مدينة O
+بيسان O
 . O
 
 صورة O
@@ -29454,18 +29454,18 @@ x O
 جنين I-GPE
 في O
 فترة O
-الانتداب B-EVENT
-البريطاني I-EVENT
-على I-EVENT
-فلسطين I-EVENT
+الانتداب O
+البريطاني O
+على O
+فلسطين O
 . O
 
 صورة O
 نادرة O
 وقديمة O
-لمسجد B-FAC
-عين I-FAC
-كارم I-FAC
+لمسجد O
+عين O
+كارم O
 في O
 الاربعينات B-DATE
 . O
@@ -29485,8 +29485,8 @@ x O
 خلال O
 فترة O
 الحصار O
-انتفاضة B-EVENT
-الأقصى I-EVENT
+انتفاضة O
+الأقصى O
 "" O
 . O
 
@@ -29513,8 +29513,8 @@ x O
 ) O
 . O
 
-طريق B-FAC
-السلسلة I-FAC
+طريق O
+السلسلة O
 في O
 مدينة B-GPE
 القدس I-GPE
@@ -29531,8 +29531,8 @@ x O
 الإحتلال I-NORP
 الإسرائيلي I-NORP
 خلال O
-انتفاضة B-EVENT
-الأقصى I-EVENT
+انتفاضة O
+الأقصى O
 . O
 
 طلب O
@@ -29749,12 +29749,12 @@ x O
 آذار I-DATE
 والذي O
 بلغ O
-1 B-CARDINAL
-, I-CARDINAL
-400 I-CARDINAL
+1 O
+, O
+400 O
 شخص O
 فهو O
-عشر B-CARDINAL
+عشر O
 أضعاف O
 المتوسط O
 اليومي B-DATE
@@ -29778,15 +29778,15 @@ x O
 لبنان B-GPE
 . O
 
-تعرّض B-EVENT
-أكثر I-EVENT
-من I-EVENT
-360 I-EVENT
-طفلاً I-EVENT
-للإصابة I-EVENT
-في I-EVENT
-عام I-EVENT
-2017 I-EVENT
+تعرّض O
+أكثر O
+من O
+360 O
+طفلاً O
+للإصابة O
+في O
+عام O
+2017 O
 ، O
 ما O
 تسبب O
@@ -29800,8 +29800,8 @@ x O
 صورة O
 للاحتفالات O
 في O
-عيد B-EVENT
-الميلاد I-EVENT
+عيد O
+الميلاد O
 في O
 مدينة B-GPE
 بيت I-GPE
@@ -29953,8 +29953,8 @@ x O
 المستمر O
 ما O
 يقارب O
-12 B-CARDINAL
-مليون I-CARDINAL
+12 O
+مليون O
 سوري B-NORP
 على O
 النزوح O
@@ -29969,9 +29969,9 @@ x O
 وجميع O
 الأطفال B-NORP
 المتأثرين O
-بالنزاع B-EVENT
-في I-EVENT
-سوريا I-EVENT
+بالنزاع O
+في O
+سوريا O
 ، O
 فإن O
 اليونيسف B-ORG
@@ -30115,9 +30115,9 @@ x O
 القدس I-GPE
 . O
 
-فندق B-FAC
-الملك I-FAC
-داوود I-FAC
+فندق O
+الملك O
+داوود O
 قبل O
 تدميره O
 من O
@@ -30133,11 +30133,11 @@ x O
 فوزي B-PERS
 القاوقجي I-PERS
 أثناء O
-ثورة B-EVENT
-فلسطين I-EVENT
-1936 I-EVENT
-- I-EVENT
-1939 I-EVENT
+ثورة O
+فلسطين O
+1936 O
+- O
+1939 O
 . O
 
 فيديو O
@@ -30159,15 +30159,15 @@ x O
 1937 B-DATE
 ) O
 الجزء O
-الاول B-ORDINAL
+الاول O
 . O
 كما O
 وصل O
 إلى O
 اليونان B-GPE
-143 B-CARDINAL
-, I-CARDINAL
-205 I-CARDINAL
+143 O
+, O
+205 O
 شخص O
 حتى O
 تاريخ B-DATE
@@ -30180,7 +30180,7 @@ x O
 ومات O
 أكثر O
 من O
-400 B-CARDINAL
+400 O
 شخص O
 أو O
 فُقدوا O
@@ -30207,7 +30207,7 @@ x O
 1937 B-DATE
 ) O
 الجزء O
-الثالث B-ORDINAL
+الثالث O
 . O
 
 الحدود O
@@ -30249,7 +30249,7 @@ x O
 مواليد O
 1933 B-DATE
 الجزء O
-الخامس B-ORDINAL
+الخامس O
 . O
 
 لسبوس B-LOC
@@ -30270,9 +30270,9 @@ x O
 ، O
 وقد O
 وصل O
-83 B-CARDINAL
-, I-CARDINAL
-475 I-CARDINAL
+83 O
+, O
+475 O
 شخص O
 إلى O
 الجزيرة O
@@ -30283,8 +30283,8 @@ x O
 / I-DATE
 آذار I-DATE
 ، O
-92 B-PERCENT
-بالمئة I-PERCENT
+92 O
+بالمئة O
 منهم O
 من O
 سوريا B-GPE
@@ -30336,7 +30336,7 @@ x O
 / I-DATE
 كانون I-DATE
 الثاني I-DATE
-8372 B-CARDINAL
+8372 O
 استشارة O
 طبية O
 , O
@@ -30428,8 +30428,8 @@ x O
 الوقود O
 التي O
 تبعد O
-20 B-QUANTITY
-كيلومترٍ I-QUANTITY
+20 O
+كيلومترٍ O
 عن O
 المخيم O
 . O
@@ -30439,8 +30439,8 @@ x O
 بالاعضاء O
 المشاركين O
 في O
-المؤتمر B-EVENT
-الفلسطيني I-EVENT
+المؤتمر O
+الفلسطيني O
 المنعقد O
 في O
 مدينة B-GPE
@@ -30562,8 +30562,8 @@ x O
 . O
 لقد O
 أصبحت O
-ساحة B-FAC
-فكتوريا I-FAC
+ساحة O
+فكتوريا O
 في O
 قلب O
 أثينا B-GPE
@@ -30596,8 +30596,8 @@ x O
 في O
 مرفقٍ O
 قرب O
-ساحة B-FAC
-فيكتوريا I-FAC
+ساحة O
+فيكتوريا O
 ، O
 حيث O
 تقوم O
@@ -30621,10 +30621,10 @@ x O
 لسنة B-DATE
 1929 I-DATE
 / O
-30 B-CARDINAL
+30 O
 بموجب O
 المادة O
-7 B-ORDINAL
+7 O
 "" O
 "" O
 بلدية B-ORG
@@ -30649,10 +30649,10 @@ x O
 لسنة B-DATE
 1929 I-DATE
 / O
-30 B-CARDINAL
+30 O
 بموجب O
 المادة O
-7 B-ORDINAL
+7 O
 امر O
 بحجز O
 الإيجارات O
@@ -30680,7 +30680,7 @@ x O
 ، O
 علقَ O
 حوالي O
-280 B-CARDINAL
+280 O
 شخص O
 منذ B-DATE
 ثلاثة I-DATE
@@ -30699,13 +30699,13 @@ x O
 الحدود B-LOC
 الصربية I-LOC
 حوالي O
-1 B-CARDINAL
-, I-CARDINAL
-500 I-CARDINAL
+1 O
+, O
+500 O
 شخص O
 ، O
 ويوجد O
-900 B-CARDINAL
+900 O
 أفغاني B-NORP
 عالقون O
 هناك O
@@ -30720,7 +30720,7 @@ x O
 وصلت O
 مجموعة O
 تضمّ O
-400 B-CARDINAL
+400 O
 لاجئ O
 من O
 سوريا B-GPE
@@ -30769,7 +30769,7 @@ x O
 المتنقّل O
 أكثر O
 من O
-100 B-CARDINAL
+100 O
 استشارة O
 في O
 بريسيفو B-GPE
@@ -30779,10 +30779,10 @@ x O
 صادر O
 عن O
 إدارة O
-الانتداب B-EVENT
-البريطاني I-EVENT
-على I-EVENT
-فلسطين I-EVENT
+الانتداب O
+البريطاني O
+على O
+فلسطين O
 بخصوص O
 مجلس B-ORG
 تصريف I-ORG
@@ -30830,8 +30830,8 @@ x O
 . O
 , O
 
-قبة B-FAC
-الصخرة I-FAC
+قبة O
+الصخرة O
 في O
 مدينة B-GPE
 القدس I-GPE
@@ -30903,7 +30903,7 @@ x O
 العودة O
 رقم O
 ( O
-194 B-ORDINAL
+194 O
 ) O
 الصادر O
 عن O
@@ -30939,7 +30939,7 @@ x O
 بيرزيت I-ORG
 في O
 الجلسة O
-22 B-ORDINAL
+22 O
 بتاريخ B-DATE
 ( I-DATE
 4 I-DATE
@@ -30953,8 +30953,8 @@ x O
 قرية B-GPE
 البصة I-GPE
 بعد O
-الإحتلال B-EVENT
-الإسرائيلي I-EVENT
+الإحتلال O
+الإسرائيلي O
 سنة B-DATE
 ( I-DATE
 1948 I-DATE
@@ -30965,10 +30965,10 @@ x O
 قرية B-GPE
 قسطينة I-GPE
 بعد O
-حرب B-EVENT
-1948 I-EVENT
+حرب O
+1948 O
 ( O
-النكبة B-EVENT
+النكبة O
 ) O
 . O
 
@@ -31057,10 +31057,10 @@ x O
 قرية I-GPE
 اليامون I-GPE
 فترة O
-الانتداب B-EVENT
-البريطاني I-EVENT
-على I-EVENT
-فلسطين I-EVENT
+الانتداب O
+البريطاني O
+على O
+فلسطين O
 ( O
 1925 B-DATE
 / I-DATE
@@ -31078,10 +31078,10 @@ x O
 مدينة I-GPE
 جنين I-GPE
 فترة O
-الانتداب B-EVENT
-البريطاني I-EVENT
-على I-EVENT
-فلسطين I-EVENT
+الانتداب O
+البريطاني O
+على O
+فلسطين O
 عام B-DATE
 ( I-DATE
 1928 I-DATE
@@ -31115,10 +31115,10 @@ x O
 زرعين I-GPE
 في O
 فترة O
-الانتداب B-EVENT
-البريطاني I-EVENT
-على I-EVENT
-فلسطين I-EVENT
+الانتداب O
+البريطاني O
+على O
+فلسطين O
 . O
 
 وثائق O
@@ -31171,8 +31171,8 @@ x O
 ) O
 . O
 
-قصر B-FAC
-انيق I-FAC
+قصر O
+انيق O
 من O
 معالم O
 ما O
@@ -31186,8 +31186,8 @@ x O
 القدس I-GPE
 . O
 
-قصر B-FAC
-هشام I-FAC
+قصر O
+هشام O
 في O
 مدينة B-GPE
 أريحا I-GPE
@@ -31198,8 +31198,8 @@ x O
 السباحة O
 الواقعة O
 امام O
-القصر B-FAC
-الصحراوي I-FAC
+القصر O
+الصحراوي O
 الذي O
 بناه O
 الخليفة B-PERS
@@ -31210,9 +31210,9 @@ x O
 الملك I-PERS
 . O
 
-قصور B-FAC
-قرية I-FAC
-عرابة I-FAC
+قصور O
+قرية O
+عرابة O
 : O
 تصميم O
 القصور O
@@ -31304,36 +31304,36 @@ x O
 ) I-DATE
 . O
 
-كنيسة B-FAC
-السامريين I-FAC
+كنيسة O
+السامريين O
 في O
 البلدة B-GPE
 القديمة I-GPE
 في I-GPE
 مدينة I-GPE
 نابلس I-GPE
-حارة B-FAC
-الياسمينة I-FAC
+حارة O
+الياسمينة O
 . O
 
-كنيسة B-FAC
-الزيارة I-FAC
+كنيسة O
+الزيارة O
 في O
 قرية B-GPE
 عين I-GPE
 كارم I-GPE
 . O
 
-كنيسة B-FAC
-القديس I-FAC
-برفيريوس I-FAC
+كنيسة O
+القديس O
+برفيريوس O
 في O
 مدينة B-GPE
 غزة I-GPE
 . O
 
-كنيسة B-FAC
-القيامة I-FAC
+كنيسة O
+القيامة O
 ( O
 1900 B-DATE
 / I-DATE
@@ -31344,8 +31344,8 @@ x O
 القدس I-GPE
 . O
 
-كنيسة B-FAC
-المهد I-FAC
+كنيسة O
+المهد O
 في O
 مدينة B-GPE
 بيت I-GPE
@@ -31356,8 +31356,8 @@ x O
 العثماني I-DATE
 . O
 
-كنيسة B-FAC
-المهد I-FAC
+كنيسة O
+المهد O
 / O
 مدينة B-GPE
 بيت I-GPE
@@ -31368,10 +31368,10 @@ x O
 ) I-DATE
 . O
 
-كنيسة B-FAC
-سانت I-FAC
-جون I-FAC
-فيث I-FAC
+كنيسة O
+سانت O
+جون O
+فيث O
 في O
 مدينة B-GPE
 نابلس I-GPE
@@ -31383,8 +31383,8 @@ x O
 ) O
 . O
 
-كهف B-FAC
-لازروس I-FAC
+كهف O
+لازروس O
 في O
 قرية B-GPE
 بيت I-GPE
@@ -31464,10 +31464,10 @@ x O
 حتما O
 . O
 
-مؤتمر B-EVENT
-قضايا I-EVENT
-العالم I-EVENT
-العربي I-EVENT
+مؤتمر O
+قضايا O
+العالم O
+العربي O
 / O
 بيروت B-GPE
 / O
@@ -31490,9 +31490,9 @@ x O
 قضاء B-GPE
 بيسان I-GPE
 حول O
-اجتياح B-EVENT
-مخيم I-EVENT
-جنين I-EVENT
+اجتياح O
+مخيم O
+جنين O
 والعودة O
 ( O
 2002 B-DATE
@@ -31506,15 +31506,15 @@ x O
 سعيد I-PERS
 الوهدان I-PERS
 عن O
-اجتياح B-EVENT
-مخيم I-EVENT
-جنين I-EVENT
+اجتياح O
+مخيم O
+جنين O
 والعودة O
 ( O
 2002 B-DATE
 ) O
 الجزء O
-الاول B-ORDINAL
+الاول O
 . O
 
 مقابلة O
@@ -31531,20 +31531,20 @@ x O
 مدينة I-GPE
 حيفا I-GPE
 حول O
-حرب B-EVENT
-1948 I-EVENT
+حرب O
+1948 O
 ( O
-النكبة B-EVENT
+النكبة O
 ) O
-واجتياح B-EVENT
-مخيم I-EVENT
-جنين I-EVENT
+واجتياح O
+مخيم O
+جنين O
 عام B-DATE
 ( I-DATE
 2002 I-DATE
 ) I-DATE
 الجزء O
-الاول B-ORDINAL
+الاول O
 . O
 
 مقابلة O
@@ -31555,27 +31555,27 @@ x O
 حسن I-PERS
 السعدي I-PERS
 حول O
-حرب B-EVENT
-1948 I-EVENT
+حرب O
+1948 O
 ( O
-النكبة B-EVENT
+النكبة O
 ) O
-واجتياح B-EVENT
-مخيم I-EVENT
-جنين I-EVENT
+واجتياح O
+مخيم O
+جنين O
 عام B-DATE
 ( I-DATE
 2002 I-DATE
 ) I-DATE
 الجزء O
-الاول B-ORDINAL
+الاول O
 . O
 
 مجلة B-ORG
 العودة I-ORG
 العدد O
-الخامس B-ORDINAL
-والثلاثون I-ORDINAL
+الخامس O
+والثلاثون O
 : O
 ( O
 3 B-DATE
@@ -31599,8 +31599,8 @@ x O
 مجلة B-ORG
 العودة I-ORG
 العدد O
-الرابع B-ORDINAL
-والخمسون I-ORDINAL
+الرابع O
+والخمسون O
 : O
 ( O
 22 B-DATE
@@ -31614,18 +31614,18 @@ x O
 والتركيب O
 الهرمي O
 ضمن O
-تأسيس B-EVENT
-منظمة I-EVENT
-التحرير I-EVENT
-الفلسطينية I-EVENT
+تأسيس O
+منظمة O
+التحرير O
+الفلسطينية O
 . O
 
 مجلة B-ORG
 العودة I-ORG
 : O
 العدد O
-الثالث B-ORDINAL
-والخمسون I-ORDINAL
+الثالث O
+والخمسون O
 ( O
 8 B-DATE
 / I-DATE
@@ -31738,10 +31738,10 @@ x O
 ، O
 صور O
 من O
-حرم B-FAC
-بير I-FAC
-زيت I-FAC
-القديم I-FAC
+حرم O
+بير O
+زيت O
+القديم O
 . O
 
 مجلة B-ORG
@@ -31887,11 +31887,11 @@ x O
 أطلقت O
 اليونيسف B-ORG
 وشركائها O
-حملة B-EVENT
-تلقيح I-EVENT
-ضد I-EVENT
-شلل I-EVENT
-الأطفال I-EVENT
+حملة O
+تلقيح O
+ضد O
+شلل O
+الأطفال O
 هي O
 الأضخم O
 من O
@@ -31904,13 +31904,13 @@ x O
 تزويد O
 أكثر O
 من O
-25 B-CARDINAL
-ميلون I-CARDINAL
+25 O
+ميلون O
 طفل O
 وطفلة O
 باللقاحات O
 في O
-سبع B-CARDINAL
+سبع O
 دول O
 ، O
 ولأكثر O
@@ -32008,7 +32008,7 @@ x O
 1949 B-DATE
 ) O
 القسم O
-4 B-ORDINAL
+4 O
 . O
 
 مذكرات O
@@ -32019,7 +32019,7 @@ x O
 1949 B-DATE
 ) O
 القسم O
-5 B-ORDINAL
+5 O
 . O
 
 مذكرات O
@@ -32039,7 +32039,7 @@ x O
 1948 B-DATE
 ) O
 القسم O
-4 B-ORDINAL
+4 O
 . O
 
 مذكرات O
@@ -33221,7 +33221,7 @@ x O
 بها O
 البشر O
 ، O
-الآن B-TIME
+الآن O
 . O
 , O
 
@@ -33533,7 +33533,7 @@ x O
 
 مراسلات O
 رقم O
-1 B-ORDINAL
+1 O
 وزارة B-ORG
 التربية I-ORG
 والتعليم I-ORG
@@ -33553,7 +33553,7 @@ x O
 
 مراسلات O
 رقم O
-5 B-ORDINAL
+5 O
 وزارة B-ORG
 التربية I-ORG
 والتعليم I-ORG
@@ -33587,7 +33587,7 @@ x O
 ) I-DATE
 ( O
 القسم O
-السابع B-ORDINAL
+السابع O
 ) O
 . O
 
@@ -33626,15 +33626,15 @@ x O
 مدينة B-GPE
 طبريا I-GPE
 قبل O
-حرب B-EVENT
-1948 I-EVENT
+حرب O
+1948 O
 ( O
-النكبة B-EVENT
+النكبة O
 ) O
 . O
 
-مسجد B-FAC
-المولوية I-FAC
+مسجد O
+المولوية O
 في O
 حارة B-GPE
 السعدية I-GPE
@@ -33646,17 +33646,17 @@ x O
 القدس I-GPE
 . O
 
-مسجد B-FAC
-بن I-FAC
-عثمان I-FAC
+مسجد O
+بن O
+عثمان O
 في O
 مدينة B-GPE
 غزة I-GPE
 . O
 
-مسجد B-FAC
-قبة I-FAC
-الصخرة I-FAC
+مسجد O
+قبة O
+الصخرة O
 في O
 مدينة B-GPE
 القدس I-GPE
@@ -33725,7 +33725,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-163 B-ORDINAL
+163 O
 . O
 
 مضابط O
@@ -33738,7 +33738,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-184 B-ORDINAL
+184 O
 . O
 
 مضابط O
@@ -33751,7 +33751,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-230 B-ORDINAL
+230 O
 . O
 
 مضابط O
@@ -33764,7 +33764,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-240 B-ORDINAL
+240 O
 . O
 
 مضابط O
@@ -33777,7 +33777,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-257 B-ORDINAL
+257 O
 . O
 
 مضابط O
@@ -33790,7 +33790,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-286 B-ORDINAL
+286 O
 . O
 
 مضابط O
@@ -33803,7 +33803,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-334 B-ORDINAL
+334 O
 . O
 
 مضابط O
@@ -33816,7 +33816,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-404 B-ORDINAL
+404 O
 . O
 
 مضابط O
@@ -33829,7 +33829,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-408 B-ORDINAL
+408 O
 . O
 
 مضابط O
@@ -33842,7 +33842,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-426 B-ORDINAL
+426 O
 . O
 
 مضابط O
@@ -33855,7 +33855,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-435 B-ORDINAL
+435 O
 . O
 
 مضابط O
@@ -33868,7 +33868,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-170 B-ORDINAL
+170 O
 . O
 
 مضابط O
@@ -33881,7 +33881,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-189 B-ORDINAL
+189 O
 . O
 
 مضابط O
@@ -33894,7 +33894,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-209 B-ORDINAL
+209 O
 . O
 
 مضابط O
@@ -33907,7 +33907,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-23 B-ORDINAL
+23 O
 . O
 
 مضابط O
@@ -33920,7 +33920,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-237 B-ORDINAL
+237 O
 . O
 
 مضابط O
@@ -33933,7 +33933,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-240 B-ORDINAL
+240 O
 . O
 
 مضابط O
@@ -33946,7 +33946,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-264 B-ORDINAL
+264 O
 . O
 
 مضابط O
@@ -33959,7 +33959,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-299 B-ORDINAL
+299 O
 . O
 
 مضابط O
@@ -33972,7 +33972,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-331 B-ORDINAL
+331 O
 . O
 
 مضابط O
@@ -33985,7 +33985,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-41 B-ORDINAL
+41 O
 . O
 
 مضابط O
@@ -33998,7 +33998,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-68 B-ORDINAL
+68 O
 . O
 
 مضابط O
@@ -34011,7 +34011,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-96 B-ORDINAL
+96 O
 . O
 
 مضابط O
@@ -34024,7 +34024,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-139 B-ORDINAL
+139 O
 . O
 
 مضابط O
@@ -34037,7 +34037,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-150 B-ORDINAL
+150 O
 . O
 
 مضابط O
@@ -34050,7 +34050,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-167 B-ORDINAL
+167 O
 . O
 
 مضابط O
@@ -34063,7 +34063,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-175 B-ORDINAL
+175 O
 . O
 
 مضابط O
@@ -34076,7 +34076,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-181 B-ORDINAL
+181 O
 . O
 
 مضابط O
@@ -34089,7 +34089,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-189 B-ORDINAL
+189 O
 . O
 
 مضابط O
@@ -34102,7 +34102,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-19 B-ORDINAL
+19 O
 . O
 
 مضابط O
@@ -34115,7 +34115,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-211 B-ORDINAL
+211 O
 . O
 
 مضابط O
@@ -34128,7 +34128,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-266 B-ORDINAL
+266 O
 . O
 
 مضابط O
@@ -34141,7 +34141,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-278 B-ORDINAL
+278 O
 . O
 
 مضابط O
@@ -34154,7 +34154,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-281 B-ORDINAL
+281 O
 . O
 
 مضابط O
@@ -34167,7 +34167,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-286 B-ORDINAL
+286 O
 . O
 
 مضابط O
@@ -34180,7 +34180,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-293 B-ORDINAL
+293 O
 . O
 
 مضابط O
@@ -34193,7 +34193,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-39 B-ORDINAL
+39 O
 . O
 
 مضابط O
@@ -34206,7 +34206,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-43 B-ORDINAL
+43 O
 . O
 
 مضابط O
@@ -34219,7 +34219,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-986 B-ORDINAL
+986 O
 . O
 
 مضابط O
@@ -34232,7 +34232,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-122 B-ORDINAL
+122 O
 . O
 
 مضابط O
@@ -34245,7 +34245,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-148 B-ORDINAL
+148 O
 . O
 
 مضابط O
@@ -34258,7 +34258,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-192 B-ORDINAL
+192 O
 . O
 
 مضابط O
@@ -34271,7 +34271,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-222 B-ORDINAL
+222 O
 . O
 
 مضابط O
@@ -34284,7 +34284,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-234 B-ORDINAL
+234 O
 . O
 
 مضابط O
@@ -34297,7 +34297,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-269 B-ORDINAL
+269 O
 . O
 
 مضابط O
@@ -34310,7 +34310,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-297 B-ORDINAL
+297 O
 . O
 
 مضابط O
@@ -34323,7 +34323,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-300 B-ORDINAL
+300 O
 . O
 
 مضابط O
@@ -34336,7 +34336,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-342 B-ORDINAL
+342 O
 . O
 
 مضابط O
@@ -34349,7 +34349,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-83 B-ORDINAL
+83 O
 . O
 
 مضابط O
@@ -34362,7 +34362,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-93 B-ORDINAL
+93 O
 . O
 
 مضابط O
@@ -34375,7 +34375,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-443 B-ORDINAL
+443 O
 . O
 
 مضابط O
@@ -34388,7 +34388,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-533 B-ORDINAL
+533 O
 . O
 
 مضابط O
@@ -34401,7 +34401,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-768 B-ORDINAL
+768 O
 . O
 
 مضابط O
@@ -34417,7 +34417,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-1012 B-ORDINAL
+1012 O
 . O
 
 مضابط O
@@ -34433,7 +34433,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-1027 B-ORDINAL
+1027 O
 . O
 
 مضابط O
@@ -34449,7 +34449,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-1073 B-ORDINAL
+1073 O
 . O
 
 مضابط O
@@ -34465,7 +34465,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-1101 B-ORDINAL
+1101 O
 . O
 
 مضابط O
@@ -34481,7 +34481,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-1135 B-ORDINAL
+1135 O
 . O
 
 مضابط O
@@ -34497,7 +34497,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-1160 B-ORDINAL
+1160 O
 . O
 
 مضابط O
@@ -34513,7 +34513,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-1167 B-ORDINAL
+1167 O
 . O
 
 مضابط O
@@ -34529,7 +34529,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-1170 B-ORDINAL
+1170 O
 . O
 
 مضابط O
@@ -34545,7 +34545,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-124 B-ORDINAL
+124 O
 . O
 
 مضابط O
@@ -34561,7 +34561,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-148 B-ORDINAL
+148 O
 . O
 
 مضابط O
@@ -34577,7 +34577,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-151 B-ORDINAL
+151 O
 . O
 
 مضابط O
@@ -34593,7 +34593,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-221 B-ORDINAL
+221 O
 . O
 
 مضابط O
@@ -34609,7 +34609,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-26 B-ORDINAL
+26 O
 . O
 
 مضابط O
@@ -34625,7 +34625,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-293 B-ORDINAL
+293 O
 . O
 
 مضابط O
@@ -34641,7 +34641,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-369 B-ORDINAL
+369 O
 . O
 
 مضابط O
@@ -34657,7 +34657,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-47 B-ORDINAL
+47 O
 . O
 
 مضابط O
@@ -34673,7 +34673,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-516 B-ORDINAL
+516 O
 . O
 
 مضابط O
@@ -34689,7 +34689,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-563 B-ORDINAL
+563 O
 . O
 
 مضابط O
@@ -34705,7 +34705,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-70 B-ORDINAL
+70 O
 . O
 
 مضابط O
@@ -34721,7 +34721,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-708 B-ORDINAL
+708 O
 . O
 
 مضابط O
@@ -34737,7 +34737,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-87 B-ORDINAL
+87 O
 . O
 
 مضابط O
@@ -34753,7 +34753,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-878 B-ORDINAL
+878 O
 . O
 
 مضابط O
@@ -34769,7 +34769,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-919 B-ORDINAL
+919 O
 . O
 
 مضابط O
@@ -34785,7 +34785,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-970 B-ORDINAL
+970 O
 . O
 
 مضابط O
@@ -34801,7 +34801,7 @@ x O
 ميلادي I-DATE
 مضبط O
 رقم O
-324 B-ORDINAL
+324 O
 . O
 
 مضابط O
@@ -34814,7 +34814,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-422 B-ORDINAL
+422 O
 . O
 
 مضابط O
@@ -34827,7 +34827,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-49 B-ORDINAL
+49 O
 . O
 
 تلقى O
@@ -34861,7 +34861,7 @@ x O
 إصابتهم O
 بكوفيد O
 - O
-19 B-ORDINAL
+19 O
 وإجراء O
 الاختبارات O
 اللازمة O
@@ -34896,7 +34896,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-995 B-ORDINAL
+995 O
 . O
 
 ويقول O
@@ -34914,7 +34914,7 @@ x O
 اختبار O
 كوفيد O
 - O
-19 B-ORDINAL
+19 O
 كانت O
 سلبية O
 ، O
@@ -34948,11 +34948,11 @@ x O
 , O
 
 منذ O
-انتشار B-EVENT
-جائحة I-EVENT
-كوفيد I-EVENT
-- I-EVENT
-19 I-EVENT
+انتشار O
+جائحة O
+كوفيد O
+- O
+19 O
 في O
 جميع O
 أنحاء O
@@ -34974,7 +34974,7 @@ x O
 حالات O
 كوفيد O
 - O
-19 B-ORDINAL
+19 O
 المحتملة O
 في O
 بعض O
@@ -35037,11 +35037,11 @@ x O
 
 مظاهرة O
 امام O
-المقر B-FAC
-الحكومي I-FAC
-في I-FAC
-مدينة I-FAC
-القدس I-FAC
+المقر O
+الحكومي O
+في O
+مدينة O
+القدس O
 . O
 
 مظاهرة O
@@ -35150,10 +35150,10 @@ x O
 الحياة O
 الاجتماعية O
 قبل O
-حرب B-EVENT
-1948 I-EVENT
+حرب O
+1948 O
 ( O
-النكبة B-EVENT
+النكبة O
 ) O
 في O
 قرية B-GPE
@@ -35163,8 +35163,8 @@ x O
 
 مقابلة O
 حول O
-اللجوء B-EVENT
-الفلسطيني I-EVENT
+اللجوء O
+الفلسطيني O
 في O
 لبنان B-GPE
 : O
@@ -35194,7 +35194,7 @@ x O
 1985 I-DATE
 ) I-DATE
 الجزء O
-الثاني B-ORDINAL
+الثاني O
 . O
 
 مقابلة O
@@ -35214,7 +35214,7 @@ x O
 1986 B-DATE
 ) O
 الجزء O
-الاول B-ORDINAL
+الاول O
 . O
 
 مقابلة O
@@ -35222,8 +35222,8 @@ x O
 حول O
 احداث O
 اللجوء O
-وحرب B-EVENT
-48 I-EVENT
+وحرب O
+48 O
 في O
 قرية B-GPE
 ابو I-GPE
@@ -35245,8 +35245,8 @@ x O
 الإجتماعية O
 فيها O
 قبل O
-الإحتلال B-EVENT
-الإسرائيلي I-EVENT
+الإحتلال O
+الإسرائيلي O
 . O
 
 مقابلة O
@@ -35319,8 +35319,8 @@ x O
 حسين I-PERS
 محمود I-PERS
 في O
-مزرعة B-FAC
-الراوي I-FAC
+مزرعة O
+الراوي O
 في O
 قرية B-GPE
 دير I-GPE
@@ -35332,10 +35332,10 @@ x O
 مدينة I-GPE
 يافا I-GPE
 قبل O
-حرب B-EVENT
-1948 I-EVENT
+حرب O
+1948 O
 ( O
-النكبة B-EVENT
+النكبة O
 ) O
 . O
 
@@ -35399,10 +35399,10 @@ x O
 مدينة I-GPE
 حيفا I-GPE
 حول O
-حرب B-EVENT
-1948 I-EVENT
+حرب O
+1948 O
 ( O
-النكبة B-EVENT
+النكبة O
 ) O
 واللجوء O
 الى O
@@ -35493,13 +35493,13 @@ x O
 يوسف I-PERS
 يعقوب I-PERS
 حول O
-ثورة B-EVENT
-فلسطين I-EVENT
-1936 I-EVENT
-- I-EVENT
-1939 I-EVENT
+ثورة O
+فلسطين O
+1936 O
+- O
+1939 O
 الجزء O
-الاول B-ORDINAL
+الاول O
 . O
 
 مقابلة O
@@ -35559,11 +35559,11 @@ x O
 قرية B-GPE
 رنتيس I-GPE
 حول O
-ثورة B-EVENT
-فلسطين I-EVENT
-1936 I-EVENT
-- I-EVENT
-1939 I-EVENT
+ثورة O
+فلسطين O
+1936 O
+- O
+1939 O
 . O
 
 مقابلة O
@@ -35604,10 +35604,10 @@ x O
 ام B-PERS
 جبر I-PERS
 حول O
-حرب B-EVENT
-1948 I-EVENT
+حرب O
+1948 O
 ( O
-النكبة B-EVENT
+النكبة O
 ) O
 وتاريخ O
 الحياة O
@@ -35681,9 +35681,9 @@ x O
 إبراهيم I-PERS
 الزبن I-PERS
 حول O
-اجتياح B-EVENT
-مخيم I-EVENT
-جنين I-EVENT
+اجتياح O
+مخيم O
+جنين O
 ( O
 2002 B-DATE
 ) O
@@ -35763,7 +35763,7 @@ x O
 ) I-DATE
 ( O
 الجزء O
-الثاني B-ORDINAL
+الثاني O
 ) O
 . O
 
@@ -35785,7 +35785,7 @@ x O
 1986 I-DATE
 ) I-DATE
 الجزء O
-الاول B-ORDINAL
+الاول O
 . O
 
 مقابلة O
@@ -35913,10 +35913,10 @@ x O
 شوقي B-PERS
 ارم I-PERS
 حول O
-حرب B-EVENT
-1948 I-EVENT
+حرب O
+1948 O
 ( O
-النكبة B-EVENT
+النكبة O
 ) O
 واللجوء O
 والحياة O
@@ -36012,7 +36012,7 @@ x O
 نور I-GPE
 شمس I-GPE
 الجزء O
-الثاني B-ORDINAL
+الثاني O
 . O
 
 مقابلة O
@@ -36043,9 +36043,9 @@ x O
 الإسرائيلي I-ORG
 بعد O
 عقد O
-اتفاقية B-EVENT
-أوسلو I-EVENT
-1 I-EVENT
+اتفاقية O
+أوسلو O
+1 O
 ( O
 كانون B-DATE
 الثاني I-DATE
@@ -36066,9 +36066,9 @@ x O
 الإسرائيلي I-ORG
 بعد O
 عقد O
-اتفاقية B-EVENT
-أوسلو I-EVENT
-1 I-EVENT
+اتفاقية O
+أوسلو O
+1 O
 : O
 إعتقالات O
 إدارية O
@@ -36082,9 +36082,9 @@ x O
 الإسرائيلي I-ORG
 بعد O
 عقد O
-اتفاقية B-EVENT
-أوسلو I-EVENT
-1 I-EVENT
+اتفاقية O
+أوسلو O
+1 O
 : O
 حظر O
 اعتقالات O
@@ -36099,9 +36099,9 @@ x O
 ضد O
 الفلسطينيين B-NORP
 في O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 : O
 اذار B-DATE
 ( I-DATE
@@ -36117,9 +36117,9 @@ x O
 ضد O
 الفلسطينيين B-NORP
 في O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 : O
 اذار B-DATE
 ( I-DATE
@@ -36135,9 +36135,9 @@ x O
 الإسرائيلي I-ORG
 بعد O
 عقد O
-اتفاقية B-EVENT
-أوسلو I-EVENT
-1 I-EVENT
+اتفاقية O
+أوسلو O
+1 O
 ضد O
 الفلسطينيين B-NORP
 تشرن B-DATE
@@ -36168,11 +36168,11 @@ x O
 ومصادرة O
 الاراضي O
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-( I-EVENT
-1987 I-EVENT
-) I-EVENT
+الانتفاضة O
+الأولى O
+( O
+1987 O
+) O
 . O
 
 ووصف O
@@ -36195,7 +36195,7 @@ x O
 أكثر O
 من O
 وجبة O
-واحدة B-CARDINAL
+واحدة O
 في O
 اليوم B-DATE
 . O
@@ -36330,11 +36330,11 @@ x O
 ) I-DATE
 بسبب O
 أحداث O
-ثورة B-EVENT
-فلسطين I-EVENT
-1936 I-EVENT
-- I-EVENT
-1939 I-EVENT
+ثورة O
+فلسطين O
+1936 O
+- O
+1939 O
 . O
 
 مناظر O
@@ -36353,8 +36353,8 @@ x O
 قرية B-GPE
 أسدود I-GPE
 قبل O
-الاحتلال B-EVENT
-الاسرائيلي I-EVENT
+الاحتلال O
+الاسرائيلي O
 . O
 
 منظر O
@@ -36465,12 +36465,12 @@ x O
 التحرير I-ORG
 الفلسطينية I-ORG
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 رقم O
 ( O
-77 B-ORDINAL
+77 O
 ) O
 : O
 نداء O
@@ -36493,16 +36493,16 @@ x O
 التحرير I-ORG
 الفلسطينية I-ORG
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 نداء O
 رقم O
 ( O
-48 B-ORDINAL
+48 O
 ) O
 نداء O
-الاستقلال B-EVENT
+الاستقلال O
 : O
 بتاريخ B-DATE
 ( I-DATE
@@ -36519,13 +36519,13 @@ x O
 التحرير I-ORG
 الفلسطينية I-ORG
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 نداء O
 رقم O
 ( O
-52 B-ORDINAL
+52 O
 ) O
 نداء O
 في O
@@ -36547,13 +36547,13 @@ x O
 التحرير I-ORG
 الفلسطينية I-ORG
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 نداء O
 رقم O
 ( O
-59 B-ORDINAL
+59 O
 ) O
 نداء O
 نحو O
@@ -36581,13 +36581,13 @@ x O
 التحرير I-ORG
 الفلسطينية I-ORG
 خلال O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 نداء O
 رقم O
 ( O
-8 B-ORDINAL
+8 O
 ) O
 نداء O
 لنصعد O
@@ -36619,9 +36619,9 @@ x O
 . O
 
 بيانات O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 صادرة O
 عن O
 القيادة B-ORG
@@ -36631,7 +36631,7 @@ x O
 نداء O
 رقم O
 ( O
-41 B-ORDINAL
+41 O
 ) O
 : O
 نداء O
@@ -36649,9 +36649,9 @@ x O
 . O
 
 بيانات O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 صادرة O
 عن O
 القيادة B-ORG
@@ -36660,7 +36660,7 @@ x O
 للانتفاضة I-ORG
 نداء O
 رقم O
-3 B-ORDINAL
+3 O
 : O
 بتاريخ B-DATE
 ( I-DATE
@@ -36673,9 +36673,9 @@ x O
 . O
 
 بيانات O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 صادرة O
 عن O
 القيادة B-ORG
@@ -36684,7 +36684,7 @@ x O
 للانتفاضة I-ORG
 نداء O
 رقم O
-8 B-ORDINAL
+8 O
 : O
 بتاريخ B-DATE
 ( I-DATE
@@ -36697,9 +36697,9 @@ x O
 . O
 
 بيانات O
-الانتفاضة B-EVENT
-الأولى I-EVENT
-1987 I-EVENT
+الانتفاضة O
+الأولى O
+1987 O
 صادرة O
 عن O
 القيادة B-ORG
@@ -36710,7 +36710,7 @@ x O
 فلسطين B-GPE
 رقم O
 ( O
-16 B-ORDINAL
+16 O
 ) O
 : O
 بتاريخ B-DATE
@@ -36735,14 +36735,14 @@ x O
 الرغم O
 من O
 عقد O
-اتفاقية B-EVENT
-أوسلو I-EVENT
-1 I-EVENT
+اتفاقية O
+أوسلو O
+1 O
 . O
 
-مهاجمة B-EVENT
-قرية I-EVENT
-صفصاف I-EVENT
+مهاجمة O
+قرية O
+صفصاف O
 . O
 
 مواجهات O
@@ -36751,8 +36751,8 @@ x O
 وجنود B-NORP
 الاحتلال I-NORP
 خلال O
-انتفاضة B-EVENT
-الأقصى I-EVENT
+انتفاضة O
+الأقصى O
 . O
 
 موافقة O
@@ -36766,26 +36766,26 @@ x O
 المشاركة O
 في O
 ذكرى O
-الإسراء B-EVENT
-والمعراج I-EVENT
+الإسراء O
+والمعراج O
 عام B-DATE
 ( I-DATE
 1984 I-DATE
 ) I-DATE
 . O
 
-ميناء B-FAC
-مدينة I-FAC
-حيفا I-FAC
+ميناء O
+مدينة O
+حيفا O
 سنة B-DATE
 ( I-DATE
 1932 I-DATE
 ) I-DATE
 . O
 
-ميناء B-FAC
-مدينة I-FAC
-عكا I-FAC
+ميناء O
+مدينة O
+عكا O
 . O
 
 نبذة O
@@ -36839,13 +36839,13 @@ x O
 صادر O
 بمقتضى O
 المادة O
-41 B-ORDINAL
+41 O
 من O
 قانون O
 البلديات O
 رقم O
 ( O
-29 B-ORDINAL
+29 O
 ) O
 سنة B-DATE
 ( I-DATE
@@ -37140,10 +37140,10 @@ x O
 نابلس I-OCC
 : O
 بشان O
-تعيين B-EVENT
-مجلس I-EVENT
-محلي I-EVENT
-قلقيلية I-EVENT
+تعيين O
+مجلس O
+محلي O
+قلقيلية O
 : O
 بتاريخ B-DATE
 ( I-DATE
@@ -37210,10 +37210,10 @@ x O
 الاسواق O
 البلدية O
 فترة O
-الانتداب B-EVENT
-البريطاني I-EVENT
-على I-EVENT
-فلسطين I-EVENT
+الانتداب O
+البريطاني O
+على O
+فلسطين O
 . O
 
 وثائق O
@@ -37225,7 +37225,7 @@ x O
 قلقيلية I-ORG
 رقم O
 ( O
-60 B-ORDINAL
+60 O
 ) O
 لسنة B-DATE
 1959 I-DATE
@@ -37248,11 +37248,11 @@ x O
 المحترم O
 فيما O
 يخص O
-كارثة B-EVENT
-الزلزال I-EVENT
-( I-EVENT
-1927 I-EVENT
-) I-EVENT
+كارثة O
+الزلزال O
+( O
+1927 O
+) O
 . O
 
 شهادات O
@@ -37267,7 +37267,7 @@ x O
 جنوب O
 نابلس B-GPE
 القسم O
-الاول B-ORDINAL
+الاول O
 . O
 
 وثائق O
@@ -37329,10 +37329,10 @@ x O
 مدينة I-GPE
 جنين I-GPE
 فترة O
-الانتداب B-EVENT
-البريطاني I-EVENT
-على I-EVENT
-فلسطين I-EVENT
+الانتداب O
+البريطاني O
+على O
+فلسطين O
 بتاريخ B-DATE
 ( I-DATE
 11 I-DATE
@@ -37561,7 +37561,7 @@ x O
 عقربا I-ORG
 : O
 الجلسة O
-الرابعة B-ORDINAL
+الرابعة O
 بتاريخ B-DATE
 ( I-DATE
 17 I-DATE
@@ -37626,7 +37626,7 @@ x O
 
 وثيقة O
 باللغة O
-الانجليزية B-LANGUAGE
+الانجليزية O
 من O
 الارشيف O
 البريطاني O
@@ -37663,7 +37663,7 @@ x O
 وثيقة O
 رسمية O
 باللغة O
-العثمانية B-LANGUAGE
+العثمانية O
 : O
 من O
 عائلة B-NORP
@@ -37754,7 +37754,7 @@ x O
 إلى O
 أكثر O
 من O
-40000 B-CARDINAL
+40000 O
 شخص O
 ضمن O
 أكبر O
@@ -37762,8 +37762,8 @@ x O
 إنسانية O
 منذ O
 بداية O
-الأزمة B-EVENT
-السورية I-EVENT
+الأزمة O
+السورية O
 , O
 
 رسالة O
@@ -37851,9 +37851,9 @@ x O
 الله I-GPE
 وديردبوان B-GPE
 بشان O
-قناة B-FAC
-الغور I-FAC
-الشرقية I-FAC
+قناة O
+الغور O
+الشرقية O
 بتاريخ B-DATE
 ( I-DATE
 6 I-DATE
@@ -38055,22 +38055,22 @@ x O
 مدينة B-GPE
 غزة I-GPE
 بداية O
-انتفاضة B-EVENT
-الأقصى I-EVENT
-( I-EVENT
-2000 I-EVENT
-) I-EVENT
+انتفاضة O
+الأقصى O
+( O
+2000 O
+) O
 . O
 
 يوسف B-PERS
 أبو I-PERS
 درة I-PERS
 اثناء O
-ثورة B-EVENT
-فلسطين I-EVENT
-1936 I-EVENT
-- I-EVENT
-1939 I-EVENT
+ثورة O
+فلسطين O
+1936 O
+- O
+1939 O
 . O
 
 مضابط O
@@ -38083,7 +38083,7 @@ x O
 هجري I-DATE
 مضبط O
 رقم O
-525 B-ORDINAL
+525 O
 . O
 
 ويتابع O
@@ -38126,7 +38126,7 @@ x O
 حصيلة O
 الوفيات O
 إلى O
-13 B-CARDINAL
+13 O
 في O
 اليوم B-DATE
 الواحد I-DATE
@@ -38177,12 +38177,12 @@ x O
 . O
 , O
 
-مركز B-FAC
-علاج I-FAC
-مرضى I-FAC
-كوفيد I-FAC
-- I-FAC
-19 I-FAC
+مركز O
+علاج O
+مرضى O
+كوفيد O
+- O
+19 O
 في O
 عدن B-GPE
 هو O
@@ -38231,7 +38231,7 @@ x O
 الوحيد O
 المخصص O
 حتى O
-الآن B-TIME
+الآن O
 لعلاج O
 مرضى B-NORP
 كوفيد I-NORP
@@ -38250,7 +38250,7 @@ x O
 لمرض O
 كوفيد O
 - O
-19 B-ORDINAL
+19 O
 يقتصر O
 على O
 أن O
@@ -38280,7 +38280,7 @@ x O
 المحافظة O
 على O
 سلامة O
-ملايين B-CARDINAL
+ملايين O
 الأولاد B-NORP
 والبنات B-NORP
 وصحتهم O
@@ -38525,7 +38525,7 @@ x O
 , O
 
 توفي O
-ثلاثة B-CARDINAL
+ثلاثة O
 من O
 بين O
 المصابين B-NORP
@@ -38545,7 +38545,7 @@ x O
 , O
 
 ووصل O
-ستة B-CARDINAL
+ستة O
 مصابين O
 آخرين O
 في O
@@ -38572,18 +38572,18 @@ x O
 
 أما O
 المصابين B-NORP
-السبعة B-CARDINAL
+السبعة O
 المتبقين O
 ، O
 كانت O
 جروح O
-ثلاثة B-CARDINAL
+ثلاثة O
 من O
 بينهم O
 متوسطة O
 ، O
 وجروح O
-الأربعة B-CARDINAL
+الأربعة O
 الآخرين O
 طفيفة O
 . O
@@ -38914,7 +38914,7 @@ x O
 الإنقاذ I-ORG
 لتأمين O
 سفر O
-20 B-CARDINAL
+20 O
 مجاهدا O
 للسفر O
 إلى O
@@ -38969,7 +38969,7 @@ x O
 لتأمين O
 سفر O
 شخص O
-واحد B-CARDINAL
+واحد O
 إلى O
 الأردن B-GPE
 ( O
@@ -39008,7 +39008,7 @@ x O
 لـتأمين O
 سفر O
 شخص O
-واحد B-CARDINAL
+واحد O
 . O
 . O
 
@@ -39183,7 +39183,7 @@ x O
 
 إعلان O
 رقم O
-32 B-ORDINAL
+32 O
 من O
 الحاكم B-OCC
 العسكري I-OCC
@@ -39198,7 +39198,7 @@ x O
 
 إعلان O
 رقم O
-11 B-ORDINAL
+11 O
 من O
 الحاكم B-OCC
 العسكري I-OCC
@@ -39215,7 +39215,7 @@ x O
 عسكري O
 رقم O
 ( O
-4 B-ORDINAL
+4 O
 ) O
 صادر O
 من O
@@ -39640,7 +39640,7 @@ x O
 / I-DATE
 1947 I-DATE
 جزء O
-2 B-ORDINAL
+2 O
 . O
 
 . O
@@ -39880,9 +39880,9 @@ x O
 الممنوحة O
 لها O
 بموجب O
-القانون B-LAW
-الدولي I-LAW
-الإنساني I-LAW
+القانون O
+الدولي O
+الإنساني O
 . O
 , O
 
@@ -40749,20 +40749,20 @@ x O
 أحد O
 المواطنين B-NORP
 بمنكوبي O
-زلزال B-EVENT
-1927 I-EVENT
+زلزال O
+1927 O
 . O
 
 تبرع O
 من O
 شاكر B-PERS
 سمارة I-PERS
-بستة B-CARDINAL
+بستة O
 شوالات O
 دقيق O
 لمنكوبي O
-زلزال B-EVENT
-1927 I-EVENT
+زلزال O
+1927 O
 . O
 
 رسالة O
@@ -40789,8 +40789,8 @@ x O
 الى O
 من O
 منكوبي O
-زلزال B-EVENT
-1927 I-EVENT
+زلزال O
+1927 O
 . O
 
 أوامر O
@@ -40856,22 +40856,22 @@ x O
 في O
 مناوبة O
 ليلية O
-لمدة B-TIME
-14 I-TIME
-ساعة I-TIME
+لمدة O
+14 O
+ساعة O
 بدلًا O
 من O
 العمل O
-لمدة B-TIME
-ثماني I-TIME
-ساعات I-TIME
+لمدة O
+ثماني O
+ساعات O
 ، O
 وذلك O
 بغية O
 تجنب O
 السفر O
-في B-TIME
-الليل I-TIME
+في O
+الليل O
 بسبب O
 انعدام O
 الأمن O
@@ -40931,8 +40931,8 @@ x O
 الطريق O
 أو O
 من O
-قصف B-EVENT
-المستشفى I-EVENT
+قصف O
+المستشفى O
 . O
 , O
 
@@ -40971,9 +40971,9 @@ x O
 أطباء I-ORG
 بلا I-ORG
 حدود I-ORG
-81 B-CARDINAL
-, I-CARDINAL
-102 I-CARDINAL
+81 O
+, O
+102 O
 عملية O
 جراحية O
 في O
@@ -40982,9 +40982,9 @@ x O
 وقدمت O
 العلاج O
 إلى O
-119 B-CARDINAL
-, I-CARDINAL
-113 I-CARDINAL
+119 O
+, O
+113 O
 مريضًا O
 يعانون O
 من O
@@ -40995,18 +40995,18 @@ x O
 ، O
 وساعدوا O
 بتوليد O
-68 B-CARDINAL
-, I-CARDINAL
-702 I-CARDINAL
+68 O
+, O
+702 O
 طفل O
 ، O
 وقدموا O
 الرعاية O
 لأكثر O
 من O
-116 B-CARDINAL
-, I-CARDINAL
-687 I-CARDINAL
+116 O
+, O
+687 O
 مريضًا B-NORP
 يشتبه O
 بإصابتهم O
@@ -41278,11 +41278,11 @@ x O
 قضاء B-GPE
 جنين I-GPE
 رقم O
-17 B-ORDINAL
-/ I-ORDINAL
-4 I-ORDINAL
-/ I-ORDINAL
-44 I-ORDINAL
+17 O
+/ O
+4 O
+/ O
+44 O
 تاريخ B-DATE
 1948 I-DATE
 . O
@@ -41297,11 +41297,11 @@ x O
 مدينة B-GPE
 جنين I-GPE
 رقم O
-17 B-ORDINAL
-/ I-ORDINAL
-4 I-ORDINAL
-/ I-ORDINAL
-42 I-ORDINAL
+17 O
+/ O
+4 O
+/ O
+42 O
 تاريخ B-DATE
 1948 I-DATE
 . O
@@ -41518,11 +41518,11 @@ x O
 لشؤون I-ORG
 النازحين I-ORG
 رقم O
-17 B-ORDINAL
-/ I-ORDINAL
-4 I-ORDINAL
-/ I-ORDINAL
-83 I-ORDINAL
+17 O
+/ O
+4 O
+/ O
+83 O
 تاريخ B-DATE
 1948 I-DATE
 . O
@@ -41654,10 +41654,10 @@ x O
 على O
 الرغم O
 من O
-انخفاض B-EVENT
-عدد I-EVENT
-حالات I-EVENT
-الكوليرا I-EVENT
+انخفاض O
+عدد O
+حالات O
+الكوليرا O
 في O
 اليمن B-GPE
 ، O
@@ -41780,8 +41780,8 @@ x O
 الوفاة O
 في O
 قرابة O
-40 B-PERCENT
-% I-PERCENT
+40 O
+% O
 من O
 الحالات O
 "" O
@@ -42214,9 +42214,9 @@ x O
 
 . O
 
-ميناء B-FAC
-مدينة I-FAC
-يافا I-FAC
+ميناء O
+مدينة O
+يافا O
 . O
 
 منظر O
@@ -42282,22 +42282,22 @@ x O
 
 . O
 
-شاطئ B-FAC
-بحر I-FAC
-مدينة I-FAC
-يافا I-FAC
+شاطئ O
+بحر O
+مدينة O
+يافا O
 . O
 
-ساحة B-FAC
-كنيسة I-FAC
-القيامة I-FAC
+ساحة O
+كنيسة O
+القيامة O
 . O
 
 مدينة B-GPE
 القدس I-GPE
 من O
-جبل B-FAC
-الزيتون I-FAC
+جبل O
+الزيتون O
 . O
 
 العرب O
@@ -42412,10 +42412,10 @@ x O
 والصرف O
 الصحي O
 ، O
-للحد B-EVENT
-من I-EVENT
-انتشار I-EVENT
-الكوليرا I-EVENT
+للحد O
+من O
+انتشار O
+الكوليرا O
 في O
 أنحاء O
 البلاد O
@@ -42445,13 +42445,13 @@ x O
 الفترة O
 ذاتها O
 من O
-58 B-PERCENT
-في I-PERCENT
-المئة I-PERCENT
+58 O
+في O
+المئة O
 إلى O
-70 B-PERCENT
-في I-PERCENT
-المئة I-PERCENT
+70 O
+في O
+المئة O
 من O
 مجموع O
 الحالات O
@@ -42489,11 +42489,11 @@ x O
 , O
 
 إن O
-تفشي B-EVENT
-الكوليرا I-EVENT
-يتزايد I-EVENT
-بسرعة I-EVENT
-كبيرة I-EVENT
+تفشي O
+الكوليرا O
+يتزايد O
+بسرعة O
+كبيرة O
 ، O
 وقد O
 تخطى O
@@ -42501,7 +42501,7 @@ x O
 الحالات O
 المشتبه O
 بها O
-23500 B-CARDINAL
+23500 O
 حالة O
 حتى O
 يوم B-DATE
@@ -42530,7 +42530,7 @@ x O
 أيار I-DATE
 تم O
 تشخيص O
-11000 B-CARDINAL
+11000 O
 حالة O
 . O
 , O
@@ -42618,7 +42618,7 @@ x O
 بلا I-ORG
 حدود I-ORG
 في O
-69 B-CARDINAL
+69 O
 بلداً O
 حول O
 العالممن O
@@ -42903,8 +42903,8 @@ x O
 رحلتهم O
 التي O
 استغرقت O
-18 B-TIME
-ساعة I-TIME
+18 O
+ساعة O
 . O
 , O
 
@@ -42940,7 +42940,7 @@ x O
 لكن O
 هذه O
 التدفقات O
-الأخيرة B-ORDINAL
+الأخيرة O
 تمثل O
 تحدياً O
 جديداً O
@@ -42954,7 +42954,7 @@ x O
 وﺷﻣال O
 ﺣﻣﺎة B-GPE
 ، O
-ﻧﺻف B-CARDINAL
+ﻧﺻف O
 السكان O
 هم O
 من O
@@ -42979,9 +42979,9 @@ x O
 
 تستضيف O
 مأرب B-GPE
-حاليا B-TIME
-750 B-CARDINAL
-ألف I-CARDINAL
+حاليا O
+750 O
+ألف O
 نازح O
 ، O
 ما O
@@ -42991,8 +42991,8 @@ x O
 المدينة O
 الأصلي O
 البالغ O
-500 B-CARDINAL
-ألف I-CARDINAL
+500 O
+ألف O
 . O
 , O
 
@@ -43095,15 +43095,15 @@ x O
 . O
 , O
 
-ومنذ B-EVENT
-آذار I-EVENT
-/ I-EVENT
-مارس I-EVENT
-2015 I-EVENT
-احتدم I-EVENT
-النزاع I-EVENT
-في I-EVENT
-اليمن I-EVENT
+ومنذ O
+آذار O
+/ O
+مارس O
+2015 O
+احتدم O
+النزاع O
+في O
+اليمن O
 ، O
 مما O
 دفع O
@@ -43233,9 +43233,9 @@ x O
 البلاد O
 والبالغ O
 عددهم O
-450 B-CARDINAL
-, I-CARDINAL
-0 I-CARDINAL
+450 O
+, O
+0 O
 شخص O
 تتوفر O
 لديهم O
@@ -43248,13 +43248,13 @@ x O
 
 ومن O
 أصل O
-23 B-CARDINAL
+23 O
 مركز O
 صحي O
 ، O
 فإن O
 هنالك O
-15 B-CARDINAL
+15 O
 مركزا O
 لا O
 يزالون O
@@ -43262,7 +43262,7 @@ x O
 فيما O
 تم O
 تأسيس O
-11 B-CARDINAL
+11 O
 نقطة O
 صحية O
 جديدة O
@@ -43284,12 +43284,12 @@ x O
 إمدادات O
 ضرورية O
 للاستجابة O
-لجائحة B-EVENT
-كوفيد I-EVENT
-- I-EVENT
-19 I-EVENT
-في I-EVENT
-اليمن I-EVENT
+لجائحة O
+كوفيد O
+- O
+19 O
+في O
+اليمن O
 مع O
 تزايد O
 أعداد O
@@ -43304,9 +43304,9 @@ x O
 ما O
 لايقل O
 عن O
-1 B-CARDINAL
-, I-CARDINAL
-600 I-CARDINAL
+1 O
+, O
+600 O
 عامل B-OCC
 صحي I-OCC
 في O
@@ -43417,7 +43417,7 @@ x O
 
 وهذا O
 الجزء O
-الأول B-ORDINAL
+الأول O
 : O
 
 قالت O
@@ -43425,7 +43425,7 @@ x O
 تايلر I-PERS
 ، O
 باحثة B-OCC
-أولى B-ORDINAL
+أولى O
 في O
 الأزمات O
 والنزاعات O
@@ -43435,7 +43435,7 @@ x O
 ووتش I-ORG
 : O
 "" O
-الآلاف B-CARDINAL
+الآلاف O
 ، O
 ومنهم O
 أطفال O
@@ -43544,7 +43544,7 @@ x O
 من O
 خلال O
 عدسة O
-واحدة B-CARDINAL
+واحدة O
 – O
 سواء O
 من O
@@ -43630,7 +43630,7 @@ x O
 إيران B-GPE
 في O
 المقام O
-الأول B-ORDINAL
+الأول O
 ، O
 يؤدي O
 إلى O
@@ -43711,7 +43711,7 @@ x O
 الفضل O
 في O
 كتابة O
-أول B-ORDINAL
+أول O
 مؤلف O
 في O
 الجيوبوليتكا O
@@ -43809,9 +43809,9 @@ x O
 1990 I-DATE
 ، O
 وبفضل O
-انهيار B-EVENT
-الاتحاد I-EVENT
-السوفيتي I-EVENT
+انهيار O
+الاتحاد O
+السوفيتي O
 إلى O
 حد O
 كبير O
@@ -43914,10 +43914,10 @@ x O
 التصويت O
 ضد O
 قرار O
-طرد B-EVENT
-صدام I-EVENT
-من I-EVENT
-الكويت I-EVENT
+طرد O
+صدام O
+من O
+الكويت O
 “ O
 سيكون O
 أغلى O
@@ -43935,12 +43935,12 @@ x O
 [ O
 , O
 
-الحرب B-EVENT
-الأهلية I-EVENT
-التي I-EVENT
-اندلعت I-EVENT
-عام I-EVENT
-1994 I-EVENT
+الحرب O
+الأهلية O
+التي O
+اندلعت O
+عام O
+1994 O
 كانت O
 قصيرة O
 ولكنها O
@@ -43984,7 +43984,7 @@ x O
 التوقيع O
 في O
 اللحظة O
-الأخيرة B-ORDINAL
+الأخيرة O
 . O
 , O
 
@@ -43993,12 +43993,12 @@ x O
 2011 I-DATE
 ، O
 وقع O
-انفجار B-EVENT
-في I-EVENT
-مسجد I-EVENT
-ملحق I-EVENT
-بدار I-EVENT
-الرئاسة I-EVENT
+انفجار O
+في O
+مسجد O
+ملحق O
+بدار O
+الرئاسة O
 حيث O
 كان O
 صالح B-PERS
@@ -44010,8 +44010,8 @@ x O
 أن O
 الهدف O
 كان O
-اغتيال B-EVENT
-صالح I-EVENT
+اغتيال O
+صالح O
 ولكن O
 الانفجار O
 أدى O
@@ -44027,8 +44027,8 @@ x O
 , O
 
 ويتم O
-انتخاب B-EVENT
-هادي I-EVENT
+انتخاب O
+هادي O
 بديلا O
 له O
 وكان O
@@ -44111,8 +44111,8 @@ x O
 ، O
 على O
 بعد O
-آلاف B-QUANTITY
-الأميال I-QUANTITY
+آلاف O
+الأميال O
 من O
 خطوط O
 المواجهة O
@@ -44234,7 +44234,7 @@ AK B-PRODUCT
 الصينية O
 Type O
 - O
-56 B-ORDINAL
+56 O
 بنشاط O
 إلى O
 دول O
@@ -44310,7 +44310,7 @@ Type O
 أعضاء O
 فريق O
 العمل O
-الثمانية B-CARDINAL
+الثمانية O
 : O
 المحامية O
 البارزة O
@@ -44428,7 +44428,7 @@ Type O
 من I-DATE
 عام I-DATE
 على O
-آخر B-ORDINAL
+آخر O
 معركة O
 كبيرة O
 خيضت O
@@ -44832,11 +44832,11 @@ Type O
 ، O
 نتج O
 عن O
-مؤتمر B-EVENT
-القمة I-EVENT
-العالمي I-EVENT
-لعام I-EVENT
-2005 I-EVENT
+مؤتمر O
+القمة O
+العالمي O
+لعام O
+2005 O
 ، O
 إنشاء O
 لجنة O
@@ -44981,7 +44981,7 @@ Type O
 ، O
 والمستشفيات O
 ، O
-وأول B-ORDINAL
+وأول O
 المستجيبين O
 الذين O
 حفروا O
@@ -45217,7 +45217,7 @@ Type O
 الذي O
 ينخرط O
 فيه O
-حاليًا B-TIME
+حاليًا O
 بعض O
 حلفاء O
 دول O
@@ -45289,11 +45289,11 @@ Type O
 إيران B-GPE
 الأساسي O
 على O
-الغزو B-EVENT
-الإسرائيلي I-EVENT
-للبنان I-EVENT
-عام I-EVENT
-1982 I-EVENT
+الغزو O
+الإسرائيلي O
+للبنان O
+عام O
+1982 O
 هو O
 إنشاء O
 حزب B-ORG
@@ -45357,7 +45357,7 @@ Type O
 دوليًا O
 , O
 
-ثانيًا B-ORDINAL
+ثانيًا O
 ، O
 ظهرت O
 الميليشيات O
@@ -45388,16 +45388,16 @@ Type O
 الثوري I-ORG
 الإيراني I-ORG
 في O
-تأسيس B-EVENT
-حزب I-EVENT
-الله I-EVENT
+تأسيس O
+حزب O
+الله O
 ردًا O
 على O
-الغزو B-EVENT
-الإسرائيلي I-EVENT
-للبنان I-EVENT
-سنة I-EVENT
-1982 I-EVENT
+الغزو O
+الإسرائيلي O
+للبنان O
+سنة O
+1982 O
 ، O
 فإن O
 مصالح O
@@ -46103,7 +46103,7 @@ Type O
 , O
 
 والبديل O
-الثاني B-ORDINAL
+الثاني O
 قد O
 يكون O
 نهجًا O
@@ -46216,7 +46216,7 @@ Type O
 تواجهه O
 الولايات B-ORG
 المتحدة I-ORG
-الآن B-TIME
+الآن O
 . O
 , O
 
@@ -46263,7 +46263,7 @@ RAND I-ORG
 الشأن O
 , O
 
-12 B-ORDINAL
+12 O
 كان O
 غابرييل B-PERS
 ألموند I-PERS
@@ -46290,9 +46290,9 @@ RAND I-ORG
 السياسية O
 والسياسة O
 ، O
-21 B-ORDINAL
-، I-ORDINAL
-4 I-ORDINAL
+21 O
+، O
+4 O
 ( O
 خريف B-DATE
 1988 I-DATE
@@ -46300,14 +46300,14 @@ RAND I-ORG
 ، O
 ص O
 . O
-828 B-ORDINAL
-- I-ORDINAL
-842 I-ORDINAL
+828 O
+- O
+842 O
 . O
 . O
 , O
 
-23 B-ORDINAL
+23 O
 ج B-PERS
 . I-PERS
 ب I-PERS
@@ -46335,13 +46335,13 @@ RAND I-ORG
 2013 B-DATE
 ) O
 ، O
-27 B-ORDINAL
-- I-ORDINAL
-30 I-ORDINAL
+27 O
+- O
+30 O
 . O
 , O
 
-24 B-ORDINAL
+24 O
 مريم B-PERS
 المزاده I-PERS
 ، O
@@ -46377,39 +46377,39 @@ RAND I-ORG
 2019 I-DATE
 ، O
 العدد O
-130 B-ORDINAL
+130 O
 ) O
 : O
-2 B-ORDINAL
-- I-ORDINAL
-5 I-ORDINAL
+2 O
+- O
+5 O
 . O
 , O
 
-33 B-ORDINAL
+33 O
 جونو B-PERS
 ، O
-659 B-ORDINAL
+659 O
 . O
 , O
 
-40 B-ORDINAL
+40 O
 المزاده B-PERS
 ، O
-2 B-ORDINAL
-- I-ORDINAL
-7 I-ORDINAL
+2 O
+- O
+7 O
 . O
 , O
 
-42 B-ORDINAL
+42 O
 كاتزمان B-PERS
 ، O
-45 B-ORDINAL
+45 O
 . O
 , O
 
-45 B-ORDINAL
+45 O
 أنتوني B-PERS
 كوردسمان I-PERS
 مع O
@@ -46443,11 +46443,11 @@ RAND I-ORG
 2018 I-DATE
 ) O
 : O
-1 B-ORDINAL
+1 O
 . O
 , O
 
-50 B-ORDINAL
+50 O
 حنان B-PERS
 محمد I-PERS
 ، O
@@ -46508,12 +46508,12 @@ force I-WEBSITE
 . O
 , O
 
-65 B-ORDINAL
+65 O
 المرجع O
 نفسه O
 . O
 
-66 B-ORDINAL
+66 O
 "" O
 التخريب O
 الروسي O
@@ -46533,7 +46533,7 @@ force I-WEBSITE
 ) O
 ص O
 . O
-43 B-ORDINAL
+43 O
 . O
 الاقتباسات O
 اللاحقة O
@@ -46543,7 +46543,7 @@ force I-WEBSITE
 المقال O
 . O
 
-68 B-ORDINAL
+68 O
 آنا B-PERS
 بورشيفسكايا I-PERS
 وحنين B-PERS
@@ -46561,7 +46561,7 @@ force I-WEBSITE
 ، O
 Policy O
 Watch O
-3047 B-ORDINAL
+3047 O
 ، O
 معهد B-ORG
 واشنطن I-ORG
@@ -46578,7 +46578,7 @@ Watch O
 ) O
 . O
 
-78 B-ORDINAL
+78 O
 "" O
 لبنان B-GPE
 "" O
@@ -46600,16 +46600,16 @@ R44759 O
 2018 I-DATE
 . O
 
-99 B-ORDINAL
+99 O
 المرجع O
 نفسه O
 . O
 
-102 B-ORDINAL
+102 O
 بلانشارد B-PERS
 . O
 
-106 B-ORDINAL
+106 O
 "" O
 العلاقات O
 الأمريكية O
@@ -46618,7 +46618,7 @@ R44759 O
 "" O
 . O
 
-107 B-ORDINAL
+107 O
 بلانشارد B-PERS
 . O
 
@@ -46630,19 +46630,19 @@ R44759 O
 في O
 الهواء O
 وتنشر O
-عشرات B-CARDINAL
+عشرات O
 ، O
 وحتى O
-مئات B-CARDINAL
+مئات O
 ، O
 القنابل O
 الصغيرة O
 على O
 مساحة O
 بحجم O
-ملعب B-FAC
-كرة I-FAC
-القدم I-FAC
+ملعب O
+كرة O
+القدم O
 . O
 , O
 
@@ -46708,7 +46708,7 @@ R44759 O
 الأطفال B-NORP
 البالغ O
 عددهم O
-900 B-CARDINAL
+900 O
 طفل O
 قد O
 غادروا O
@@ -46827,8 +46827,8 @@ R44759 O
 السلطة O
 في O
 أعقاب O
-الربيع B-EVENT
-العربي I-EVENT
+الربيع O
+العربي O
 ضعيفة O
 جداً O
 وتفتقر O
@@ -46963,9 +46963,9 @@ R44759 O
 , O
 
 تُلزم O
-اتفاقية B-EVENT
-مناهضة I-EVENT
-التعذيب I-EVENT
+اتفاقية O
+مناهضة O
+التعذيب O
 الدول O
 أيضا O
 بالتحقيق O
@@ -47345,7 +47345,7 @@ R44759 O
 ووتش I-ORG
 أكثر O
 من O
-600 B-CARDINAL
+600 O
 موقعا O
 رئيسيا O
 متضررا O
@@ -47443,7 +47443,7 @@ R44759 O
 
 بالإضافة O
 إلى O
-مئات B-CARDINAL
+مئات O
 الغارات O
 الجوية O
 لقوات B-ORG
@@ -47596,7 +47596,7 @@ R44759 O
 ، O
 من O
 اعتراض O
-آلاف B-CARDINAL
+آلاف O
 الأشخاص O
 في O
 عرض O
@@ -47654,7 +47654,7 @@ R44759 O
 ، O
 لكنه O
 يستضيف O
-مئات B-CARDINAL
+مئات O
 من O
 الذين O
 فروا O
@@ -47816,7 +47816,7 @@ R44759 O
 تضم O
 جداول O
 بأسماء O
-مئات B-CARDINAL
+مئات O
 الأشخاص O
 الذين O
 جُمدت O
@@ -47825,9 +47825,9 @@ R44759 O
 وغير O
 المنقولة O
 بموجب O
-قانون B-LAW
-مكافحة I-LAW
-الإرهاب I-LAW
+قانون O
+مكافحة O
+الإرهاب O
 . O
 , O
 
@@ -47876,7 +47876,7 @@ R44759 O
 
 تقوم O
 تركيا B-ORG
-الآن B-TIME
+الآن O
 بإرسال O
 التعزيزات O
 ، O
@@ -47896,8 +47896,8 @@ R44759 O
 , O
 
 في O
-الوقت B-TIME
-الراهن I-TIME
+الوقت O
+الراهن O
 ، O
 يمكن O
 لهذه O
@@ -48104,8 +48104,8 @@ R44759 O
 ما O
 يقرب O
 من O
-3 B-TIME
-ساعات I-TIME
+3 O
+ساعات O
 إلى O
 عين B-GPE
 العرب I-GPE
@@ -48183,14 +48183,14 @@ R44759 O
 هذا O
 إلى O
 السؤال O
-الأول B-ORDINAL
+الأول O
 : O
-الآن B-TIME
+الآن O
 بعد O
 استرداد O
-مستشفى B-FAC
-الرقة I-FAC
-الوطني I-FAC
+مستشفى O
+الرقة O
+الوطني O
 من O
 داعش B-ORG
 ، O
@@ -48268,16 +48268,16 @@ R44759 O
 أن O
 حماية O
 حياة O
-مئات B-CARDINAL
-آلاف I-CARDINAL
+مئات O
+آلاف O
 المدنيين B-NORP
 في O
 الرقة B-GPE
 هي O
 أولوية O
 موازية O
-لهزيمة B-EVENT
-داعش I-EVENT
+لهزيمة O
+داعش O
 "" O
 . O
 , O
@@ -48318,7 +48318,7 @@ R44759 O
 هيومن I-NORP
 رايتس I-NORP
 ووتش I-NORP
-المدينة B-ORDINAL
+المدينة O
 آخر O
 مرة O
 في O
@@ -48363,11 +48363,11 @@ R44759 O
 والعراق B-GPE
 يزيد O
 على O
-3800 B-CARDINAL
+3800 O
 ، O
 أي O
 نحو O
-8 B-CARDINAL
+8 O
 أضعاف O
 العدد O
 المعلن O
@@ -48617,9 +48617,9 @@ R44759 O
 التابعة O
 لدول O
 قواعد O
-القانون B-LAW
-الإنساني I-LAW
-الدولي I-LAW
+القانون O
+الإنساني O
+الدولي O
 – O
 أقر O
 الناطق B-OCC
@@ -48782,7 +48782,7 @@ R44759 O
 قتلت O
 الألغام O
 وجرحت O
-مئات B-CARDINAL
+مئات O
 المدنيين B-NORP
 ، O
 وستزداد O
@@ -48824,11 +48824,11 @@ R44759 O
 محظورة O
 بموجب O
 "" O
-معاهدة B-EVENT
-حظر I-EVENT
-الألغام I-EVENT
-عام I-EVENT
-1997 I-EVENT
+معاهدة O
+حظر O
+الألغام O
+عام O
+1997 O
 "" O
 . O
 تمنع O
@@ -48920,7 +48920,7 @@ R44759 O
 ، O
 تخللها O
 إرسال O
-أول B-ORDINAL
+أول O
 شحنة O
 أسلحة O
 روسية O
@@ -48966,11 +48966,11 @@ R44759 O
 
 "" O
 صارت O
-السفارة B-FAC
-السوفيتية I-FAC
-في I-FAC
-جنوب I-FAC
-اليمن I-FAC
+السفارة O
+السوفيتية O
+في O
+جنوب O
+اليمن O
 أكبر O
 سفارات O
 الاتحاد B-ORG
@@ -48981,7 +48981,7 @@ R44759 O
 الأوسط I-LOC
 ، O
 [ O
-2 B-ORDINAL
+2 O
 ] O
 وصار O
 جنوب O
@@ -49052,11 +49052,11 @@ R44759 O
 التي O
 تفاجأت O
 بحدة O
-موجات B-EVENT
-الربيع I-EVENT
-العربي I-EVENT
-عام I-EVENT
-2011 I-EVENT
+موجات O
+الربيع O
+العربي O
+عام O
+2011 O
 ، O
 , O
 
@@ -49194,9 +49194,9 @@ R44759 O
 حزب I-NORP
 صالح I-NORP
 ، O
-المؤتمر B-EVENT
-الشعبي I-EVENT
-العام I-EVENT
+المؤتمر O
+الشعبي O
+العام O
 ، O
 وقد O
 كان O
@@ -49220,11 +49220,11 @@ R44759 O
 واحد I-DATE
 فقط O
 من O
-مقتل B-EVENT
-علي I-EVENT
-عبد I-EVENT
-الله I-EVENT
-صالح I-EVENT
+مقتل O
+علي O
+عبد O
+الله O
+صالح O
 . O
 , O
 
@@ -49422,8 +49422,8 @@ R44759 O
 قاضٍ B-OCC
 في O
 غضون O
-24 B-TIME
-ساعة I-TIME
+24 O
+ساعة O
 ؛ O
 تضمن O
 الاتصال O
@@ -49497,8 +49497,8 @@ R44759 O
 الفاعلين O
 المحليين O
 في O
-مفاوضات B-EVENT
-السلام I-EVENT
+مفاوضات O
+السلام O
 . O
 , O
 
@@ -49599,15 +49599,15 @@ R44759 O
 المتحدة I-ORG
 ، O
 فإن O
-24 B-CARDINAL
-. I-CARDINAL
-4 I-CARDINAL
-مليون I-CARDINAL
+24 O
+. O
+4 O
+مليون O
 شخص O
 ( O
 أي O
-80 B-PERCENT
-% I-PERCENT
+80 O
+% O
 من O
 السكان O
 ) O
@@ -49618,10 +49618,10 @@ R44759 O
 ، O
 من O
 بينهم O
-14 B-CARDINAL
-. I-CARDINAL
-4 I-CARDINAL
-مليون I-CARDINAL
+14 O
+. O
+4 O
+مليون O
 شخص O
 في O
 حاجة O
@@ -49636,8 +49636,8 @@ R44759 O
 السكاني O
 ، O
 يعاني O
-20 B-CARDINAL
-مليون I-CARDINAL
+20 O
+مليون O
 يمني B-NORP
 من O
 انعدام O
@@ -49645,10 +49645,10 @@ R44759 O
 الغذائي O
 الشديد O
 وهناك O
-9 B-CARDINAL
-. I-CARDINAL
-7 I-CARDINAL
-مليون I-CARDINAL
+9 O
+. O
+7 O
+مليون O
 شخص O
 في O
 حالة O
@@ -49658,8 +49658,8 @@ R44759 O
 - O
 أي O
 بزيادة O
-15 B-PERCENT
-% I-PERCENT
+15 O
+% O
 عن O
 العام B-DATE
 الماضي I-DATE
@@ -49670,9 +49670,9 @@ R44759 O
 ، O
 يوجد O
 قرابة O
-240 B-CARDINAL
-. I-CARDINAL
-0 I-CARDINAL
+240 O
+. O
+0 O
 شخص O
 في O
 حالة O
@@ -49701,7 +49701,7 @@ R44759 O
 في O
 إعادة O
 تأسيس O
-مئات B-CARDINAL
+مئات O
 من O
 مجالس B-ORG
 المجتمعات I-ORG
@@ -49712,7 +49712,7 @@ R44759 O
 تبني O
 أكثر O
 من O
-500 B-CARDINAL
+500 O
 مبادرة O
 للمساعدة O
 الذاتية O
@@ -49729,9 +49729,9 @@ R44759 O
 أفاد O
 أكثر O
 من O
-80 B-CARDINAL
-. I-CARDINAL
-0 I-CARDINAL
+80 O
+. O
+0 O
 يمني B-NORP
 عبر O
 مجموعة O
@@ -49785,7 +49785,7 @@ R44759 O
 قدم O
 الاتحاد B-ORG
 الأوروبي I-ORG
-2000 B-CARDINAL
+2000 O
 منحة O
 صغيرة O
 للشركات O
@@ -49897,11 +49897,11 @@ R44759 O
 تنفيذ O
 إصلاحات O
 حقيقية O
-لحملة B-EVENT
-"" I-EVENT
-اجتثاث I-EVENT
-البعث I-EVENT
-"" I-EVENT
+لحملة O
+"" O
+اجتثاث O
+البعث O
+"" O
 العقابية O
 والفضفاضة O
 ولقوانين O
@@ -50074,9 +50074,9 @@ R44759 O
 ، O
 المحميّة O
 بموجب O
-القانون B-LAW
-الإنساني I-LAW
-الدولي I-LAW
+القانون O
+الإنساني O
+الدولي O
 ، O
 واستخدموا O
 المدنيين B-NORP
@@ -50218,7 +50218,7 @@ R44759 O
 والمحاكمات O
 قدما O
 ضد O
-آلاف B-CARDINAL
+آلاف O
 المشتبه O
 بانتمائهم O
 إلى O
@@ -50405,8 +50405,8 @@ R44759 O
 جرائم O
 خطيرة O
 بموجب O
-القانون B-LAW
-الدولي I-LAW
+القانون O
+الدولي O
 ، O
 وتشمل O
 جرائم O
@@ -50520,9 +50520,9 @@ R44759 O
 , O
 
 يحظر O
-القانون B-LAW
-الدولي I-LAW
-الإنساني I-LAW
+القانون O
+الدولي O
+الإنساني O
 مقاضاة O
 العاملين B-NORP
 بالمجال I-NORP
@@ -50593,7 +50593,7 @@ R44759 O
 العملية O
 إلى O
 فصل O
-آلاف B-CARDINAL
+آلاف O
 الأفراد O
 من O
 عملهم O
@@ -50624,8 +50624,8 @@ R44759 O
 في O
 أمر O
 تطبيق O
-قانون B-LAW
-العفو I-LAW
+قانون O
+العفو O
 على O
 كل O
 من O
@@ -50661,8 +50661,8 @@ R44759 O
 في O
 إقليم B-GPE
 كردستان I-GPE
-قانون B-LAW
-للعفو I-LAW
+قانون O
+للعفو O
 لإخلاء O
 سبيل O
 عناصر B-NORP
@@ -50736,15 +50736,15 @@ R44759 O
 قال O
 محامٍ B-OCC
 موكل O
-بعشرات B-CARDINAL
+بعشرات O
 القضايا O
 الخاصة O
 بأحداث O
 متهمين O
 بموجب O
-قانون B-LAW
-مكافحة I-LAW
-الإرهاب I-LAW
+قانون O
+مكافحة O
+الإرهاب O
 لـ O
 هيومن B-ORG
 رايتس I-ORG
@@ -50759,7 +50759,7 @@ R44759 O
 سلطات B-ORG
 إقليم I-ORG
 كردستان I-ORG
-12 B-CARDINAL
+12 O
 طفلا O
 إلى O
 السلطات B-ORG
@@ -50844,7 +50844,7 @@ R44759 O
 
 كما O
 أن O
-4 B-CARDINAL
+4 O
 بالغين O
 محتجزين O
 كمشتبه O
@@ -50976,9 +50976,9 @@ R44759 O
 
 لكن O
 لأن O
-قانونيّ B-LAW
-مكافحة I-LAW
-الإرهاب I-LAW
+قانونيّ O
+مكافحة O
+الإرهاب O
 ينصان O
 على O
 السجن O
@@ -51015,9 +51015,9 @@ R44759 O
 السلطات B-ORG
 العراقية I-ORG
 تحتجز O
-5 B-CARDINAL
-, I-CARDINAL
-500 I-CARDINAL
+5 O
+, O
+500 O
 مشتبه O
 بانتمائهم O
 إلى O
@@ -51091,11 +51091,11 @@ R44759 O
 
 كما O
 يحظر O
-قانون B-LAW
-أصول I-LAW
-المحاكمات I-LAW
-الجزائية I-LAW
-العراقي I-LAW
+قانون O
+أصول O
+المحاكمات O
+الجزائية O
+العراقي O
 التعذيب O
 ، O
 ولا O
@@ -51214,14 +51214,14 @@ R44759 O
 لا O
 يقل O
 عن O
-2 B-CARDINAL
-, I-CARDINAL
-0 I-CARDINAL
+2 O
+, O
+0 O
 إيزيدي B-NORP
 وأسروا O
-6 B-CARDINAL
-, I-CARDINAL
-417 I-CARDINAL
+6 O
+, O
+417 O
 آخرين O
 تم O
 احتجازهم O
@@ -51291,9 +51291,9 @@ R44759 O
 إلى O
 داعش B-ORG
 بموجب O
-قانون B-LAW
-مكافحة I-LAW
-الإرهاب I-LAW
+قانون O
+مكافحة O
+الإرهاب O
 . O
 , O
 
@@ -51310,7 +51310,7 @@ R44759 O
 وأخرها O
 مقابلة O
 مع O
-12 B-CARDINAL
+12 O
 ضحية O
 إيزيديين B-NORP
 في O
@@ -51338,9 +51338,9 @@ R44759 O
 , O
 
 قالت O
-8 B-CARDINAL
+8 O
 من O
-12 B-CARDINAL
+12 O
 امرأة O
 وفتاة O
 إن O
@@ -51353,7 +51353,7 @@ R44759 O
 فيما O
 تم O
 احتجاز O
-4 B-CARDINAL
+4 O
 في O
 العراق B-GPE
 ، O
@@ -51436,9 +51436,9 @@ R44759 O
 على O
 أكثر O
 من O
-3 B-CARDINAL
-, I-CARDINAL
-500 I-CARDINAL
+3 O
+, O
+500 O
 مطالبة O
 عن O
 أضرار O
@@ -51766,11 +51766,11 @@ R44759 O
 الانضمام O
 إلى O
 "" O
-البروتوكول B-EVENT
-الاختياري I-EVENT
-لاتفاقية I-EVENT
-مناهضة I-EVENT
-التعذيب I-EVENT
+البروتوكول O
+الاختياري O
+لاتفاقية O
+مناهضة O
+التعذيب O
 "" O
 . O
 , O
@@ -51785,8 +51785,8 @@ R44759 O
 والإبادة O
 الجماعية O
 إلى O
-قانون B-LAW
-العقوبات I-LAW
+قانون O
+العقوبات O
 ، O
 بما O
 يشمل O
@@ -51949,7 +51949,7 @@ R44759 O
 تحديا O
 وفرصة O
 في O
-الآن B-TIME
+الآن O
 ذاته O
 للدبلوماسية O
 الجزائرية O
@@ -51979,7 +51979,7 @@ R44759 O
 مستمرا O
 . O
 [ O
-16 B-ORDINAL
+16 O
 ] O
 , O
 
@@ -52050,7 +52050,7 @@ R44759 O
 حدودها O
 الطويلة O
 مع O
-ست B-CARDINAL
+ست O
 دول O
 ، O
 وهي O
@@ -52171,7 +52171,7 @@ R44759 O
 لم O
 يصدر O
 حتى O
-الآن B-TIME
+الآن O
 ، O
 , O
 
@@ -52204,8 +52204,8 @@ R44759 O
 مرورًا O
 بتحملها O
 سداد O
-40 B-PERCENT
-% I-PERCENT
+40 O
+% O
 من O
 مصاريف O
 العضوية O
@@ -52214,7 +52214,7 @@ R44759 O
 الخاصة O
 بها O
 [ O
-8 B-ORDINAL
+8 O
 ] O
 الأمر O
 الذي O
@@ -52231,7 +52231,7 @@ R44759 O
 الإيكواس B-ORG
 . O
 [ O
-9 B-ORDINAL
+9 O
 ] O
 , O
 
@@ -52334,7 +52334,7 @@ R44759 O
 المنطقة O
 . O
 [ O
-13 B-ORDINAL
+13 O
 ] O
 , O
 
@@ -52359,17 +52359,17 @@ R44759 O
 التوافق O
 القانوني O
 بين O
-معاهدة B-EVENT
-كوتونو I-EVENT
+معاهدة O
+كوتونو O
 عام B-DATE
 1993 I-DATE
 ( O
 النسخة O
 المحدثة O
 من O
-معاهدة B-EVENT
-لاغوس I-EVENT
-الأصلية I-EVENT
+معاهدة O
+لاغوس O
+الأصلية O
 ) O
 وبروتوكول O
 الجماعة O
@@ -52430,17 +52430,17 @@ R44759 O
 المغرب B-GPE
 تُمثل O
 نسبة O
-3 B-PERCENT
-. I-PERCENT
-8 I-PERCENT
-% I-PERCENT
+3 O
+. O
+8 O
+% O
 فقط O
 من O
 تكتل O
 إجمالي O
 الواردات O
 [ O
-31 B-ORDINAL
+31 O
 ] O
 مما O
 يعني O
@@ -52484,7 +52484,7 @@ R44759 O
 الاتحاد B-ORG
 الإفريقي I-ORG
 [ O
-32 B-ORDINAL
+32 O
 ] O
 . O
 , O
@@ -52580,8 +52580,8 @@ R44759 O
 ، O
 لايزال O
 لدى O
-59 B-PERCENT
-بالمائة I-PERCENT
+59 O
+بالمائة O
 من O
 المستجوبين B-NORP
 نظرة O
@@ -52612,7 +52612,7 @@ R44759 O
 خلفية O
 اتّهامه O
 لهذه O
-الأخيرة B-ORDINAL
+الأخيرة O
 بتوفير O
 الدعم O
 العسكري O
@@ -52628,9 +52628,9 @@ R44759 O
 الله I-ORG
 اللبناني I-ORG
 وعبر O
-سفارة B-FAC
-إيران I-FAC
-بالجزائر I-FAC
+سفارة O
+إيران O
+بالجزائر O
 , O
 
 فلقد O
@@ -52645,7 +52645,7 @@ R44759 O
 منذ O
 سنة O
 [ O
-5 B-ORDINAL
+5 O
 ] O
 2009 B-DATE
 , O
@@ -52663,9 +52663,9 @@ R44759 O
 بخصوص O
 موقفه O
 من O
-النزاع B-EVENT
-على I-EVENT
-الصحراء I-EVENT
+النزاع O
+على O
+الصحراء O
 ، O
 ويريد O
 في O
@@ -52674,8 +52674,8 @@ R44759 O
 البقاء O
 محايدا O
 بخصوص O
-الأزمة B-EVENT
-الخليجية I-EVENT
+الأزمة O
+الخليجية O
 التي O
 تجسّدت O
 في O
@@ -52740,7 +52740,7 @@ Breitbart B-ORG
 السنة B-DATE
 الماضية I-DATE
 [ O
-10 B-ORDINAL
+10 O
 ] O
 ، O
 وهي O
@@ -52792,7 +52792,7 @@ Breitbart B-ORG
 فوكس I-ORG
 ” I-ORG
 [ O
-11 B-ORDINAL
+11 O
 ] O
 الأمريكية O
 أن O
@@ -52802,7 +52802,7 @@ Breitbart B-ORG
 تزامنت O
 مع O
 التهديدات O
-الأخيرة B-ORDINAL
+الأخيرة O
 لجبهة B-ORG
 البوليزاريو I-ORG
 التي O
@@ -52847,13 +52847,13 @@ Breitbart B-ORG
 موضوع O
 الصحراء O
 [ O
-17 B-ORDINAL
+17 O
 ] O
 : O
 , O
 
 هذه O
-الأخيرة B-ORDINAL
+الأخيرة O
 كانت O
 إلى O
 جانب O
@@ -52870,8 +52870,8 @@ Breitbart B-ORG
 لكي O
 تنسحب O
 من O
-الاتفاق B-EVENT
-النووي I-EVENT
+الاتفاق O
+النووي O
 مع O
 إيران B-GPE
 ، O
@@ -52899,9 +52899,9 @@ Breitbart B-ORG
 بتحالف O
 السعودية B-ORG
 في O
-الحرب B-EVENT
-على I-EVENT
-اليمن I-EVENT
+الحرب O
+على O
+اليمن O
 ، O
 , O
 
@@ -53011,8 +53011,8 @@ Breitbart B-ORG
 ، O
 قد O
 أجرى O
-صباح B-TIME
-اليوم I-TIME
+صباح O
+اليوم O
 مباحثات O
 مع O
 رئيس B-OCC
@@ -53255,7 +53255,7 @@ Breitbart B-ORG
 المالية O
 رقم O
 ( O
-9 B-ORDINAL
+9 O
 ) O
 والمتعلق O
 بالأدوات O
@@ -53282,7 +53282,7 @@ Breitbart B-ORG
 الدولي O
 رقم O
 ( O
-39 B-ORDINAL
+39 O
 ) O
 . O
 , O
@@ -53319,11 +53319,11 @@ IFC B-ORG
 فلسطين B-GPE
 معتبراً O
 أن O
-توقيع B-EVENT
-مذكرة I-EVENT
-تجديد I-EVENT
-التعاون I-EVENT
-المشترك I-EVENT
+توقيع O
+مذكرة O
+تجديد O
+التعاون O
+المشترك O
 يأتي O
 في O
 سياق O
@@ -53599,11 +53599,11 @@ Scorecard O
 المال I-ORG
 الفلسطينية I-ORG
 فعاليات O
-أسبوع B-EVENT
-المستثمر I-EVENT
-العالمي I-EVENT
-في I-EVENT
-فلسطين I-EVENT
+أسبوع O
+المستثمر O
+العالمي O
+في O
+فلسطين O
 أول B-DATE
 أمس I-DATE
 الاحد I-DATE
@@ -53652,7 +53652,7 @@ IOSCO B-ORG
 جانب O
 ما O
 يقارب O
-81 B-CARDINAL
+81 O
 دولة O
 حول O
 العالم O
@@ -53683,9 +53683,9 @@ IOSCO B-ORG
 2017 I-DATE
 فعاليات O
 "" O
-أسبوع B-EVENT
-المستثمر I-EVENT
-العالمي I-EVENT
+أسبوع O
+المستثمر O
+العالمي O
 "" O
 في O
 فلسطين B-GPE
@@ -53734,7 +53734,7 @@ IOSCO B-ORG
 جانب O
 ما O
 يقارب O
-73 B-CARDINAL
+73 O
 دولة O
 حول O
 العالم O
@@ -53783,11 +53783,11 @@ IOSCO B-ORG
 بمناسبة O
 إطلاق O
 فعاليات O
-أسبوع B-EVENT
-المستثمر I-EVENT
-العالمي I-EVENT
-في I-EVENT
-فلسطين I-EVENT
+أسبوع O
+المستثمر O
+العالمي O
+في O
+فلسطين O
 على O
 أهمية O
 مشاركة O
@@ -53798,7 +53798,7 @@ IOSCO B-ORG
 التي O
 تنفذ O
 للمرة O
-الأولى B-ORDINAL
+الأولى O
 على O
 هذا O
 المستوى O
@@ -53943,7 +53943,7 @@ IOSCO B-ORG
 التمويلي I-ORG
 المكون O
 من O
-13 B-CARDINAL
+13 O
 شركة O
 حالياً O
 يعد O
@@ -54170,7 +54170,7 @@ IOSCO B-ORG
 فلسطين I-ORG
 تعقد O
 اجتماعها O
-الثالث B-ORDINAL
+الثالث O
 , O
 
 ويذكر O
@@ -54188,7 +54188,7 @@ TOT O
 مؤخراً O
 هو O
 البرنامج O
-الثاني B-ORDINAL
+الثاني O
 الذي O
 يعقد O
 بالتعاون O
@@ -54259,8 +54259,8 @@ TOT O
 في O
 البرنامج O
 التدريبي O
-الثاني B-ORDINAL
-22 B-CARDINAL
+الثاني O
+22 O
 مشارك O
 ومشاركة O
 . O
@@ -54269,12 +54269,12 @@ TOT O
 وعقدت O
 الورشة O
 في O
-فندق B-FAC
-الجراند I-FAC
-بارك I-FAC
-بمدينة I-FAC
-رام I-FAC
-الله I-FAC
+فندق O
+الجراند O
+بارك O
+بمدينة O
+رام O
+الله O
 ، O
 وبحضور O
 الشركاء B-NORP
@@ -54366,7 +54366,7 @@ TOT O
 مستشار B-OCC
 مالي I-OCC
 هو O
-الاول B-ORDINAL
+الاول O
 من O
 نوعه O
 في O
@@ -54504,7 +54504,7 @@ TOT O
 واستفساراتهم O
 في O
 القسم O
-الأخير B-ORDINAL
+الأخير O
 من O
 اللقاءات O
 ، O
@@ -55415,7 +55415,7 @@ IOSCO B-ORG
 المالية I-ORG
 بصفته O
 المسؤول O
-الأول B-ORDINAL
+الأول O
 أمام O
 الهيئة B-ORG
 عن O
@@ -55475,9 +55475,9 @@ IOSCO B-ORG
 المالي O
 هما O
 السوق O
-الأول B-ORDINAL
+الأول O
 والسوق O
-الثاني B-ORDINAL
+الثاني O
 وزيادة O
 هامش O
 تذبذب O
@@ -55500,11 +55500,11 @@ IOSCO B-ORG
 التداول O
 اليومي B-DATE
 لتصبح O
-ثلاثة B-TIME
-ساعات I-TIME
+ثلاثة O
+ساعات O
 بدلاً O
 من O
-ساعتين B-TIME
+ساعتين O
 . O
 , O
 
@@ -55660,17 +55660,17 @@ IFC B-ORG
 , O
 
 ويأتي O
-اطلاق B-EVENT
-شهادة I-EVENT
-"" I-EVENT
-قطاع I-EVENT
-الأوراق I-EVENT
-المالية I-EVENT
-الفلسطيني I-EVENT
-، I-EVENT
-القواعد I-EVENT
-والأنظمة I-EVENT
-"" I-EVENT
+اطلاق O
+شهادة O
+"" O
+قطاع O
+الأوراق O
+المالية O
+الفلسطيني O
+، O
+القواعد O
+والأنظمة O
+"" O
 نتيجة O
 لثمرة O
 التعاون O
@@ -56060,9 +56060,9 @@ IFC B-ORG
 اجتماعه O
 رقم O
 ( O
-14 B-ORDINAL
-/ I-ORDINAL
-2012 I-ORDINAL
+14 O
+/ O
+2012 O
 ) O
 المنعقد O
 بتاريخ B-DATE
@@ -56096,7 +56096,7 @@ IFC B-ORG
 المدرجة O
 تتمثل O
 في O
-أربعة B-CARDINAL
+أربعة O
 محاور O
 وذلك O
 على O
@@ -56106,7 +56106,7 @@ IFC B-ORG
 , O
 
 المحور O
-الثالث B-ORDINAL
+الثالث O
 : O
 أسماء O
 اللجان O
@@ -56128,7 +56128,7 @@ IFC B-ORG
 , O
 
 المحور O
-الرابع B-ORDINAL
+الرابع O
 : O
 ضرورة O
 قيام O
@@ -56209,7 +56209,7 @@ IFC B-ORG
 
 وتشمل O
 المرحلة O
-الاولى B-ORDINAL
+الاولى O
 من O
 الاتفاقية O
 التي O
@@ -56272,7 +56272,7 @@ CISI I-ORG
 الشهادة O
 متوفرة O
 باللغة O
-العربية B-LANGUAGE
+العربية O
 وبإمكان O
 المتقدم O
 التحضير O
@@ -56372,8 +56372,8 @@ CISI I-ORG
 دوتشيه B-ORG
 بنك I-ORG
 ) O
-بالدولار B-CURR
-الأمريكي I-CURR
+بالدولار O
+الأمريكي O
 أو O
 أي O
 من O
@@ -56471,7 +56471,7 @@ CISI I-ORG
 عقوبة O
 من O
 الدرجة O
-الأولى B-ORDINAL
+الأولى O
 على O
 شركة B-ORG
 سجاير I-ORG
@@ -56480,7 +56480,7 @@ CISI I-ORG
 لأحكام O
 المادة O
 ( O
-11 B-ORDINAL
+11 O
 ) O
 من O
 نظام O
@@ -56507,7 +56507,7 @@ CISI I-ORG
 أحكام O
 المادة O
 ( O
-90 B-ORDINAL
+90 O
 ) O
 من O
 قانون O
@@ -56515,7 +56515,7 @@ CISI I-ORG
 المالية O
 رقم O
 ( O
-12 B-ORDINAL
+12 O
 ) O
 لسنة B-DATE
 2004 I-DATE
@@ -56568,14 +56568,14 @@ CISI I-ORG
 , O
 , O
 
-3 B-ORDINAL
+3 O
 . O
 أحكام O
 المادة O
 ( O
-88 B-ORDINAL
-/ I-ORDINAL
-3 I-ORDINAL
+88 O
+/ O
+3 O
 ) O
 من O
 قانون O
@@ -56583,7 +56583,7 @@ CISI I-ORG
 المالية O
 رقم O
 ( O
-12 B-ORDINAL
+12 O
 ) O
 لسنة B-DATE
 2004 I-DATE
@@ -56624,7 +56624,7 @@ CISI I-ORG
 وتعد O
 هذه O
 الورشة O
-الرابعة B-ORDINAL
+الرابعة O
 التي O
 تعقدها O
 الهيئة B-ORG
@@ -56862,11 +56862,11 @@ CISI I-ORG
 ضمن O
 برنامج O
 "" O
-يوم B-EVENT
-الهيئة I-EVENT
-في I-EVENT
-الجامعات I-EVENT
-الفلسطينية I-EVENT
+يوم O
+الهيئة O
+في O
+الجامعات O
+الفلسطينية O
 "" O
 عقدت O
 هيئة B-ORG
@@ -56895,7 +56895,7 @@ CISI I-ORG
 وتعد O
 هذه O
 الورشة O
-الثانية B-ORDINAL
+الثانية O
 خلال B-DATE
 الأسبوع I-DATE
 الماضي I-DATE
@@ -56924,7 +56924,7 @@ CISI I-ORG
 خلال B-DATE
 الشهريين I-DATE
 الأخيرين I-DATE
-ست B-CARDINAL
+ست O
 جامعات O
 محلية O
 هي O
@@ -56968,10 +56968,10 @@ CISI I-ORG
 الهيئة B-ORG
 مؤخرا O
 "" O
-يوم B-EVENT
-الهيئة I-EVENT
-في I-EVENT
-الجامعات I-EVENT
+يوم O
+الهيئة O
+في O
+الجامعات O
 "" O
 والذي O
 يهدف O
@@ -57069,12 +57069,12 @@ CISI I-ORG
 الطلبة B-NORP
 خلال O
 القسم O
-الأخير B-ORDINAL
+الأخير O
 من O
 الورشة O
 التي O
 استمرت O
-لساعتين B-TIME
+لساعتين O
 . O
 , O
 
@@ -57301,7 +57301,7 @@ CISI I-ORG
 إلا O
 انه O
 السوق O
-الأولى B-ORDINAL
+الأولى O
 في O
 المنطقة O
 من O
@@ -57374,7 +57374,7 @@ CISI I-ORG
 للتداول O
 أفضل O
 من O
-الأول B-ORDINAL
+الأول O
 ، O
 فحينما O
 يتحول O
@@ -57430,7 +57430,7 @@ CISI I-ORG
 والتحويل O
 من O
 جهة O
-ثانية B-ORDINAL
+ثانية O
 . O
 , O
 
@@ -57445,14 +57445,14 @@ CISI I-ORG
 يجري O
 الحديث O
 عنها O
-حاليا B-TIME
+حاليا O
 هي O
 اقل O
 من O
 الفوائد O
 المعمول O
 بها O
-حاليا B-TIME
+حاليا O
 في O
 فلسطين B-GPE
 ، O
@@ -57699,7 +57699,7 @@ CISI I-ORG
 . O
 , O
 
-5 B-ORDINAL
+5 O
 . O
 الحالات O
 التي O
@@ -57782,7 +57782,7 @@ CISI I-ORG
 المالية O
 رقم O
 ( O
-18 B-ORDINAL
+18 O
 ) O
 لسنة B-DATE
 2009 I-DATE
@@ -57830,10 +57830,10 @@ CISI I-ORG
 , O
 , O
 
-معرض B-EVENT
-المال I-EVENT
-والأعمال I-EVENT
-الأول I-EVENT
+معرض O
+المال O
+والأعمال O
+الأول O
 , O
 
 تم O
@@ -57885,11 +57885,11 @@ CISI I-ORG
 فلسطين B-GPE
 من O
 خلال O
-مؤتمر B-EVENT
-دول I-EVENT
-وسط I-EVENT
-وشرق I-EVENT
-أوروبا I-EVENT
+مؤتمر O
+دول O
+وسط O
+وشرق O
+أوروبا O
 والخاص O
 بأنظمة O
 التقاعد O
@@ -57929,41 +57929,41 @@ CISI I-ORG
 . I-OCC
 علاونة B-PERS
 في O
-اجتماع B-EVENT
-اللجنة I-EVENT
-الفنية I-EVENT
-للمنظمة I-EVENT
-الدولية I-EVENT
-للهيئات I-EVENT
-المشرفة I-EVENT
-على I-EVENT
-تقاعد I-EVENT
-القطاع I-EVENT
-الخاص I-EVENT
+اجتماع O
+اللجنة O
+الفنية O
+للمنظمة O
+الدولية O
+للهيئات O
+المشرفة O
+على O
+تقاعد O
+القطاع O
+الخاص O
 ، O
 إضافة O
 إلى O
 المشاركة O
 في O
-الاجتماع B-EVENT
-المشترك I-EVENT
-لمنظمة I-EVENT
-الاتحاد I-EVENT
-الأوروبي I-EVENT
-للتعاون I-EVENT
-والتنمية I-EVENT
-والمنظمة I-EVENT
-الدولية I-EVENT
-للهيئات I-EVENT
-المشرفة I-EVENT
-على I-EVENT
-تقاعد I-EVENT
-القطاع I-EVENT
-الخاص I-EVENT
+الاجتماع O
+المشترك O
+لمنظمة O
+الاتحاد O
+الأوروبي O
+للتعاون O
+والتنمية O
+والمنظمة O
+الدولية O
+للهيئات O
+المشرفة O
+على O
+تقاعد O
+القطاع O
+الخاص O
 . O
 , O
 
-4 B-ORDINAL
+4 O
 . O
 Dr B-OCC
 . I-OCC
@@ -57979,7 +57979,7 @@ Banking I-OCC
 Institute I-OCC
 , O
 
-6 B-ORDINAL
+6 O
 . O
 Dr B-OCC
 . I-OCC
@@ -58010,7 +58010,7 @@ Directors I-ORG
 المسودة O
 النهائية O
 يرجى O
-12 B-ORDINAL
+12 O
 . O
 pdfإضغط O
 هنا O
@@ -58040,7 +58040,7 @@ Steindl I-PERS
 المسودة O
 رقم O
 "" O
-4 B-ORDINAL
+4 O
 "" O
 ، O
 وشكر O
@@ -58074,7 +58074,7 @@ IFC B-ORG
 ترجمة O
 المدونة O
 باللغة O
-الانجليزية B-LANGUAGE
+الانجليزية O
 ، O
 وتمويل O
 جزئي O
@@ -58289,7 +58289,7 @@ IFC B-ORG
 عقدت O
 ورشة O
 العمل O
-الأولى B-ORDINAL
+الأولى O
 في O
 مدينة B-GPE
 الخليل I-GPE
@@ -58455,7 +58455,7 @@ IFC B-ORG
 مسودة O
 المدونة O
 إعتمدت O
-ستة B-CARDINAL
+ستة O
 مبادئ O
 أساسية O
 وتشمل O
@@ -58476,7 +58476,7 @@ IFC B-ORG
 و O
 الشفافية O
 ، O
-وأخيرا B-ORDINAL
+وأخيرا O
 أصحاب B-NORP
 المصالح I-NORP
 الآخرين O
@@ -58502,7 +58502,7 @@ IFC B-ORG
 هذه O
 المدونة O
 تضم O
-ثلاث B-CARDINAL
+ثلاث O
 أنواع O
 من O
 القواعد O
@@ -58510,7 +58510,7 @@ IFC B-ORG
 حيث O
 يشمل O
 النوع O
-الأول B-ORDINAL
+الأول O
 قواعد O
 تستند O
 إلى O
@@ -58579,7 +58579,7 @@ IFC B-ORG
 . O
 أما O
 النوع O
-الثالث B-ORDINAL
+الثالث O
 من O
 القواعد O
 فهي O
@@ -58622,7 +58622,7 @@ IFC B-ORG
 هذه O
 الورشة O
 تعتبر O
-الأولى B-ORDINAL
+الأولى O
 ضمن O
 سلسلة O
 ورشات O
@@ -58859,8 +58859,8 @@ IID B-ORG
 الشركة B-ORG
 وممتلكاتها O
 في O
-مجمع B-FAC
-نابلس I-FAC
+مجمع O
+نابلس O
 – O
 مول O
 وقراره O
@@ -58882,16 +58882,16 @@ IID B-ORG
 2008 I-DATE
 ارتفاعاً O
 بنسبة O
-0 B-PERCENT
-. I-PERCENT
-93 I-PERCENT
-% I-PERCENT
+0 O
+. O
+93 O
+% O
 ليضيف O
 إلى O
 قيمته O
-6 B-CARDINAL
-. I-CARDINAL
-43 I-CARDINAL
+6 O
+. O
+43 O
 نقطة O
 بعد O
 أن O
@@ -58907,9 +58907,9 @@ IID B-ORG
 عند O
 مستوى O
 "" O
-697 B-CARDINAL
-. I-CARDINAL
-24 I-CARDINAL
+697 O
+. O
+24 O
 "" O
 نقطة O
 , O
@@ -58923,15 +58923,15 @@ IID B-ORG
 عند O
 مستوى O
 "" O
-690 B-CARDINAL
-. I-CARDINAL
-81 I-CARDINAL
+690 O
+. O
+81 O
 "" O
 نقطة O
 . O
 , O
 
-3 B-ORDINAL
+3 O
 - O
 السماح O
 للمستثمرين B-NORP
