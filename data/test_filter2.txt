@@ -8903,8 +8903,8 @@ MI6	B-ORG
 المباشرة	O
 ،	O
 مثل	O
-قذائف	B-PRODUCT
-الهاون	I-PRODUCT
+قذائف	O
+الهاون	O
 والمدفعية	O
 والصواريخ	O
 والأسلحة	O
@@ -62670,11 +62670,11 @@ ps	I-WEBSITE
 وهي	O
 بيئة	O
 (	O
-Microsoft	B-PRODUCT
-Office	I-PRODUCT
-SharePoint	I-PRODUCT
-Server	I-PRODUCT
-2010	I-PRODUCT
+Microsoft	O
+Office	O
+SharePoint	O
+Server	O
+2010	O
 )	O
 والتي	O
 تم	O
